@@ -3,9 +3,10 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <style>
-            th {
-color: var(--text);
-            }
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
 code[class*="language-"],
 pre[class*="language-"] {
   color: #333;
@@ -367,7 +368,16 @@ img {
   padding-top: 7px !important;
 }
 th {
-  color: #e4cbb3;
+  color: #e4cbb3 !important;
+}
+button {
+  color: var(--text);
+  background-color: var(--ui) !important;
+  border: 0px !important;
+  padding: 0.69em;
+}
+button:hover {
+  background-color: var(--onclick) !important;
 }
 /*--------Custom classes for markdown--------*/
 .notes-heading {
@@ -375,6 +385,40 @@ th {
   font-size: 40px !important;
   padding-bottom: 55px !important;
   padding-top: 3px !important;
+}
+.spoiler {
+  background-color: var(--header) !important;
+  color: var(--header) !important;
+  border-radius: 0.5em;
+  padding: 10px;
+}
+.spoiler:hover {
+  background-color: var(--background-alt) !important;
+  color: var(--highlight) !important;
+  transition: 600ms;
+  transition-delay: 175ms;
+}
+.WARNING {
+  text-align: center !important;
+  color: var(--visited) !important;
+  background-color: var(--background-alt);
+  padding: 10px;
+  padding-bottom: 14px;
+  border: 5px dashed var(--visited) !important;
+  border-radius: 0.5em !important;
+}
+.WARNING::before {
+  content: "!";
+  color: var(--visited);
+  font-size: 1.9em;
+}
+.WARNING::after {
+  content: "!";
+  color: var(--visited);
+  font-size: 1.5em;
+}
+.gone {
+  display: none !important;
 }
 
       </style>
@@ -396,23 +440,55 @@ th {
 </thead>
 <tbody>
 <tr>
+<td style="text-align:left">Baccano! (B!)</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+</td>
+</tr>
+<tr>
 <td style="text-align:left">Cells at Work (CAW)</td>
 <td style="text-align:center">12/21</td>
-<td style="text-align:center">2</td>
+<td style="text-align:center">1/2</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">x</td>
 <td style="text-align:left">Gotta rewatch</td>
 </tr>
 <tr>
-<td style="text-align:left">Dr. Stone (DS)</td>
-<td style="text-align:center">0/35</td>
-<td style="text-align:center">2</td>
+<td style="text-align:left">Charlotte</td>
+<td style="text-align:center">0/13</td>
+<td style="text-align:center">0/1</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">x</td>
 <td style="text-align:left">+</td>
 </tr>
 <tr>
-<td style="text-align:left">Fairy tail</td>
+<td style="text-align:left">Code Geass (CG)</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+</td>
+</tr>
+<tr>
+<td style="text-align:left">Cowboy Bebop (CB)</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+</td>
+</tr>
+<tr>
+<td style="text-align:left">Evangelion</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+, very popular</td>
+</tr>
+<tr>
+<td style="text-align:left">Fairy tail (FT)</td>
 <td style="text-align:center">50/328</td>
 <td style="text-align:center">1/9</td>
 <td style="text-align:center">?</td>
@@ -430,34 +506,106 @@ th {
 <tr>
 <td style="text-align:left">Gakuen Babysitters (GB)</td>
 <td style="text-align:center">1/12</td>
-<td style="text-align:center">1</td>
+<td style="text-align:center">0/1</td>
 <td style="text-align:center">0/2</td>
 <td style="text-align:center">x</td>
 <td style="text-align:left">Cute people</td>
 </tr>
 <tr>
+<td style="text-align:left">Godzilla Singular Point (GSP)</td>
+<td style="text-align:center">0/?</td>
+<td style="text-align:center">0/?</td>
+<td style="text-align:center">0/?</td>
+<td style="text-align:center">?</td>
+<td style="text-align:left">+</td>
+</tr>
+<tr>
+<td style="text-align:left">Gurren Lagann (GL)</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+</td>
+</tr>
+<tr>
 <td style="text-align:left">Mob Psycho 100 (MP100)</td>
+<td style="text-align:center">0/25</td>
 <td style="text-align:center">0/2</td>
-<td style="text-align:center">2</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">x</td>
+<td style="text-align:left">++</td>
+</tr>
+<tr>
+<td style="text-align:left">Parasyte</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">++</td>
+</tr>
+<tr>
+<td style="text-align:left">Penguindrum</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+</td>
+</tr>
+<tr>
+<td style="text-align:left">Re:Zero</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+++, thought it was romance but apparently isn&#x2019;t</td>
+</tr>
+<tr>
+<td style="text-align:left">Samurai Champloo (SC)</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+</td>
+</tr>
+<tr>
+<td style="text-align:left">Steins;Gate (SG)</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
 <td style="text-align:left">+</td>
 </tr>
 <tr>
 <td style="text-align:left">Tokyo Ghoul (TG)</td>
 <td style="text-align:center">12/48</td>
-<td style="text-align:center">4</td>
+<td style="text-align:center">0/4</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">x</td>
 <td style="text-align:left">DNF, will read manga instead</td>
 </tr>
 <tr>
+<td style="text-align:left">Violet Evergarden (VE)</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+</td>
+</tr>
+<tr>
+<td style="text-align:left">Yona of the Dawn (YOTD)</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+++</td>
+</tr>
+<tr>
 <td style="text-align:left">Your Name (YN)</td>
 <td style="text-align:center">0</td>
-<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
 <td style="text-align:center">0/1</td>
 <td style="text-align:center">x</td>
-<td style="text-align:left"></td>
+<td style="text-align:left">+</td>
 </tr>
 </tbody>
 </table>
@@ -516,7 +664,23 @@ th {
 <td style="text-align:left">PG, overrated</td>
 </tr>
 <tr>
-<td style="text-align:left">Hunter &#xD7; Hunter 2011 (HxH)</td>
+<td style="text-align:left">Dr. Stone (DS)</td>
+<td style="text-align:center">35/35</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">x</td>
+<td style="text-align:left">NO, +, cool concept but dr misogynistone &amp; trash fans</td>
+</tr>
+<tr>
+<td style="text-align:left">ERASED</td>
+<td style="text-align:center">10/12</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">x</td>
+<td style="text-align:left">PG, ++, spooky with a trash ending</td>
+</tr>
+<tr>
+<td style="text-align:left">Hunter &#xD7; Hunter (HxH)</td>
 <td style="text-align:center">148/148</td>
 <td style="text-align:center">1</td>
 <td style="text-align:center">2/2</td>
@@ -548,6 +712,14 @@ th {
 <td style="text-align:left">VG, cute and wholesome</td>
 </tr>
 <tr>
+<td style="text-align:left">Sk8 the Infinity (SK8)</td>
+<td style="text-align:center">12/12</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">x</td>
+<td style="text-align:left">PG, queerbait smh</td>
+</tr>
+<tr>
 <td style="text-align:left">Spirited Away (SA)</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">0</td>
@@ -569,7 +741,7 @@ th {
 <td style="text-align:center">1</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">v</td>
-<td style="text-align:left">VG, Very dark, 29/6 come faster &#x1F62D;</td>
+<td style="text-align:left">PG, Very dark, 29/6 come faster &#x1F62D;</td>
 </tr>
 <tr>
 <td style="text-align:left">Yuri on Ice (YOI)</td>
@@ -606,16 +778,28 @@ th {
 <td style="text-align:left">People say it&#x2019;s good</td>
 </tr>
 <tr>
+<td style="text-align:left">Bokurano</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left">+, BIG SPOOPY</td>
+</tr>
+<tr>
 <td style="text-align:left">Bungou Stray Dogs (BSD)</td>
 <td style="text-align:center">35/91</td>
 <td style="text-align:center">v</td>
-<td style="text-align:left">VG</td>
+<td style="text-align:left">VG so far</td>
 </tr>
 <tr>
 <td style="text-align:left">Deathnote (DT)</td>
 <td style="text-align:center">65/110</td>
 <td style="text-align:center">x</td>
-<td style="text-align:left">VG</td>
+<td style="text-align:left">VG so far</td>
+</tr>
+<tr>
+<td style="text-align:left">Goodnight Punpun (GP)</td>
+<td style="text-align:center">0/147</td>
+<td style="text-align:center">x</td>
+<td style="text-align:left">+, BIG SPOOPY</td>
 </tr>
 <tr>
 <td style="text-align:left">Solo Levelling (SL)</td>
@@ -627,7 +811,7 @@ th {
 <td style="text-align:left">Tokyo Ghoul:Re (TG:RE)</td>
 <td style="text-align:center">61/179</td>
 <td style="text-align:center">x</td>
-<td style="text-align:left">Writing kinda shit compared to previous TG</td>
+<td style="text-align:left">writing kinda shit compared to previous TG</td>
 </tr>
 <tr>
 <td style="text-align:left">Vagabond</td>
@@ -659,7 +843,7 @@ th {
 <td style="text-align:left">Chainsaw Man (CSM)</td>
 <td style="text-align:center">97/97</td>
 <td style="text-align:center">x</td>
-<td style="text-align:left">G, ++ Unclear ending, too rushed, gun/denji training is too short</td>
+<td style="text-align:left">PG, ++ Unclear ending, too rushed, gun/denji training is too short</td>
 </tr>
 <tr>
 <td style="text-align:left">Fire Punch (FP)</td>
@@ -671,7 +855,7 @@ th {
 <td style="text-align:left">Tokyo Ghoul (TG)</td>
 <td style="text-align:center">143/143</td>
 <td style="text-align:center">x</td>
-<td style="text-align:left">VG, Juuzou is amazing, Arima sucks</td>
+<td style="text-align:left">VG, Juuzou is an amazing character and Arima is bad</td>
 </tr>
 <tr>
 <td style="text-align:left">Tokyo Ghoul Jack (TGJ)</td>
@@ -697,6 +881,40 @@ th {
 <p>Ryuk</p>
 </blockquote>
 </details>
+<details><summary> Dr. Stone </summary>
+<blockquote>
+<p>&#x201C;The greatest invention in human history-&#x201D; - Senku<br>
+&#x201C;Smartphones?!&#x201D; - Taiju<br>
+&#x201C;You sure love your smartphone. No, guns.&#x201D; - Senku</p>
+<p>Senku and Taiju, EP 3</p>
+<details> <summary> Context </summary> They are in search of a weapon to kill Tsukasa. </details>
+</blockquote>
+<blockquote>
+<p>&#x201C;Listen up, Suika. You&#x2019;re nearsighted as hell.&#x201D;</p>
+<p>Senku, EP 11</p>
+<details> <summary> Context </summary> Making glass and removing the watermelon from Suika&apos;s head. </details>
+</blockquote>
+<blockquote>
+<p>&#x201C;Don&#x2019;t worry, the rest of the chemicals are harmless&#x2026; let&#x2019;s go get some ammonia!&#x201D;</p>
+<p>Senku, EP 13</p>
+<details> <summary> Context </summary> Kohaku gets angry that they&apos;re using so many dangerous chemicals. </details>
+</blockquote>
+<blockquote>
+<p>&#x201C;What are you doing with that mouse, Senku?&#x201D; - Gen<br>
+&#x201C;Are we eating it?&#x201D; - Kohaku<br>
+&#x201C;Dah-uh, I like how that&#x2019;s the first thing that comes to your mind.&#x201D; - Gen</p>
+<p>Gen and Kohaku, EP 15</p>
+<details> <summary> Context </summary> Senku finds a suspicious dead mouse and is doing experiments on it. </details>
+</blockquote>
+</details>
+<details><summary> ERASED </summary>
+<blockquote>
+<p>&#x201C;Don&#x2019;t eat the pizza on the way there, okay?&#x201D; - Airi<br>
+&#x201C;I don&#x2019;t get it, is that a joke only millenials would get?&#x201D; - Satoru</p>
+<p>Airi and Satoru, EP 1</p>
+<details> <summary> Context </summary> Satoru goes to deliver a pizza. </details>
+</blockquote>
+</details>
 <details> <summary> Wisper of the Heart </summary>
 <blockquote>
 <p>&#x201C;By the way, great lyrics! They&#x2019;re even cornier than the original!&#x201D;</p>
@@ -704,11 +922,19 @@ th {
 <details> <summary>Context</summary>Blue guy reads the lyrics of the song Shizuku is writing when she forgets her book.</details>
 </blockquote>
 </details>
+<details><summary> Mob Psycho 100 </summary>
+<blockquote>
+<p>&#x201C;You&#x2019;re missing out on life!&#x201D; - Dimple<br>
+&#x201C;My dad said that people who&#x2019;ve never smoked before are missing out on half of their lives. It made me realize that everyone has a different idea of missing out&#x201D; - Mob</p>
+<p>Mob and Dimple, EP 3</p>
+<details> <summary> Context </summary> Mob and his classmate get duped into joining a creepy cult. </details>
+</blockquote>
+ </details>
 <details> <summary> JoJo&apos;s Bizarre Adventures </summary>
 <blockquote>
 <p>&#x201C;Would it kill you to use the door?&#x201D;</p>
 <p>Dio, EP 68</p>
-<details> <summary>Context</summary>Talking to Vanilla Ice after he breaks the door on his way out.</details>
+<details> <summary> Context </summary> Talking to Vanilla Ice after he breaks the door on his way out. </details>
 </blockquote>
 <blockquote>
 <p>&#x201C;That&#x2019;s fuckin&#x2019; genius! You&#x2019;re so smart, Josuke!&#x201D; - Okuyasu<br>
@@ -791,11 +1017,12 @@ th {
 <details> <summary> Coco, Richeh and Tetia, Chapter 34 </summary> <img src="https://i.imgur.com/Za36Xuy.png"> </details>
 </blockquote>
 </details>
-<h2 class="mume-header" id="pretty-manga-panels">Pretty Manga Panels</h2>
+<h2 class="mume-header" id="pretty-scenes">Pretty Scenes</h2>
 
 <details> <summary> Qifrey&apos;s Aterlier, Witch Hat Atelier, Chapter 2 </summary> <img src="https://i.imgur.com/R3pzvbf.png/"> </details>
 <details> <summary> Dadah Range, Witch Hat Atelier, Chapter 4 </summary> <img src="https://i.imgur.com/IPOm3M5.png/"> </details>
 <details> <summary> Juuzou&apos;s Hands, Tokyo Ghoul, Chapter 49 </summary> <img src="https://i.imgur.com/3ulITiI.png"> </details>
+<details><summary> Skarn Deposit, Dr. Stone </summary> <img src="..\Random\Manga\skarn-deposit.png/"> </details>
 <h2 class="mume-header" id="legend">Legend</h2>
 
 <table>
@@ -852,5 +1079,34 @@ th {
 </tr>
 </tbody>
 </table>
+
       </div>
+      <div class="md-sidebar-toc"><ul>
+<li><a href="#not-finished-anime">Not Finished Anime</a></li>
+<li><a href="#finished-anime">Finished Anime</a></li>
+<li><a href="#not-finished-manga">Not Finished Manga</a></li>
+<li><a href="#finished-manga">Finished Manga</a></li>
+<li><a href="#quotes">Quotes</a>
+<ul>
+<li><a href="#anime">Anime</a></li>
+<li><a href="#manga">Manga</a></li>
+</ul>
+</li>
+<li><a href="#pretty-scenes">Pretty Scenes</a></li>
+<li><a href="#legend">Legend</a></li>
+</ul>
+</div>
+      <a id="sidebar-toc-btn">&#x2261;</a>
+<script>
+
+var sidebarTOCBtn = document.getElementById('sidebar-toc-btn')
+sidebarTOCBtn.addEventListener('click', function(event) {
+  event.stopPropagation()
+  if (document.body.hasAttribute('html-show-sidebar-toc')) {
+    document.body.removeAttribute('html-show-sidebar-toc')
+  } else {
+    document.body.setAttribute('html-show-sidebar-toc', true)
+  }
+})
+</script>
     </body></html>
