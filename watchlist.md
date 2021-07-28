@@ -32,7 +32,7 @@
 | Title                        | EP  | S |  M  | O | Notes                                                         |
 |------------------------------|:---:|:-:|:---:|:-:|---------------------------------------------------------------|
 | Assassination Classroom      | 47  | 2 |  0  | x | VG, :sob:                                                     |
-| Attack on Titan (AOT)        | 76  | 4 |  0  | v | PG, S4 kinda bad                                              |
+| Attack on Titan (AOT)        | 76  | 4 |  0  | v | VG, S4 kinda bad                                              |
 | Bungou Stray Dogs (BSD)      | 37  | 3 |  1  | x | VG, s4 when :sob:                                             |
 | Charlotte                    | 13  | 1 |  0  | x | MEH, ++, only good part was ½ of ep13, bad tone shifts & pace |
 | Death Note (DN)              | 37  | 2 |  2  | x | VG, never heard of a gun :sob:                                |
@@ -63,7 +63,7 @@
 | Tokyo Ghoul:re (TG:RE)   |  71/179   | x | writing is shit compared to previous TG                                                                     |
 | Vagabond                 |   0/327   | x | +                                                                                                           |
 | Vinland Saga             |   0/183   | v | +                                                                                                           |
-| One Piece                | 262/1027  | v | +++, VG so far, dials and devil fruits & chopper only intersting things                                     |
+| One Piece                | 336/1027  | v | +++, VG so far, dials and devil fruits & chopper only intersting things                                     |
 
 ## Finished Manga
 
@@ -335,6 +335,16 @@
 <details> <summary> Juuzou's Hands, Tokyo Ghoul, Chapter 49 </summary> <img src=https://i.imgur.com/3ulITiI.png /> </details>
 
 <details> <summary> Skarn Deposit, Dr. Stone </summary> <img src=..\Random\Manga\skarn-deposit.png/> </details>
+
+## One piece notes
+
+### Devil Fruits
+
+@import "devil-fruits.md"
+
+### Dials
+
+@import "dials.md"
 
 ## Legend
 
