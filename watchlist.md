@@ -6,7 +6,7 @@
 | Banana Fish                     |   0/24    |  1  |  0  | x |                                                  |
 | Cells at Work (CAW)             |   12/21   | 1/2 |  0  | x | need to rewatch                                  |
 | Code Geass                      |   0/55    | 0/2 |     |   | +                                                |
-| Cowboy Bebop                    |   0/26    | 0/1 |  1  | x | +                                                |
+| Cowboy Bebop                    |   0/26    | 0/1 |  1  | x | +++                                              |
 | Evangelion                      |   0/26    | 0/1 |  0  | x | +, very popular                                  |
 | Fairy tail                      |  50/328   | 1/9 |  ?  | ? | DNF, too icky and trash fanservicy               |
 | Fullmetal Alchemist:B (FMAB)    |           |     |     | x |                                                  |
@@ -29,27 +29,27 @@
 
 ## Finished Anime
 
-| Title                        | EP  | S |  M  | O | Notes                                                         |
-|------------------------------|:---:|:-:|:---:|:-:|---------------------------------------------------------------|
-| Assassination Classroom      | 47  | 2 |  0  | x | VG, :sob:                                                     |
-| Attack on Titan (AOT)        | 76  | 4 |  0  | v | VG, S4 kinda bad                                              |
-| Bungou Stray Dogs (BSD)      | 37  | 3 |  1  | x | VG, s4 when :sob:                                             |
-| Charlotte                    | 13  | 1 |  0  | x | MEH, ++, only good part was ½ of ep13, bad tone shifts & pace |
-| Death Note (DN)              | 37  | 2 |  2  | x | VG, never heard of a gun :sob:                                |
-| Demon Slayer (DS)            | 27  | 2 | 0/1 | v | PG, overrated but art carries                                 |
-| Dr. Stone                    | 35  | 2 |  0  | x | NO, +, dr misogynistone & trash fans                          |
-| ERASED                       | 12  | 1 |  0  | x | PG, ++, kinda spooky with a trash ending                      |
-| Hunter × Hunter (HxH)        | 148 | 1 |  2  | x | VG, hunter exam arc is so cozy :sob:                          |
-| JoJo (JJBA)                  | 152 | 5 |  ?  | v | VG, the best shit posting                                     |
-| Jujutsu Kaisen (JJK)         | 24  | 1 |  0  | v | VG, great animation, finally female characters that are good  |
-| Mob Psycho 100 (MP100)       | 25  | 2 |  0  | x | PG, ++, too rushed & some things weren't explained, but nice  |
-| My Neighbour Totoro          |  0  | 0 |  1  | x | VG, cute and wholesome                                        |
-| One Punch Man (OPM)          | 24  | 2 |  0  | x | G, +, no plot but fun to watch when bored                     |
-| Sk8 the Infinity (SK8)       | 12  | 1 |  0  | x | PG, queerbait smh                                             |
-| Spirited Away                |  0  | 0 |  1  | x | VG, pig scene kinda spoop                                     |
-| The Promised Neverland (TPN) | 23  | 2 |  0  | x | SH, really put 3 arcs into 3 min slideshow huh                |
-| Wonder Egg Priority (WEP)    | 13  | 1 |  0  | v | G, dark :sob: but why did you fuck it up                      |
-| Yuri on Ice                  | 12  | 1 |  0  | x | G, lots of characters developed at the same time well         |
+| Title                            | EP  | S |  M  | O | Notes                                                         |
+|----------------------------------|:---:|:-:|:---:|:-:|---------------------------------------------------------------|
+| Assassination Classroom          | 47  | 2 |  0  | x | VG, :sob:                                                     |
+| Attack on Titan (AOT)            | 76  | 4 |  0  | v | VG, S4 kinda bad                                              |
+| Bungou Stray Dogs (BSD)          | 37  | 3 |  1  | x | VG, s4 when :sob:                                             |
+| Charlotte                        | 13  | 1 |  0  | x | MEH, ++, only good part was ½ of ep13, bad tone shifts & pace |
+| Death Note (DN)                  | 37  | 2 |  2  | x | VG, never heard of a gun :sob:                                |
+| Demon Slayer (DS)                | 27  | 2 | 0/1 | v | PG, overrated but art carries                                 |
+| Dr. Stone                        | 35  | 2 |  0  | x | NO, +, dr misogynistone & trash fans                          |
+| ERASED                           | 12  | 1 |  0  | x | PG, ++, kinda spooky with a trash ending                      |
+| Hunter × Hunter (HxH)            | 148 | 1 |  2  | x | VG, hunter exam arc is so cozy :sob:                          |
+| JoJo's Bizarre Adventures (JJBA) | 152 | 5 |  ?  | v | VG, the best shit posting                                     |
+| Jujutsu Kaisen (JJK)             | 24  | 1 |  0  | v | VG, great animation, finally female characters that are good  |
+| Mob Psycho 100 (MP100)           | 25  | 2 |  0  | x | PG, ++, too rushed & some things weren't explained, but nice  |
+| My Neighbour Totoro              |  0  | 0 |  1  | x | VG, cute and wholesome                                        |
+| One Punch Man (OPM)              | 24  | 2 |  0  | x | G, +, no plot but fun to watch when bored                     |
+| Sk8 the Infinity (SK8)           | 12  | 1 |  0  | x | PG, queerbait smh                                             |
+| Spirited Away                    |  0  | 0 |  1  | x | VG, pig scene kinda spoop                                     |
+| The Promised Neverland (TPN)     | 23  | 2 |  0  | x | SH, really put 3 arcs into 3 min slideshow huh                |
+| Wonder Egg Priority (WEP)        | 13  | 1 |  0  | v | G, dark :sob: but why did you fuck it up                      |
+| Yuri on Ice                      | 12  | 1 |  0  | x | G, lots of characters developed at the same time well         |
 
 ## Not Finished Manga
 
@@ -63,7 +63,7 @@
 | Tokyo Ghoul:re (TG:RE)   |  71/179   | x | writing is shit compared to previous TG                                                                     |
 | Vagabond                 |   0/327   | x | +                                                                                                           |
 | Vinland Saga             |   0/183   | v | +                                                                                                           |
-| One Piece                | 336/1027  | v | +++, VG so far, dials and devil fruits & chopper only intersting things                                     |
+| One Piece                | 492/1027  | v | +++, VG so far, dials and devil fruits & chopper only intersting things                                     |
 
 ## Finished Manga
 
