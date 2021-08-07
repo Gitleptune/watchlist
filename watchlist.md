@@ -58,22 +58,22 @@
 | 20th Century Boys (20CB) |   0/249   | x | ++                                                                                                          |
 | Berserk                  | 16+88/363 | v | Should have stopped before the eclipse & people are so butthurt when you don't like something about it lmao |
 | Bungou Stray Dogs (BSD)  |   35/92   | v | VG so far                                                                                                   |
-| Deathnote (DN)           |  65/110   | x | VG so far                                                                                                   |
+| Deathnote (DN)           |  65/110   | x | +, VG so far                                                                                                |
 | JoJo Part 6 (JJBA6)      |  121/158  | x | what the actual fuck was the bohemian rhapsody stand                                                        |
 | Tokyo Ghoul:re (TG:RE)   |  71/179   | x | writing is shit compared to previous TG                                                                     |
 | Vagabond                 |   0/327   | x | +                                                                                                           |
 | Vinland Saga             |   0/183   | v | +                                                                                                           |
-| One Piece                | 492/1027  | v | +++, VG so far, dials and devil fruits & chopper only intersting things                                     |
+| One Piece                | 534/1027  | v | +++, VG so far, dials and devil fruits & chopper only intersting things                                     |
 
 ## Finished Manga
 
 | Title                   |    C    | O | Notes                                                                                     |
 |-------------------------|:-------:|:-:|-------------------------------------------------------------------------------------------|
-| Chainsaw Man (CSM)      |  97/97  | x | PG, ++ ending too unclear & too rushed as a whole, gun arc & Denji training are too short |
-| Fire Punch              |  83/83  | x | MEH, weird and doesn't make much sense                                                    |
-| Jujutsu Kaisen (JJK)    | 152/152 | v | VG, although this culling thing seems shit                                                |
-| Tokyo Ghoul (TG)        | 143/143 | x | VG, Juuzou is an amazing character and Arima is a meanie                                  |
-| Tokyo Ghoul Jack        |   7/7   | x | G, colours were pretty                                                                    |
+| Chainsaw Man (CSM)      |   97    | x | PG, ++ ending too unclear & too rushed as a whole, gun arc & Denji training are too short |
+| Fire Punch              |   83    | x | MEH, weird and doesn't make much sense                                                    |
+| Jujutsu Kaisen (JJK)    | 153/153 | v | VG, although this culling thing seems shit                                                |
+| Tokyo Ghoul (TG)        |   143   | x | VG, Juuzou is an amazing character and Arima is a meanie                                  |
+| Tokyo Ghoul Jack        |    7    | x | G, colours were pretty                                                                    |
 | Witch Hat Atelier (WHA) |  47/47  | v | VG, really chill and cute                                                                 |
 
 ## Quotes
