@@ -21,10 +21,11 @@
 | Re:Zero                         |           |     |     |   | +++, thought it was romance but apparently isn't |
 | Samurai Champloo                |           |     |     |   | +                                                |
 | Steins;Gate                     |           |     |     |   | +                                                |
+| Sonny Boy                       |           |     |     |   |                                                  |
 | The Disastrous Life of Saiki K. | 48+1/48+6 |  2  |  0  | x | VG, really funny and whimsical                   |
 | Tokyo Ghoul (TG)                |   12/48   | 0/4 |  0  | x | DNF, will read manga instead                     |
 | Violet Evergarden               |           |     |     |   | +                                                |
-| Yona of the Dawn (YOTD)         |   2/24    | 0/1 |  0  | x | +++                                              |
+| Yona of the Dawn (YOTD)         |   5/24    | 0/1 |  0  | x | +++                                              |
 | Your Name                       |     0     |  0  | 0/1 | x | +                                                |
 
 ## Finished Anime
@@ -63,7 +64,7 @@
 | Tokyo Ghoul:re (TG:RE)   |  71/179   | x | writing is shit compared to previous TG                                                                     |
 | Vagabond                 |   0/327   | x | +                                                                                                           |
 | Vinland Saga             |   0/183   | v | +                                                                                                           |
-| One Piece                | 534/1027  | v | +++, VG so far, dials and devil fruits & chopper only intersting things                                     |
+| One Piece                | 545/1027  | v | +++, VG so far, dials and devil fruits & chopper only intersting things                                     |
 
 ## Finished Manga
 
