@@ -1,167 +1,26 @@
-<!DOCTYPE html><html><head>
-      <title>watchlist</title>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <style>
-html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
-:root {
-  --background: #261b17;
-  --header: #1b110e;
-  --background-alt: #291812;
-  --hover: #532f28;
-  --highlight: #f99666;
-  --highlight-alt: #fad256;
-  --ui: #e35b15;
-  --ui-alt: #fabc2c;
-  --onclick: #e86420;
-  --visited: #e04220;
-  --text: #e4cbb3;
-  --green-light: #82a23a;
-  --green-dark: #4d772d;
-  --blue-light: #66a4a4;
-  --blue-dark: #4395a3;
-  --purple-light: #c888e8;
-  --purple-dark: #b666e6;
-  --pink-light: #fab2c2;
-  --red-dark: #e01d1d;
-}
-::-webkit-scrollbar {
-  display: none !important;
-  width: 0px;
-}
-body {
-  padding: 0px !important;
-}
-:not(html) {
-  font-family: "Fira Code";
-  font-size: 16px;
-  line-height: 1.4;
-}
-::selection {
-  color: #fff !important;
-  background-color: var(--highlight, #f99666) !important;
-}
-strong {
-  color: var(--text, #e4cbb3) !important;
-}
-.markdown-preview {
-  background-color: var(--background, #261b17);
-  color: var(--text, #e4cbb3) !important;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--highlight, #f99666) !important;
-}
-a {
-  color: var(--ui, #e35b15) !important;
-  text-decoration: underline !important;
-}
-a:visited {
-  color: var(--visited, #e04220) !important;
-}
-a:hover {
-  color: var(--red-dark, #e01d1d) !important;
-}
-blockquote {
-  background-color: rgba(227, 91, 21, 0.1) !important;
-  color: var(--text, #e4cbb3) !important;
-  font-style: italic !important;
-  border-radius: 4.2px !important;
-  border-left: 3.5px solid var(--ui, #e35b15) !important;
-  padding: 0.42em !important;
-  margin: 0.8em 0.2em 0.5em 0.2em !important;
-}
-summary {
-  outline: none !important;
-  user-select: none;
-}
-hr {
-  background-color: var(--highlight, #f99666) !important;
-}
-ul,
-li,
-dl,
-dt {
-  line-height: 1.9;
-}
-img {
-  padding-top: 7px !important;
-}
-th {
-  color: #e4cbb3 !important;
-}
-button {
-  color: var(--text);
-  background-color: var(--ui) !important;
-  border: 0px !important;
-  padding: 0.69em;
-  cursor: pointer;
-}
-button:hover {
-  background-color: var(--onclick) !important;
-  transition: 300ms;
-}
-/*--------Custom classes for markdown--------*/
-.notes-heading {
-  text-align: center !important;
-  font-size: 40px !important;
-  padding-bottom: 55px !important;
-  padding-top: 3px !important;
-}
-.spoiler {
-  background-color: var(--header) !important;
-  color: var(--header) !important;
-  border-radius: 0.5em;
-  padding: 10px;
-}
-.spoiler:hover {
-  background-color: var(--background-alt) !important;
-  color: var(--highlight) !important;
-  transition: 600ms;
-  transition-delay: 175ms;
-}
-.WARNING {
-  text-align: center !important;
-  color: var(--visited) !important;
-  background-color: var(--background-alt);
-  padding: 10px;
-  padding-bottom: 14px;
-  border: 5px dashed var(--visited) !important;
-  border-radius: 0.5em !important;
-}
-.WARNING::before {
-  content: "!";
-  color: var(--visited);
-  font-size: 1.9em;
-}
-.WARNING::after {
-  content: "!";
-  color: var(--visited);
-  font-size: 1.5em;
-}
-.center,
-.cntr {
-  text-align: center;
-}
-.left,
-.left-align {
-  text-align: left;
-}
-.rght,
-.right-align {
-  text-align: right;
-}
-
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Not Finished Anime</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: 'Fira Code';
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
 </style>
-</head>
-    <body for="html-export">
-      <div class="mume markdown-preview  ">
-      <h2 class="mume-header" id="not-finished-anime">Not Finished Anime</h2>
-
+        
+        
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h2 id="not-finished-anime">Not Finished Anime</h2>
 <table>
 <thead>
 <tr>
@@ -308,7 +167,7 @@ button:hover {
 <td style="text-align:center"></td>
 <td style="text-align:center"></td>
 <td style="text-align:center"></td>
-<td>+++, thought it was romance but apparently isn&#x2019;t</td>
+<td>+++, thought it was romance but apparently isn't</td>
 </tr>
 <tr>
 <td>Samurai Champloo</td>
@@ -325,6 +184,14 @@ button:hover {
 <td style="text-align:center"></td>
 <td style="text-align:center"></td>
 <td>+</td>
+</tr>
+<tr>
+<td>Sonny Boy</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td></td>
 </tr>
 <tr>
 <td>The Disastrous Life of Saiki K.</td>
@@ -352,7 +219,7 @@ button:hover {
 </tr>
 <tr>
 <td>Yona of the Dawn (YOTD)</td>
-<td style="text-align:center">2/24</td>
+<td style="text-align:center">5/24</td>
 <td style="text-align:center">0/1</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">x</td>
@@ -368,8 +235,7 @@ button:hover {
 </tr>
 </tbody>
 </table>
-<h2 class="mume-header" id="finished-anime">Finished Anime</h2>
-
+<h2 id="finished-anime">Finished Anime</h2>
 <table>
 <thead>
 <tr>
@@ -388,7 +254,7 @@ button:hover {
 <td style="text-align:center">2</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">x</td>
-<td>VG, &#x1F62D;</td>
+<td>VG, :sob:</td>
 </tr>
 <tr>
 <td>Attack on Titan (AOT)</td>
@@ -404,7 +270,7 @@ button:hover {
 <td style="text-align:center">3</td>
 <td style="text-align:center">1</td>
 <td style="text-align:center">x</td>
-<td>VG, s4 when &#x1F62D;</td>
+<td>VG, s4 when :sob:</td>
 </tr>
 <tr>
 <td>Charlotte</td>
@@ -412,7 +278,7 @@ button:hover {
 <td style="text-align:center">1</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">x</td>
-<td>MEH, ++, only good part was &#xBD; of ep13, bad tone shifts &amp; pace</td>
+<td>MEH, ++, only good part was ½ of ep13, bad tone shifts &amp; pace</td>
 </tr>
 <tr>
 <td>Death Note (DN)</td>
@@ -420,7 +286,7 @@ button:hover {
 <td style="text-align:center">2</td>
 <td style="text-align:center">2</td>
 <td style="text-align:center">x</td>
-<td>VG, never heard of a gun &#x1F62D;</td>
+<td>VG, never heard of a gun :sob:</td>
 </tr>
 <tr>
 <td>Demon Slayer (DS)</td>
@@ -447,15 +313,15 @@ button:hover {
 <td>PG, ++, kinda spooky with a trash ending</td>
 </tr>
 <tr>
-<td>Hunter &#xD7; Hunter (HxH)</td>
+<td>Hunter × Hunter (HxH)</td>
 <td style="text-align:center">148</td>
 <td style="text-align:center">1</td>
 <td style="text-align:center">2</td>
 <td style="text-align:center">x</td>
-<td>VG, hunter exam arc is so cozy &#x1F62D;</td>
+<td>VG, hunter exam arc is so cozy :sob:</td>
 </tr>
 <tr>
-<td>JoJo&#x2019;s Bizarre Adventures (JJBA)</td>
+<td>JoJo's Bizarre Adventures (JJBA)</td>
 <td style="text-align:center">152</td>
 <td style="text-align:center">5</td>
 <td style="text-align:center">?</td>
@@ -476,7 +342,7 @@ button:hover {
 <td style="text-align:center">2</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">x</td>
-<td>PG, ++, too rushed &amp; some things weren&#x2019;t explained, but nice</td>
+<td>PG, ++, too rushed &amp; some things weren't explained, but nice</td>
 </tr>
 <tr>
 <td>My Neighbour Totoro</td>
@@ -524,7 +390,7 @@ button:hover {
 <td style="text-align:center">1</td>
 <td style="text-align:center">0</td>
 <td style="text-align:center">v</td>
-<td>G, dark &#x1F62D; but why did you fuck it up</td>
+<td>G, dark :sob: but why did you fuck it up</td>
 </tr>
 <tr>
 <td>Yuri on Ice</td>
@@ -536,8 +402,7 @@ button:hover {
 </tr>
 </tbody>
 </table>
-<h2 class="mume-header" id="not-finished-manga">Not Finished Manga</h2>
-
+<h2 id="not-finished-manga">Not Finished Manga</h2>
 <table>
 <thead>
 <tr>
@@ -558,7 +423,7 @@ button:hover {
 <td>Berserk</td>
 <td style="text-align:center">16+88/363</td>
 <td style="text-align:center">v</td>
-<td>Should have stopped before the eclipse &amp; people are so butthurt when you don&#x2019;t like something about it lmao</td>
+<td>Should have stopped before the eclipse &amp; people are so butthurt when you don't like something about it lmao</td>
 </tr>
 <tr>
 <td>Bungou Stray Dogs (BSD)</td>
@@ -598,14 +463,13 @@ button:hover {
 </tr>
 <tr>
 <td>One Piece</td>
-<td style="text-align:center">534/1027</td>
+<td style="text-align:center">545/1027</td>
 <td style="text-align:center">v</td>
 <td>+++, VG so far, dials and devil fruits &amp; chopper only intersting things</td>
 </tr>
 </tbody>
 </table>
-<h2 class="mume-header" id="finished-manga">Finished Manga</h2>
-
+<h2 id="finished-manga">Finished Manga</h2>
 <table>
 <thead>
 <tr>
@@ -626,7 +490,7 @@ button:hover {
 <td>Fire Punch</td>
 <td style="text-align:center">83</td>
 <td style="text-align:center">x</td>
-<td>MEH, weird and doesn&#x2019;t make much sense</td>
+<td>MEH, weird and doesn't make much sense</td>
 </tr>
 <tr>
 <td>Jujutsu Kaisen (JJK)</td>
@@ -654,678 +518,234 @@ button:hover {
 </tr>
 </tbody>
 </table>
-<h2 class="mume-header" id="quotes">Quotes</h2>
-
-<h3 class="mume-header" id="anime">Anime</h3>
-
+<h2 id="quotes">Quotes</h2>
+<h3 id="anime">Anime</h3>
 <details> <summary> Deathnote </summary>
 <blockquote>
-<p>&#x201C;The human world is a boring place with boring people doing boring things.&#x201D;</p>
+<p>&quot;The human world is a boring place with boring people doing boring things.&quot;</p>
 <p>Ryuk</p>
 </blockquote>
 </details>
 <details><summary> Dr. Stone </summary>
 <blockquote>
-<p>&#x201C;The greatest invention in human history-&#x201D; - Senku<br>
-&#x201C;Smartphones?!&#x201D; - Taiju<br>
-&#x201C;You sure love your smartphone. No, guns.&#x201D; - Senku</p>
+<p>&quot;The greatest invention in human history-&quot; - Senku
+&quot;Smartphones?!&quot; - Taiju
+&quot;You sure love your smartphone. No, guns.&quot; - Senku</p>
 <p>Senku and Taiju, EP 3</p>
 <details> <summary> Context </summary> They are in search of a weapon to kill Tsukasa. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;Listen up, Suika. You&#x2019;re nearsighted as hell.&#x201D;</p>
+<p>&quot;Listen up, Suika. You're nearsighted as hell.&quot;</p>
 <p>Senku, EP 11</p>
-<details> <summary> Context </summary> Making glass and removing the watermelon from Suika&apos;s head. </details>
+<details> <summary> Context </summary> Making glass and removing the watermelon from Suika's head. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;Don&#x2019;t worry, the rest of the chemicals are harmless&#x2026; let&#x2019;s go get some ammonia!&#x201D;</p>
+<p>&quot;Don't worry, the rest of the chemicals are harmless... let's go get some ammonia!&quot;</p>
 <p>Senku, EP 13</p>
-<details> <summary> Context </summary> Kohaku gets angry that they&apos;re using so many dangerous chemicals. </details>
+<details> <summary> Context </summary> Kohaku gets angry that they're using so many dangerous chemicals. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;What are you doing with that mouse, Senku?&#x201D; - Gen<br>
-&#x201C;Are we eating it?&#x201D; - Kohaku<br>
-&#x201C;Dah-uh, I like how that&#x2019;s the first thing that comes to your mind.&#x201D; - Gen</p>
+<p>&quot;What are you doing with that mouse, Senku?&quot; - Gen
+&quot;Are we eating it?&quot; - Kohaku
+&quot;Dah-uh, I like how that's the first thing that comes to your mind.&quot; - Gen</p>
 <p>Gen and Kohaku, EP 15</p>
 <details> <summary> Context </summary> Senku finds a suspicious dead mouse and is doing experiments on it. </details>
 </blockquote>
 </details>
 <details><summary> ERASED </summary>
 <blockquote>
-<p>&#x201C;Don&#x2019;t eat the pizza on the way there, okay?&#x201D; - Airi<br>
-&#x201C;I don&#x2019;t get it, is that a joke only millennials would get?&#x201D; - Satoru</p>
+<p>&quot;Don't eat the pizza on the way there, okay?&quot; - Airi
+&quot;I don't get it, is that a joke only millennials would get?&quot; - Satoru</p>
 <p>Airi and Satoru, EP 1</p>
 <details> <summary> Context </summary> Satoru goes to deliver a pizza. </details>
 </blockquote>
 </details>
 <details> <summary> Whisper of the Heart </summary>
 <blockquote>
-<p>&#x201C;By the way, great lyrics! They&#x2019;re even cornier than the original!&#x201D;</p>
+<p>&quot;By the way, great lyrics! They're even cornier than the original!&quot;</p>
 <p>blue hair guy</p>
 <details> <summary> Context </summary>Blue guy reads the lyrics of the song Shizuku is writing when she forgets her book. </details>
 </blockquote>
 </details>
 <details> <summary> Mob Psycho 100 </summary>
 <blockquote>
-<p>&#x201C;You&#x2019;re missing out on life!&#x201D; - Dimple<br>
-&#x201C;My dad said that people who&#x2019;ve never smoked before are missing out on half of their lives.<br>It made me realize that everyone has a different idea of missing out&#x201D; - Mob</p>
+<p>&quot;You're missing out on life!&quot; - Dimple
+&quot;My dad said that people who've never smoked before are missing out on half of their lives.<br>It made me realize that everyone has a different idea of missing out&quot; - Mob</p>
 <p>Mob and Dimple, EP 3</p>
 <details> <summary> Context </summary> Mob and his classmate get duped into joining a creepy cult. </details>
 </blockquote>
  </details>
 <details><summary> The Disastrous Life of Saiki K </summary> 
 <blockquote>
-<p>&#x201C;<em>I hope Kusuo finds a nice girlfriend!</em>&#x201D; - Saiki&#x2019;s dad<br>
-&#x201C;<em>Wait, what did you just pray for?</em>&#x201D; - Saiki</p>
+<p>&quot;<em>I hope Kusuo finds a nice girlfriend!</em>&quot; - Saiki's dad
+&quot;<em>Wait, what did you just pray for?</em>&quot; - Saiki</p>
 <p>Saiki and his dad, EP 7</p>
-<details> <summary> Context </summary> Saiki and his family go to pray for new years and see many of his &quot;friends&quot;. </details>
+<details> <summary> Context </summary> Saiki and his family go to pray for new years and see many of his "friends". </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;The one who&#x2019;ll marry my sister is me!&#x201D; - Tohru<br>
-&#x201C;<em>Ah, he&#x2019;s fucked in the head.</em>&#x201D; - Saiki</p>
+<p>&quot;The one who'll marry my sister is me!&quot; - Tohru
+&quot;<em>Ah, he's fucked in the head.</em>&quot; - Saiki</p>
 <p>Saiki and Tohru, EP 9</p>
-<details> <summary> Context </summary> Tohru went to tell Saiki that him and Teruhashi aren&apos;t a couple after seeing them in the cinema. </details>
+<details> <summary> Context </summary> Tohru went to tell Saiki that him and Teruhashi aren't a couple after seeing them in the cinema. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;You&#x2019;ll have nothing to worry about with Nendou and Kaidou, right?&#x201D; - Parents<br>
-&#x201C;<em>That&#x2019;s the very definition of worry.</em>&#x201D;</p>
+<p>&quot;You'll have nothing to worry about with Nendou and Kaidou, right?&quot; - Parents
+&quot;<em>That's the very definition of worry.</em>&quot;</p>
 <p>Saiki and his parents, EP 12</p>
 <details> <summary> Context </summary> The whole class is going on a school trip. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;What? Saiki made that!?&#x201D; - Classmate<br>
-&#x201C;Yeah, he is pretty close to Nendou, isn&#x2019;t he?&#x201D; - Classmate<br>
-&#x201C;Maybe a little too close. Is there more than friendship going on here?&#x201D; - Classmate<br>
-&#x201C;I&#x2019;m a bit worried about Saiki&#x2019;s mental state.&#x201D; - Classmate<br>
-&#x201C;<em>Maybe I should have just let it break.</em>&#x201D; - Saiki</p>
-<p>Saiki&#x2019;s classmates, EP 15</p>
+<p>&quot;What? Saiki made that!?&quot; - Classmate
+&quot;Yeah, he is pretty close to Nendou, isn't he?&quot; - Classmate
+&quot;Maybe a little too close. Is there more than friendship going on here?&quot; - Classmate
+&quot;I'm a bit worried about Saiki's mental state.&quot; - Classmate
+&quot;<em>Maybe I should have just let it break.</em>&quot; - Saiki</p>
+<p>Saiki's classmates, EP 15</p>
 <details> <summary> Context </summary> Saiki accidentally turns Nendou into a statue and puts it at the stone exhibition. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;What shall we ride, Kuu?&#x201D; - Saiki&#x2019;s mum<br>
-&#x201C;<em>The car that takes us home.</em>&#x201D; - Saiki</p>
+<p>&quot;What shall we ride, Kuu?&quot; - Saiki's mum
+&quot;<em>The car that takes us home.</em>&quot; - Saiki</p>
 <p>Saiki and his mum, EP 19</p>
-<details> <summary> Context </summary> Saiki visits his mum&apos;s parents and they go to a theme park.		</details>
+<details> <summary> Context </summary> Saiki visits his mum's parents and they go to a theme park.		</details>
 </blockquote>
 <blockquote>
-<p>&#x201C;Do you know why my hand is like this?&#x201D; - Rando<br>
-&#x201C;<em>Eight-grader syndrome?</em>&#x201D;</p>
+<p>&quot;Do you know why my hand is like this?&quot; - Rando
+&quot;<em>Eight-grader syndrome?</em>&quot;</p>
 <p>Saiki and rando, EP</p>
-<details><summary> Image </summary> <img src="https://i.imgur.com/yQEjqFV.png/"> </details>
+<details><summary> Image </summary> <img src=https://i.imgur.com/yQEjqFV.png/> </details>
 <details> <summary> Context </summary> Saiki gets abducted into the Teruhashi simp cult. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;All right. Let&#x2019;s go spy on him.&#x201D;</p>
+<p>&quot;All right. Let's go spy on him.&quot;</p>
 <p>Saiki, EP 26</p>
 <details> <summary> Context </summary> The delinquent gets asked out on a date. </details>
 </blockquote>
 <blockquote>
-<p>[Kaidou comes out of the dresser]<br>
-&#x201C;<em>You lose</em>&#x201D; - Saiki<br>
-[Nendou comes out of the dresser]<br>
-&#x201C;<em>Excuse me, it&#x2019;s a draw.</em>&#x201D; - Saiki</p>
+<p>[Kaidou comes out of the dresser]
+&quot;<em>You lose</em>&quot; - Saiki
+[Nendou comes out of the dresser]
+&quot;<em>Excuse me, it's a draw.</em>&quot; - Saiki</p>
 <p>Saiki, Nendou and Kaidou, EP 26</p>
-<details><summary> Image </summary> <img src="https://i.imgur.com/AdQSsiE.png/"> </details>
+<details><summary> Image </summary> <img src=https://i.imgur.com/AdQSsiE.png/> </details>
 <details> <summary> Context </summary> Kaidou and Nendou want to use Saiki as a judge for clothing contest. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;This will be fun, Saiki-kun!&#x201D; - Teruhashi<br>
-&#x201C;<em>Yes, fun away from me.</em>&#x201D; - Saiki</p>
+<p>&quot;This will be fun, Saiki-kun!&quot; - Teruhashi
+&quot;<em>Yes, fun away from me.</em>&quot; - Saiki</p>
 <p>Teruhashi and Saiki, EP 30</p>
 <details> <summary> Context </summary> Saiko invites everyone to a cruise trip if Teruhashi comes. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;Oh, Mr. Saiki. You&#x2019;re early today.&#x201D; - Mangaka<br>
-&#x201C;I&#x2019;m right on time.&#x201D; - Saiki&#x2019;s dad<br>
-&#x201C;Yes, hence why I said you&#x2019;re early.&#x201D; - Mangaka</p>
-<p>Saiki&#x2019;s dad and the mangaka, EP 41</p>
-<details> <summary> Context </summary> Saiki&apos;s dad gets him to teleport him to work. </details>
+<p>&quot;Oh, Mr. Saiki. You're early today.&quot; - Mangaka
+&quot;I'm right on time.&quot; - Saiki's dad
+&quot;Yes, hence why I said you're early.&quot; - Mangaka</p>
+<p>Saiki's dad and the mangaka, EP 41</p>
+<details> <summary> Context </summary> Saiki's dad gets him to teleport him to work. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;Every kid dreams of getting to play seaweed.&#x201D;</p>
+<p>&quot;Every kid dreams of getting to play seaweed.&quot;</p>
 <p>Saiki, EP 43</p>
 <details> <summary> Context </summary> The class is going to have a play and saiki is seaweed. </details>
 </blockquote>
 </details>
-<details> <summary> JoJo&apos;s Bizarre Adventures </summary>
+<details> <summary> JoJo's Bizarre Adventures </summary>
 <blockquote>
-<p>&#x201C;Would it kill you to use the door?&#x201D;</p>
+<p>&quot;Would it kill you to use the door?&quot;</p>
 <p>Dio, EP 68</p>
 <details> <summary> Context </summary> Talking to Vanilla Ice after he breaks the door on his way out. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;That&#x2019;s fuckin&#x2019; genius! You&#x2019;re so smart, Josuke!&#x201D; - Okuyasu<br>
-&#x201C;Hehe, thanks! <s>Though that doesn&#x2019;t mean much coming from you&#x2026;</s>&#x201D; - Josuke</p>
+<p>&quot;That's fuckin' genius! You're so smart, Josuke!&quot; - Okuyasu
+&quot;Hehe, thanks! <s>Though that doesn't mean much coming from you...</s>&quot; - Josuke</p>
 <p>Okuyasu and Josuke, EP 82</p>
 <details> <summary> Context </summary> Talking about stopping Yukako from being crazy about Koichi. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;Yukako and I ended up kissing. Yeah&#x2026;&#x201D; - Koichi<br>
+<p>&quot;Yukako and I ended up kissing. Yeah...&quot; - Koichi
 [Josuke falls off the window]</p>
 <p>Koichi and Josuke, EP 94</p>
-<details> <summary> Image </summary> <img src="https://i.imgur.com/qdQRmdn.png/"> </details>
+<details> <summary> Image </summary> <img src=https://i.imgur.com/qdQRmdn.png/> </details>
 <details> <summary> Context </summary> After Yukako used the love makeup and they kissed in the supermarket. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;S-H-I-T!&#x201D;</p>
+<p>&quot;S-H-I-T!&quot;</p>
 <p>Echoes Act 3, EP 97</p>
-<details> <summary> Image </summary> <img src="https://i.imgur.com/LgpLW6R.png/"> </details>
-<details> <summary> Context </summary> Act 2 levels up and fights Yoshikage Kira&apos;s stand. </details>
+<details> <summary> Image </summary> <img src=https://i.imgur.com/LgpLW6R.png/> </details>
+<details> <summary> Context </summary> Act 2 levels up and fights Yoshikage Kira's stand. </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;Who the fuck digs up dirt looking for dirt?!&#x201D;</p>
+<p>&quot;Who the fuck digs up dirt looking for dirt?!&quot;</p>
 <p>Ghiaccio, EP 131</p>
-<details> <summary> Context </summary> Ghiaccio is angry because of people telling him to &quot;dig up dirt&quot; as in &quot;get information&quot;. </details>
+<details> <summary> Context </summary> Ghiaccio is angry because of people telling him to "dig up dirt" as in "get information". </details>
 </blockquote>
 <blockquote>
-<p>&#x201C;Ow! Be more gentle Giorno!&#x201D; - Mista<br>
-&#x201C;You&#x2019;re a gangster for crying out loud, quit fussing!&#x201D; - Giorno</p>
+<p>&quot;Ow! Be more gentle Giorno!&quot; - Mista
+&quot;You're a gangster for crying out loud, quit fussing!&quot; - Giorno</p>
 <p>Mista and Giorno, EP 132</p>
-<details> <summary> Context </summary>Giorno is healing Mista&apos;s wounds after the fight with Ghiaccio. </details>
+<details> <summary> Context </summary>Giorno is healing Mista's wounds after the fight with Ghiaccio. </details>
 </blockquote>
 </details>
-<h3 class="mume-header" id="manga">Manga</h3>
-
+<h3 id="manga">Manga</h3>
 <details> <summary> Chainsaw Man </summary>
 <blockquote>
-<details> <summary> Denji and Aki, Chapter 3 </summary> <img src="https://i.imgur.com/VCGYPSR.png/"> </details>
+<details> <summary> Denji and Aki, Chapter 3 </summary> <img src=https://i.imgur.com/VCGYPSR.png/> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Power, Chapter 53 </summary> <img src="https://i.imgur.com/K6JWYs0.png/"> </details>
+<details> <summary> Power, Chapter 53 </summary> <img src=https://i.imgur.com/K6JWYs0.png/> </details>
 </blockquote>
 </details>
 <details> <summary> Tokyo Ghoul </summary>
 <blockquote>
-<details> <summary> Juuzou and Amon, Chapter 49 </summary> <img src="..\Random\Manga\juuzou-chapter-49.png/"> </details>
+<details> <summary> Juuzou and Amon, Chapter 49 </summary> <img src=..\Random\Manga\juuzou-chapter-49.png/> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Juuzou, Chapter 49 </summary> <img src="https://i.imgur.com/3Giyne7.png"> </details>
+<details> <summary> Juuzou, Chapter 49 </summary> <img src=https://i.imgur.com/3Giyne7.png /> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Juuzou, Chapter 60 </summary> <img src="https://i.imgur.com/vLOWL4r.png"> </details>
+<details> <summary> Juuzou, Chapter 60 </summary> <img src=https://i.imgur.com/vLOWL4r.png /> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Juuzou, Amon and Arima, Chapter 80 </summary> <img src="https://i.imgur.com/E0eWSGT.png"> </details>
+<details> <summary> Juuzou, Amon and Arima, Chapter 80 </summary> <img src=https://i.imgur.com/E0eWSGT.png /> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Juuzou Bike Scene, Chapter 60 </summary> <img src="../Random/Manga/juuzou-fight.png/"> </details>
+<details> <summary> Juuzou Bike Scene, Chapter 60 </summary> <img src= ../Random/Manga/juuzou-fight.png/> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Juuzou and Noro, Chapter 77 </summary> <img src="https://i.imgur.com/1fmrIWm.png/"> </details>
+<details> <summary> Juuzou and Noro, Chapter 77 </summary> <img src=https://i.imgur.com/1fmrIWm.png/> </details>
 </blockquote>
 <blockquote>
-<details> <summary> The Owl, Chapter 126 </summary> <img src="https://i.imgur.com/nBqpkLr.png"> </details>
+<details> <summary> The Owl, Chapter 126 </summary> <img src=https://i.imgur.com/nBqpkLr.png /> </details>
 </blockquote>
 </details>
 <details> <summary> Witch Hat Atelier </summary>
 <blockquote>
-<details> <summary> Chapter 8 </summary> <img src="https://i.imgur.com/9VCKsqW.png/"> </details>
+<details> <summary> Chapter 8 </summary> <img src=https://i.imgur.com/9VCKsqW.png/> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Quifrey and Olruggio, Chapter 9 </summary> <img src="https://i.imgur.com/MVPz7UX.png/"> </details>
+<details> <summary> Quifrey and Olruggio, Chapter 9 </summary> <img src=https://i.imgur.com/MVPz7UX.png/> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Quifrey, Chapter 9 </summary> <img src="https://i.imgur.com/JaAAii5.png/"> </details>
+<details> <summary> Quifrey, Chapter 9 </summary> <img src=https://i.imgur.com/JaAAii5.png/> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Coco, Chapter 11 </summary> <img src="https://i.imgur.com/Pc6u7pD.png/"> </details>
+<details> <summary> Coco, Chapter 11 </summary> <img src=https://i.imgur.com/Pc6u7pD.png/> </details>
 </blockquote>
 <blockquote>
-<details> <summary> Coco, Richeh and Tetia, Chapter 34 </summary> <img src="https://i.imgur.com/Za36Xuy.png"> </details>
+<details> <summary> Coco, Richeh and Tetia, Chapter 34 </summary> <img src=https://i.imgur.com/Za36Xuy.png /> </details>
 </blockquote>
 </details>
-<h2 class="mume-header" id="pretty-scenes">Pretty Scenes</h2>
-
-<details> <summary> Quifrey&apos;s Atelier, Witch Hat Atelier, Chapter 2 </summary> <img src="https://i.imgur.com/R3pzvbf.png/"> </details>
-<details> <summary> Dadah Range, Witch Hat Atelier, Chapter 4 </summary> <img src="https://i.imgur.com/IPOm3M5.png/"> </details>
-<details> <summary> Juuzou&apos;s Hands, Tokyo Ghoul, Chapter 49 </summary> <img src="https://i.imgur.com/3ulITiI.png"> </details>
-<details> <summary> Skarn Deposit, Dr. Stone </summary> <img src="..\Random\Manga\skarn-deposit.png/"> </details>
-<h2 class="mume-header" id="one-piece-notes">One piece notes</h2>
-
-<h3 class="mume-header" id="devil-fruits">Devil Fruits</h3>
-
-<table>
-<thead>
-<tr>
-<th>Devil Fruit</th>
-<th>Consumer</th>
-<th>Description &amp; Notes</th>
-<th>Mentioned in</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Gum-Gum</td>
-<td>Monkey D. Luffy</td>
-<td>Consumer&#x2019;s body is (natural) rubber and they can stretch</td>
-<td>n + 141(1) 151(4) 158(1) 162(2) 167(2) 168(1) 177(3) 178(4) 199(1) 200(4) 205(1) 206(1) 209(1) 242(1) 245(1) 246(1) 247(2) 252(1) 260(3) 266(1) 280(4) 281(5) 297(1) 298(2) 300(1) 304(1) 305(1) 314(2) 316(1) 317(2) 319(1) 320(1) 321(1) 330(1) 332(1) 333(3) 336(2) 344(1) 347(1) 348(1) 367(1) 370(2) 376(1) 377(1) 379(2) 381(1) 383(1) 387(1) 388(2) 389(1) 418(2) 421(2) 422(3) 425(2) 427(1) 428(1) 436(1) 450(1) 458(1) 462(1) 463(3) 469(1) 470(2) 472(1) 473(1) 475(2) 476(3) 477(2) 478(1) 479(4) 480(2) 482(3) 490(1) 504(1) 509(1) 510(1) 511(1) 513(1) 515(1) 519(2) 520(1) 529(2) 530(1) 532(2) 533(1) 534(1)</td>
-</tr>
-<tr>
-<td>Munch-Munch</td>
-<td>King Wapol</td>
-<td></td>
-<td>n + 146(1) 147(4) 150(2) 151(1) 178(1)</td>
-</tr>
-<tr>
-<td>Chop-Chop</td>
-<td>Buggy</td>
-<td></td>
-<td>n + 527(3) 529(1)</td>
-</tr>
-<tr>
-<td>Smoke-Smoke</td>
-<td>Captain Smoker</td>
-<td></td>
-<td>n + 168(1)</td>
-</tr>
-<tr>
-<td>Wax-Wax</td>
-<td>Mr. 3</td>
-<td></td>
-<td>n + 176(4) 529(1) 530(1) 532(1) 533(1)</td>
-</tr>
-<tr>
-<td>Human-Human</td>
-<td>Tony Tony Chopper</td>
-<td>Enables the consumer to do anything a human can do</td>
-<td>139(1)</td>
-</tr>
-<tr>
-<td>Clone-Clone</td>
-<td>Mr. 2 Bon Clay</td>
-<td>Consumer can make themselves look like anyone&#x2019;s face they&#x2019;ve touched</td>
-<td>156(2) 157(1) 187(2) 531(1)</td>
-</tr>
-<tr>
-<td>Flame-Flame</td>
-<td>Portgas D. Ace</td>
-<td>Consumer can turn their body into flames</td>
-<td>159(1)</td>
-</tr>
-<tr>
-<td>Tweet-Tweet</td>
-<td>Pell The Falcon</td>
-<td>Consumer can turn into a falcon, one of 5 flying Devil Fruits</td>
-<td>169(1)</td>
-</tr>
-<tr>
-<td>Sand-Sand</td>
-<td>Sir Crocodile</td>
-<td>Consumer can control sand to make weapons &amp; turn their body into sand</td>
-<td>170(1) 201(1)</td>
-</tr>
-<tr>
-<td>Flower-Flower</td>
-<td>Nico Robin</td>
-<td>Consumer can grow extra limbs from any part of their body</td>
-<td>170(1)</td>
-</tr>
-<tr>
-<td>Diggy-Diggy</td>
-<td>Ms. Merry Christmas</td>
-<td>Consumer is able to go underground like a mole</td>
-<td>183(1)</td>
-</tr>
-<tr>
-<td>Mutt-Mutt (Dachshund)</td>
-<td>Lassoo</td>
-<td>Consumer can turn into a dachshund</td>
-<td>184(1)</td>
-</tr>
-<tr>
-<td>Mutt-Mutt (Jackal)</td>
-<td>Chaka</td>
-<td>Consumer can turn into a jackal</td>
-<td>196(1)</td>
-</tr>
-<tr>
-<td>Mutt-Mutt (Wolf)</td>
-<td>Jabra</td>
-<td>Consumer can turn into a wolf</td>
-<td>401(1)</td>
-</tr>
-<tr>
-<td>Dice-Dice</td>
-<td>Mr. 1</td>
-<td>Consumer&#x2019;s body is a human sword</td>
-<td>190(1) 194(1)</td>
-</tr>
-<tr>
-<td>Spike-Spike</td>
-<td>Ms. Doublefinger</td>
-<td>Consumer can create spikes from any part of their body</td>
-<td>190(1)</td>
-</tr>
-<tr>
-<td>Ribbit-Ribbit</td>
-<td>Ms. Father&#x2019;s Day</td>
-<td>Special gun (?)</td>
-<td>205(1) 206(1)</td>
-</tr>
-<tr>
-<td>Bind-Bind</td>
-<td>?</td>
-<td>Everything that passes through the consumer&#x2019;s body becomes bound</td>
-<td>217(1)</td>
-</tr>
-<tr>
-<td>Boing-Boing</td>
-<td>?</td>
-<td>?</td>
-<td>231(1)</td>
-</tr>
-<tr>
-<td>Horse-Horse</td>
-<td>Pierre (Sky Bird)</td>
-<td>Consumer can transform into a horse</td>
-<td>238(1)</td>
-</tr>
-<tr>
-<td>Rumble-Rumble</td>
-<td>Kami Eneru</td>
-<td>Consumer can control lighting, best Logia &amp; considered invincible</td>
-<td>266(1) 274(1)</td>
-</tr>
-<tr>
-<td>Slow-Slow</td>
-<td>Foxy</td>
-<td>Consumer can emit slowpoke photons that slow down things when touched</td>
-<td>308(1) 309(3) 314(6) 315(3) 316(4) 317(3)</td>
-</tr>
-<tr>
-<td>Chilly-Chilly</td>
-<td>Aokiji</td>
-<td>Consumer can create ice</td>
-<td>319(1)</td>
-</tr>
-<tr>
-<td>Door-Door</td>
-<td>Blueno</td>
-<td>Consumer can create doors from any wall they touch</td>
-<td>343(1) 374(1) 385(4) 388(1)</td>
-</tr>
-<tr>
-<td>Cat-Cat (Leopard)</td>
-<td>Lucci</td>
-<td>Consumer can turn into a leopard</td>
-<td>349(1)</td>
-</tr>
-<tr>
-<td>Elephant-Elephant</td>
-<td>Funkfreed</td>
-<td>Consumer can turn into an elephant</td>
-<td>400(1)</td>
-</tr>
-<tr>
-<td>Ox-Ox (Giraffe)</td>
-<td>Kaku</td>
-<td>Consumer can turn into a giraffe</td>
-<td>402(1)</td>
-</tr>
-<tr>
-<td>Bubble-Bubble</td>
-<td>Kalifa</td>
-<td>Consumer can create bubbles</td>
-<td>408(2)</td>
-</tr>
-<tr>
-<td>Dark-Dark</td>
-<td>Marshall D. Teech</td>
-<td>Consumer can create darkness that sucks things in &amp; nullify DF powers</td>
-<td>441(1)</td>
-</tr>
-<tr>
-<td>Revive-Revive</td>
-<td>Brook</td>
-<td>Grants the consumer a second life</td>
-<td>443(2) 488(1)</td>
-</tr>
-<tr>
-<td>Shadow-Shadow</td>
-<td>Gecko Moria</td>
-<td>Consumer can capture and force shadows to obey him</td>
-<td>455(1) 476(1)</td>
-</tr>
-<tr>
-<td>Hollow-Hollow</td>
-<td>Perona</td>
-<td>Consumer can control ghosts that empty the human heart</td>
-<td>461(1)</td>
-</tr>
-<tr>
-<td>Clear-Clear</td>
-<td>Absalom</td>
-<td>Consumer can turn themselves and objects they touch invisible</td>
-<td>464(3)</td>
-</tr>
-<tr>
-<td>Paw-Paw</td>
-<td>Kuma</td>
-<td>Consumer can repel anything with the paws on their hands</td>
-<td>484(1)</td>
-</tr>
-<tr>
-<td>Glint-Glint</td>
-<td>Kizaru</td>
-<td>Consumer is made of light</td>
-<td>511(1)</td>
-</tr>
-<tr>
-<td>Love-Love</td>
-<td>Boa Hancock</td>
-<td></td>
-<td>518(3), 521(1)</td>
-</tr>
-<tr>
-<td>Snake-Snake</td>
-<td></td>
-<td></td>
-<td>521(1)</td>
-</tr>
-<tr>
-<td>Venom-Venom</td>
-<td>Magellan</td>
-<td></td>
-<td>n + 534(2)</td>
-</tr>
-</tbody>
-</table>
-<h2 class="mume-header" id="notes">Notes</h2>
-
-<ul>
-<li><strong>Zoan</strong> type Devil Fruits are limited to 3 transformations
-<ul>
-<li>&#x201C;<em>Rumble ball</em> is a medicine that can modify the transformation powers of the Devil Fruit&#x201D; [Raises limit to 7] - Chopper, <em>Human Human</em> consumer, Chapter 139</li>
-<li>&#x201C;Carnivorous Zoan-types grow more ferocious&#x201D; - Chopper, <em>Human-Human</em> consumer, chapter 349</li>
-<li>&#x201C;Ability to strengthen your own physical abilities, the more you train the more your power is amplified&#x201D; - Lucci, <em>Cat-Cat (Leopard)</em> consumer, chapter 349</li>
-</ul>
-</li>
-<li>When someone eats 2 Devil Fruits, they die - Chapter 385</li>
-<li>Devil Fruits taste bad - Chapter 385</li>
-<li>When someone eats a Devil Fruit, they learn its name - Chapter 385</li>
-<li>&#x201C;Only 5 flying Devil Fruits are known to exist&#x201D; - Pell, <em>Tweet-Tweet</em> consumer, Chapter 169</li>
-<li>Sea Prism is used to block Devil Fruit powers</li>
-<li>All Devil Fruits have swirls on them - Chapter 436</li>
-<li>There is an identification for some Devil Fruits - Chapter 439
-<ul>
-<li>Has name</li>
-<li>Has picture</li>
-</ul>
-</li>
-</ul>
-<h3 class="mume-header" id="dials">Dials</h3>
-
-<table>
-<thead>
-<tr>
-<th>Type</th>
-<th>Function</th>
-<th>Main Uses</th>
-<th>Mention</th>
-<th>Habitat &amp; Status</th>
-<th>Image</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Tone Dial</td>
-<td>Record and reproduce audio</td>
-<td>Record music</td>
-<td>240(1) 301(1) 488(2) 489(1)</td>
-<td>Sandbars around reefs</td>
-<td><img src="https://i.imgur.com/K6w8v9Y.png" alt="tone"></td>
-</tr>
-<tr>
-<td>Wind Dial</td>
-<td>Collect and let out air</td>
-<td>Propel different crafts</td>
-<td>240(1) 244(1) 260(1) 307(1) 332(1)</td>
-<td></td>
-<td><img src="https://i.imgur.com/LECdUeY.png" alt="wind"></td>
-</tr>
-<tr>
-<td>Lamp Dial</td>
-<td>Collect and let out light</td>
-<td>Lamps</td>
-<td>240(1) 263(2)</td>
-<td></td>
-<td><img src="https://i.imgur.com/vEJwkRC.png" alt="lamp"></td>
-</tr>
-<tr>
-<td>Flame Dial</td>
-<td>Preserve and let out fire</td>
-<td>Fire-Breathing Birds</td>
-<td>240(1) 257(1) 263(2) 465(1)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Scent Dial</td>
-<td>Preserve smell</td>
-<td>Sky battling via scent bombs</td>
-<td>240(1)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Vision Dial</td>
-<td>Preserve pictures</td>
-<td>Photography</td>
-<td>240(1) 242(1)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Water Dial</td>
-<td>Collect and let out water</td>
-<td>Putting out fires</td>
-<td>241(1)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Impact Dial</td>
-<td>Absorb and release impact</td>
-<td>Sky battling</td>
-<td>256(1) 257(1) 263(3) 307(1) 308(2) 333(1) 425(1) 465(1)</td>
-<td></td>
-<td><img src="../Random/Manga/impact-dial.png" alt="impact"></td>
-</tr>
-<tr>
-<td>Reject Dial</td>
-<td>10x more powerful than an Impact dial</td>
-<td>Advanced sky battling</td>
-<td>257(2) 261(1) 264(1) 269(1) 275(1) 276(1) 296(1)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Heat Dial</td>
-<td>Preserve and let out heat</td>
-<td>Cooking, Heat Javelins</td>
-<td>257(1)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Axe Dial</td>
-<td>Powerful and sharp (?)</td>
-<td>Advanced sky battling</td>
-<td>257(2) 258(1) 262(1) 263(1) 268(1) 270(1)</td>
-<td>Not Skypiea</td>
-<td></td>
-</tr>
-<tr>
-<td>Milky Dial</td>
-<td>Creates clouds (?)</td>
-<td>Sky battling, transportation</td>
-<td>259(1) 262(1) 263(1) 264(1) 300(1) 303(1)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Jet Dial</td>
-<td>Faster Impact dial</td>
-<td>Sky battling</td>
-<td>262(1) 265(1) 286(1) 296(1) 307(1)</td>
-<td>Bilka, Extinct</td>
-<td></td>
-</tr>
-<tr>
-<td>NOID</td>
-<td>Creates an iron cloud that chases its target forever</td>
-<td>Sky battling</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Flash Dial</td>
-<td>Flashes opponent</td>
-<td>Sky battling</td>
-<td>332(1) 465(1)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Breath Dial</td>
-<td></td>
-<td>Sky battling</td>
-<td>465(1)</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<h2 class="mume-header" id="notes-1">Notes</h2>
-
-<h2 class="mume-header" id="info">Info</h2>
-
-<ul>
-<li>A dial is the shell of a dead shellfish</li>
-<li>If the shell remains intact, a dial should work even after 200 years</li>
-<li>Skypiea civilization wouldn&#x2019;t function without dials</li>
-<li>There are dial-craft engineers</li>
-<li>Dial ships
-<ul>
-<li>
-<details><summary> Karasumaru </summary> A ship slower than a waver that has 2 wind dials.<img src="../Random/Manga/dial-boat.png" alt="dial boat"> </details>
-</li>
-</ul>
-</li>
-<li>Users can use a Reject dial once or twice before they die</li>
-</ul>
-<h3 class="mume-header" id="dial-crafts">Dial Crafts</h3>
-
-<ul>
-<li>Impact Dial + Glove/Bandage = Weapon that can kill people</li>
-<li>Heat Dial + Spear = Heat Javelin <img src="../Random/Manga/heat-javelin.png" alt="heat-javelin"></li>
-<li>Flame Dial + Bird (inside its beak) = Fire-Breathing Bird <img src="../Random/Manga/fire-breathing-bird.png" alt="fire-breathing-bird"></li>
-<li>Wind Dial + Gas + Bazooka = Burn Bazooka, Burns everything in its way with a small flame</li>
-<li>Jet Dial + Waver = Even Faster Waver <img src="../Random/Images/jet-waver.png" alt="jet-waver"></li>
-</ul>
-<h2 class="mume-header" id="legend">Legend</h2>
-
+<h2 id="pretty-scenes">Pretty Scenes</h2>
+<details> <summary> Quifrey's Atelier, Witch Hat Atelier, Chapter 2 </summary> <img src= https://i.imgur.com/R3pzvbf.png/> </details>
+<details> <summary> Dadah Range, Witch Hat Atelier, Chapter 4 </summary> <img src=https://i.imgur.com/IPOm3M5.png/> </details>
+<details> <summary> Juuzou's Hands, Tokyo Ghoul, Chapter 49 </summary> <img src=https://i.imgur.com/3ulITiI.png /> </details>
+<details> <summary> Skarn Deposit, Dr. Stone </summary> <img src=..\Random\Manga\skarn-deposit.png/> </details>
+<h2 id="one-piece-notes">One piece notes</h2>
+<h3 id="devil-fruits">Devil Fruits</h3>
+<p>@import &quot;<a href="http://devil-fruits.html">devil-fruits.md</a>&quot;</p>
+<h3 id="dials">Dials</h3>
+<p>@import &quot;<a href="http://dials.html">dials.md</a>&quot;</p>
+<h2 id="legend">Legend</h2>
 <table>
 <thead>
 <tr>
@@ -1361,7 +781,7 @@ button:hover {
 <th>NO</th>
 <th>SH</th>
 <th>DNF</th>
-<th>&#x1F62D;</th>
+<th>:sob:</th>
 </tr>
 </thead>
 <tbody>
@@ -1379,59 +799,5 @@ button:hover {
 </tbody>
 </table>
 
-      </div>
-      <div class="md-sidebar-toc"><ul>
-<li><a href="#not-finished-anime">Not Finished Anime</a></li>
-<li><a href="#finished-anime">Finished Anime</a></li>
-<li><a href="#not-finished-manga">Not Finished Manga</a></li>
-<li><a href="#finished-manga">Finished Manga</a></li>
-<li><a href="#quotes">Quotes</a>
-<ul>
-<li><a href="#anime">Anime</a></li>
-<li><a href="#manga">Manga</a></li>
-</ul>
-</li>
-<li><a href="#pretty-scenes">Pretty Scenes</a></li>
-<li><a href="#one-piece-notes">One piece notes</a>
-<ul>
-<li><a href="#devil-fruits">Devil Fruits</a></li>
-</ul>
-</li>
-<li><a href="#notes">Notes</a>
-<ul>
-<li><a href="#dials">Dials</a></li>
-</ul>
-</li>
-<li><a href="#notes-1">Notes</a></li>
-<li><a href="#info">Info</a>
-<ul>
-<li><a href="#dial-crafts">Dial Crafts</a></li>
-</ul>
-</li>
-<li><a href="#legend">Legend</a></li>
-</ul>
-</div>
-      <a id="sidebar-toc-btn">&#x2261;</a>
-    
-    
-    
-    
-    
-    
-    
-    
-<script>
-
-var sidebarTOCBtn = document.getElementById('sidebar-toc-btn')
-sidebarTOCBtn.addEventListener('click', function(event) {
-  event.stopPropagation()
-  if (document.body.hasAttribute('html-show-sidebar-toc')) {
-    document.body.removeAttribute('html-show-sidebar-toc')
-  } else {
-    document.body.setAttribute('html-show-sidebar-toc', true)
-  }
-})
-</script>
-      
-  
-    </body></html>
+    </body>
+    </html>
