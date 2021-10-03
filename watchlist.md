@@ -1,88 +1,105 @@
 ## Not Finished Anime
 
-| Title                           |    EP     |  M  | O | Notes                                            |
-|---------------------------------|:---------:|:---:|:-:|--------------------------------------------------|
-| Cells at Work (CAW)             |   12/21   |  0  | x | need to rewatch                                  |
-| The Disastrous Life of Saiki K. | 48+1/48+6 |  0  | x | VG, really funny and whimsical                   |
-| Tokyo Ghoul (TG)                |   12/48   |  0  | x | DNF, will read manga instead                     |
-| Fairy tail                      |  50/328   |  ?  | ? | DNF, too icky and trash fanservicy               |
-| Gakuen Babysitters              |   1/12    | 0/2 | x | Cute people                                      |
-| Evangelion                      |   0/26    |  0  | x | +, very popular                                  |
-| Re:Zero                         |           |     |   | +++, thought it was romance but apparently isn't |
-| Cowboy Bebop                    |   0/26    |  1  | x | +++                                              |
-| Golden Kamuy                    |   0/36    |  0  | x | +++                                              |
-| Yona of the Dawn (YOTD)         |   5/24    |  0  | x | +++                                              |
-| Baccano!                        |   0/13    |  0  | x | ++                                               |
-| Psycho-Pass                     |           |     |   | ++                                               |
-| Parasyte                        |           |     |   | ++                                               |
-| Fullmetal Alchemist:B (FMAB)    |           |     | x | ++                                               |
-| Code Geass                      |   0/55    |     |   | +                                                |
-| Godzilla Singular Point (GSP)   |    0/?    | 0/? | ? | +                                                |
-| Gurren Lagann                   |   0/27    |  0  | x | +                                                |
-| Penguindrum                     |           |     |   | +                                                |
-| Noragami                        |   0/25    |  0  | x | +                                                |
-| Samurai Champloo                |           |     |   | +                                                |
-| Steins;Gate                     |           |     |   | +                                                |
-| Violet Evergarden               |           |     |   | +                                                |
-| Your Name                       |     0     | 0/1 | x | +                                                |
-| Banana Fish                     |   0/24    |  0  | x |                                                  |
-| Sonny Boy                       |           |     |   |                                                  |
+| Title                           |    EP     |  M  | O | Notes                                         |
+|---------------------------------|:---------:|:---:|:-:|-----------------------------------------------|
+| Cells at Work (CAW)             |   12/21   |  0  | x | need to rewatch                               |
+| The Disastrous Life of Saiki K. | 48+1/48+6 |  0  | x | VG, really funny and whimsical                |
+| Cowboy Bebop                    |   21/26   |  1  | x | +++, temporarily dropping because it's boring |
+| Golden Kamuy                    |   0/36    |  0  | x | +++                                           |
+| Baccano!                        |   0/13    |  0  | x | ++                                            |
+| Psycho-Pass                     |     ?     |  ?  | ? | ++                                            |
+| Fullmetal Alchemist (FMAB)      |     ?     |  ?  | x | ++                                            |
+| Code Geass                      |   0/55    |  ?  | ? | +                                             |
+| Evangelion                      |   0/26    |  ?  | x | +                                             |
+| Godzilla Singular Point (GSP)   |    0/?    | 0/? | ? | +                                             |
+| Gurren Lagann                   |   0/27    |  0  | x | +                                             |
+| Penguindrum                     |     ?     |  ?  | ? | +                                             |
+| Noragami                        |   0/25    |  0  | x | +                                             |
+| Samurai Champloo                |     ?     |  ?  | ? | +                                             |
+| Steins;Gate                     |     ?     |  ?  | ? | +                                             |
+| Violet Evergarden               |     ?     |  ?  | ? | +                                             |
+| Your Name                       |     0     | 0/1 | x | +                                             |
+| Banana Fish                     |   0/24    |  0  | x | popular                                       |
+| Sonny Boy                       |     ?     |  ?  | ? | chinese                                       |
+| Tokyo Ghoul (TG)                |   12/48   |  0  | x | DNF, will read manga instead                  |
+| Fairy tail                      |  50/328   |  ?  | ? | DNF, too icky and trash fanservicy            |
 
 ## Finished Anime
 
-| Title                            | EP  | M | O | Notes                                                         |
-|----------------------------------|:---:|:-:|:-:|---------------------------------------------------------------|
-| JoJo's Bizarre Adventures (JJBA) | 152 | ? | v | VG, the best shit posting                                     |
-| Bungou Stray Dogs (BSD)          | 37  | 1 | x | VG, s4 when :sob:                                             |
-| Spirited Away                    |  0  | 1 | x | VG, pig scene kinda spoop                                     |
-| Death Note (DN)                  | 37  | 2 | x | VG, never heard of a gun :sob:                                |
-| Assassination Classroom          | 47  | 0 | x | VG, i didn't think i could cry over this yellow octopus :sob: |
-| Hunter × Hunter (HxH)            | 148 | 2 | x | VG, hunter exam arc is so cozy :sob:                          |
-| Jujutsu Kaisen (JJK)             | 24  | 0 | v | VG, great animation, finally female characters that are good  |
-| My Neighbour Totoro              |  0  | 1 | x | VG, cute and wholesome                                        |
-| Attack on Titan (AOT)            | 76  | 0 | v | VG, S4 kinda bad                                              |
-| Sk8 the Infinity (SK8)           | 12  | 0 | x | PG, queerbait smh                                             |
-| Demon Slayer (DS)                | 27  | 1 | v | PG, overrated but art carries                                 |
-| Mob Psycho 100 (MP100)           | 25  | 0 | x | PG, ++, too rushed & some things weren't explained, but nice  |
-| ERASED                           | 12  | 0 | x | PG, ++, kinda spooky with a trash ending                      |
-| The Promised Neverland (TPN)     | 23  | 0 | x | NO, really put 3 arcs into 3 min slideshow huh                |
-| Dr. Stone                        | 35  | 0 | x | NO, +, dr misogynistone & trash fans                          |
-| Charlotte                        | 13  | 0 | x | MEH, ++, only good part was ½ of ep13, bad tone shifts & pace |
-| Yuri on Ice                      | 12  | 0 | x | G, lots of characters developed at the same time well         |
-| Wonder Egg Priority (WEP)        | 13  | 0 | v | G, dark :sob: but why did you fuck it up                      |
-| One Punch Man (OPM)              | 24  | 0 | x | G, +, no plot but fun to watch when bored                     |
+| Title                            | EP  | M | O | Notes                                                                               |
+|----------------------------------|:---:|:-:|:-:|-------------------------------------------------------------------------------------|
+| JoJo's Bizarre Adventures (JJBA) | 152 | ? | v | VG, the best shit posting                                                           |
+| Bungou Stray Dogs (BSD)          | 37  | 1 | x | VG, s4 when :sob:                                                                   |
+| Death Note (DN)                  | 37  | 2 | x | VG, never heard of a gun :sob:                                                      |
+| Hunter × Hunter (HxH)            | 148 | 2 | x | VG, hunter exam arc is so cozy :sob:                                                |
+| Parasyte                         | 24  | 0 | x | VG, ++, seeing Izumi lose his humanity and Migi become more human is great :sob:    |
+| Assassination Classroom          | 47  | 0 | x | VG, stupid yellow octopus :sob:                                                     |
+| Attack on Titan (AOT)            | 76  | 0 | v | VG, S4 kinda bad                                                                    |
+| Jujutsu Kaisen (JJK)             | 24  | 0 | v | VG, great animation, finally female characters that are good                        |
+| Spirited Away                    |  0  | 1 | x | VG, pig scene kinda spoop                                                           |
+| My Neighbour Totoro              |  0  | 1 | x | VG, cute and wholesome                                                              |
+| Mob Psycho 100 (MP100)           | 25  | 0 | x | VG, ++, too rushed & some things weren't explained, but nice                        |
+| Sk8 the Infinity (SK8)           | 12  | 0 | x | PG, queerbait smh                                                                   |
+| Demon Slayer (DS)                | 27  | 1 | v | PG, overrated but art carries                                                       |
+| ERASED                           | 12  | 0 | x | PG, ++, kinda spooky with a trash ending                                            |
+| Yuri on Ice                      | 12  | 0 | x | G, lots of characters developed at the same time well                               |
+| Wonder Egg Priority (WEP)        | 13  | 0 | v | G, dark :sob: but why did you fuck it up                                            |
+| One Punch Man (OPM)              | 24  | 0 | x | G, +, no plot but fun to watch when bored                                           |
+| Charlotte                        | 13  | 0 | x | MEH, ++, only good part was ½ of ep13, bad tone shifts & pace                       |
+| Yona of the Dawn (YOTD)          | 24  | 0 | x | MEH, MC is used only for moving the plot along, tries to be too many things at once |
+| The Promised Neverland (TPN)     | 23  | 0 | x | NO, really put 3 arcs into 3 min slideshow huh                                      |
+| Dr. Stone                        | 35  | 0 | x | NO, +, dr misogynistone & trash fans                                                |
 
 ## Not Finished Manga
 
-| Title                    |     C     | O | Notes                                                                                                        |
-|--------------------------|:---------:|:-:|--------------------------------------------------------------------------------------------------------------|
-| Tokyo Ghoul:re           |  71/179   | x | Writing is terrible compared to previous TG                                                                  |
-| Bungou Stray Dogs (BSD)  |   35/92   | v |                                                                                                              |
-| Berserk                  | 16+88/363 | x | Should have stopped before the eclipse & people are so butthurt when you don't like something about it lmao  |
-| Deathnote                |  65/110   | x | +, VG so far                                                                                                 |
-| One Piece                | 719/1027  | v | +++, VG so far, dials and devil fruits are amazing, post water 7 it's just wow, punk hazard is burning trash |
-| 20th Century Boys (20CB) |   0/249   | x | ++                                                                                                           |
-| Vinland Saga             |   0/183   | v | +                                                                                                            |
-| Vagabond                 |   0/327   | x | +                                                                                                            |
-| Terra Formars            |     ?     | v |                                                                                                              |
-| Black Butler             |   0/176   | v |                                                                                                              |
+| Title                      |     C     | O | Notes                                                                                                |
+|----------------------------|:---------:|:-:|------------------------------------------------------------------------------------------------------|
+| Tokyo Ghoul:re             |  76/179   | x | Writing is terrible compared to previous TG                                                          |
+| Bungou Stray Dogs (BSD)    |   35/92   | v | i'll get back to it someday                                                                          |
+| JoJo Part 7 Steel Ball Run |   84/95   | x | gyro enjoyer                                                                                         |
+| Berserk                    | 16+88/363 | x | Should have stopped before the eclipse & fans are so butthurt when you don't like something about it |
+| Deathnote                  |  65/110   | x | +,                                                                                                   |
+| One Piece                  | 719/1027  | v | +++, dials and devil fruits are amazing, post water 7 it's just wow, punk hazard is burning trash    |
+| 20th Century Boys (20CB)   |           |   | ++                                                                                                   |
+| Vinland Saga               |           |   | +                                                                                                    |
+| Vagabond                   |           |   | +                                                                                                    |
+| Yotsuba                    |           |   | +, slice of life                                                                                     |
+| So I'm a Spider, So What   |   25/53   | v | isekai trash and g*mer                                                                               |
+| My Home Hero               |           |   | murder mystery thing                                                                                 |
+| Spy x Family               |           |   | spy & esper & assassin live together                                                                 |
+| Terra Formars              |           |   | about some bug stuff, sounds interesting                                                             |
+| Black Butler               |           |   | popular                                                                                              |
 
 ## Finished Manga
 
-| Title                   |    C    | O | Notes                                                                                     |
-|-------------------------|:-------:|:-:|-------------------------------------------------------------------------------------------|
-| Witch Hat Atelier (WHA) |  47/47  | v | VG, really chill and cute                                                                 |
-| Jujutsu Kaisen (JJK)    | 155/155 | v | VG, although this culling thing seems shit                                                |
-| Tokyo Ghoul (TG)        |   143   | x | VG, Juuzou is an amazing character and Arima is a meanie                                  |
-| Chainsaw Man (CSM)      |   97    | x | PG, ++ ending too unclear & too rushed as a whole, gun arc & Denji training are too short |
-| Fire Punch              |   83    | x | MEH, weird and doesn't make much sense                                                    |
-| JoJo Part 6 (JJBA6)     |   158   | x | G, what?                                                                                  |
-| Yu Yu Hakusho           |   175   | x | G, very cheesy and boring but enjoyable                                                   |
-| Tokyo Ghoul Jack        |    7    | x | G, colours were pretty                                                                    |
+| Title                   |    C    | O | Notes                                                                                                     |
+|-------------------------|:-------:|:-:|-----------------------------------------------------------------------------------------------------------|
+| Witch Hat Atelier (WHA) |  47/47  | v | VG, really chill and cute                                                                                 |
+| Jujutsu Kaisen (JJK)    | 161/161 | v | VG, although this culling thing seems shit                                                                |
+| Delicious in Dungeon    |  77/77  | x | VG, funny, great characters, amazing world building and takes on fantasy creatures, perfect foreshadowing |
+| Tokyo Ghoul (TG)        |   143   | x | VG, Juuzou is an amazing character and Arima is a meanie                                                  |
+| Skip to Loafer          |  35/35  | v | VG, cutesy & rElAtAbLe, great characters and very exciting                                                |
+| Chainsaw Man (CSM)      |   97    | x | PG, ++ ending too unclear & too rushed as a whole, gun arc & Denji training are too short                 |
+| JoJo Part 6 Stone Ocean |   158   | x | G, what?                                                                                                  |
+| Yu Yu Hakusho           |   175   | x | G, very cheesy and boring but enjoyable                                                                   |
+| Tokyo Ghoul Jack        |    7    | x | G, colours were pretty                                                                                    |
+| Bastard (Manhwa)        |   93    | x | MEH, mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                 |
+| Mieruko-Chan            |  37/37  | v | MEH, cool art, interesting premise but almost no plot and explanation, when miko cries :pensive:          |
+| Fire Punch              |   83    | x | MEH, weird and doesn't make much sense                                                                    |
 
 ## Quotes
 
 ### Anime
+
+<details><summary> Cowboy Bebop </summary> 
+
+> "Hey, Jet, did you know that there are three things I hate?"
+> 
+> did, EP 
+> 
+> <details> <summary> Context </summary> Summary </details>
+
+</details>
 
 <details> <summary> Deathnote </summary>
 
@@ -270,6 +287,23 @@
 >
 > <details> <summary> Context </summary> Giorno is healing Mista's wounds after the fight with Ghiaccio. </details>
 
+<details><summary> Yona Of The Dawn </summary>
+
+> "Who are you?" - Yona
+> "I'm Yun. I'm just a passing handsome boy, so you don't have to remember me."
+> 
+> Yona and Yun, EP 6
+> 
+> <details> <summary> Context </summary> Yona and Hak fall off a cliff and Yun saves them. </details>
+
+> "Let me out! I may be handsome, but putting me in a cage is in poor taste!"
+> 
+> Yun, EP 10
+> 
+> <details> <summary> Context </summary> Yun gets caught by the Wind Dragon Tribe </details>
+
+</details>
+
 </details>
 
 ### Manga
@@ -346,8 +380,8 @@
 |----------|---------|--------|---------|----------|--------|-------------|
 | Episodes | Seasons | Movies | Ongoing | Chapters | Yes/No | Recommended |
 
-| GG     | VG        | PG          | G    | ALR     | MEH | NO | SH   | DNF | :sob: |
-|--------|-----------|-------------|------|---------|-----|----|------|-----|-------|
-| GiGant | Very Good | Pretty Good | Good | Alright | Meh | No | Shit | DNF | cried |
+| VG        | PG          | G    | ALR     | MEH | NO | SH   | DNF | :sob: |
+|-----------|-------------|------|---------|-----|----|------|-----|-------|
+| Very Good | Pretty Good | Good | Alright | Meh | No | Shit | DNF | cried |
 
 [//]: # "32 Muda 79 yare 44 Ora 46 Za Warudo 69 Dora"
