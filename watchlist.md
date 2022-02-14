@@ -1,144 +1,164 @@
 ## Not Finished Manga
 
-| Title                          |    C     | O | Notes                                                                                          |
-|--------------------------------|:--------:|:-:|------------------------------------------------------------------------------------------------|
-| Mashle                         |  67/87   | v | +, opmy/moby                                                                                   |
-| Komi Can't Communicte          |  72/331  | v | PG, wholesome, cute and relatable, fanservice kinda meh, repetitive                            |
-| Golden Kamuy                   |  37/293  | v | darker dungeon meshi                                                                           |
-| World Trigger                  |  0/215   | v | ++                                                                                             |
-| Grand Blue                     |          | x | trash                                                                                          |
-| Lucifer and the Biscuit Hammer |          | x | +                                                                                              |
-| He Does Not Have Any Friends   |  0/81.5  | x | +                                                                                              |
-| Saint Young Men                |  22/52   | H | hilarious, great premise                                                                       |
-| Mushishi                       |   5/50   | x | slice of lifey                                                                                 |
-| Snow White with The Red Hair   |  6/125   | v | ++, bad panelling                                                                              |
-| Toriko                         |  4/396   |   | similar to DM                                                                                  |
-| Magus of the Library           |          |   | +, Similar to WHA                                                                              |
-| Collete Decides to Die         |          |   | +                                                                                              |
-| 20th Century Boys (20CB)       |  0/249   | x | ++                                                                                             |
-| Our Happy Hours                |   0/8    | x | deep                                                                                           |
-| Happiness                      |   0/50   | x | tgy                                                                                            |
-| Jagaaaaaan                     |  0/144   | v | similar to parasyte                                                                            |
-| Nausicaa                       |          | x |                                                                                                |
-| Bungou Stray Dogs (BSD)        |  35/95   | v | ChuuuYA!                                                                                       |
-| Black Butler                   |  0/181   | v | popular                                                                                        |
-| Tokyo Revengers                |  0/228   | v |                                                                                                |
-| The Eminence in Shadow         |   0/34   | v | +, isekai trash                                                                                |
-| Tougen Anki                    |   0/71   | v | +                                                                                              |
-| Planetes                       |   2/26   | x | +                                                                                              |
-| Drifting Classroom             |          | x | ++, horror                                                                                     |
-| Dorohedoro                     |  0/167   | x |                                                                                                |
-| Monster                        |  0/162   | x |                                                                                                |
-| Billy Bat                      |  0/165   | x |                                                                                                |
-| Pluto                          |   0/65   | x |                                                                                                |
-| Stargazing Dog                 |   0/2    | x |                                                                                                |
-| The Walking Man                |          | x | slicey of lifey                                                                                |
-| Hell's Paradise - Jigoraku     |          |   |                                                                                                |
-| Yotsuba                        |          |   | +, slice of life                                                                               |
-| The Way of the Househusband    |          | v | slice of lifey                                                                                 |
-| Insomniacs After School        |          |   | slice of life                                                                                  |
-| Blue Period                    |          |   |                                                                                                |
-| National Lottery               |          |   | literally capitalism                                                                           |
-| Terra Formars                  |          |   | jacked hlebarki                                                                                |
-| Vinland Saga                   |          |   | +                                                                                              |
-| A Silent Voice                 |          |   | deep                                                                                           |
-| Bokurano                       |          |   | +, depresso                                                                                    |
-| My Home Hero                   |          |   | murder mystery thing                                                                           |
-| Vagabond                       |          |   | +                                                                                              |
-| Deathnote                      |  68/110  | x |                                                                                                |
-| One Piece                      | 719/1031 | v | +++, dials & devil fruits are great, >water 7 is great to punk hazard, trash fans & fanservice |
-| Berserk                        |  88/363  | x | Should have stopped before the eclipse & war themed slice of life                              |
-| Tokyo Ghoul:re                 |  76/179  | x | writing is terrible compared to previous TG                                                    |
-| The Promised Neverland (TPN)   |  1/189   | x | i need something to make up for season 2 but will wait a bit to forget it more                 |
+| Title                          |    C     | O | Notes                                                                                              |
+|--------------------------------|:--------:|:-:|----------------------------------------------------------------------------------------------------|
+| Toriko                         | 141/396  | x | WR, great worldbuilding & magic system, like an extenion of HxH                                    |
+| Dragon Ball                    |          |   |                                                                                                    |
+| Naruto                         |          |   | +                                                                                                  |
+| Bleach                         |          |   |                                                                                                    |
+| One Piece                      | 719/1034 | v | PG, +++, dials & devil fruits are great, >water 7 is great to punk hazard, trash fans & fanservice |
+| Psyren                         |          |   | +                                                                                                  |
+| Gash Bell                      |          |   | +                                                                                                  |
+| World Trigger                  |  0/215   | v | +++                                                                                                |
+| Magus of the Library           |  10/24   | v | +, Similar to WHA                                                                                  |
+| Kingdom                        |  0/703   | v |                                                                                                    |
+| Black Butler                   |  4/182   | v | popular                                                                                            |
+| Golden Kamuy                   |  37/297  | v | darker dungeon meshi                                                                               |
+| Happiness                      |  13/50   | x | tgy                                                                                                |
+| Vinland Saga                   |          |   | ++                                                                                                 |
+| Our Happy Hours                |   0/8    | x | deep                                                                                               |
+| The Witch and The Beast        |   2/37   | v | swag                                                                                               |
+| Lucifer and the Biscuit Hammer |   9/65   | x | +, mid/mid                                                                                         |
+| Snow White With The Red Hair   |  6/125   | v | ++, bad panelling                                                                                  |
+| He Does Not Have Any Friends   |  0/81.5  | x | +                                                                                                  |
+| Saint Young Men                |  22/52   | H | hilarious, great premise                                                                           |
+| 20th Century Boys (20CB)       |  0/249   | x | ++                                                                                                 |
+| Jagaaaaaan                     |  0/148   | v | similar to parasyte                                                                                |
+| Tougen Anki                    |   0/71   | v | +                                                                                                  |
+| The Eminence in Shadow         |   0/34   | v | +, isekai trash                                                                                    |
+| Dorohedoro                     |  0/167   | x |                                                                                                    |
+| Kengan Ashura                  |          | x | ++                                                                                                 |
+| Mushishi                       |   5/50   | x | slice of lifey                                                                                     |
+| Blue Period                    |          |   |                                                                                                    |
+| Monster                        |  0/162   | x |                                                                                                    |
+| Balancing Toy                  |   0/10   | x |                                                                                                    |
+| Drifting Classroom             |          | x | ++, horror                                                                                         |
+| Bokurano                       |          |   | +, depresso                                                                                        |
+| Terra Formars                  |          |   | jacked hlebarki                                                                                    |
+| Yotsuba                        |          |   | +, slice of life                                                                                   |
+| Medaka Box                     |          |   | +, very ()/10                                                                                      |
+| Collete Decides to Die         |          |   | +                                                                                                  |
+| Hell's Paradise - Jigoraku     |          |   |                                                                                                    |
+| National Lottery               |          |   | literally capitalism                                                                               |
+| My Home Hero                   |          |   | murder mystery thing                                                                               |
+| Insomniacs After School        |          |   | slice of life                                                                                      |
+| The Way of the Househusband    |          | v | slice of lifey                                                                                     |
+| The Walking Man                |          | x | slicey of lifey                                                                                    |
+| Nausicaa                       |          | x |                                                                                                    |
+| Pluto                          |   0/65   | x |                                                                                                    |
+| Grand Blue                     |   0/73   | x | trash                                                                                              |
+| Billy Bat                      |  0/165   | x |                                                                                                    |
+| Planetes                       |   2/26   | x | +                                                                                                  |
+| Bungou Stray Dogs (BSD)        |  35/95   | v | Waiting to read all irl authors                                                                    |
+| Deathnote                      |  68/110  | x |                                                                                                    |
+| Tokyo Ghoul:re                 |  76/179  | x | writing is terrible compared to previous TG                                                        |
+| Berserk                        |  88/363  | x | Should have stopped before the eclipse, war themed slice of life                                   |
+| The Promised Neverland         |  1/189   | x | i need something to make up for season 2 but will wait a bit to forget it more                     |
 
 ## Finished Manga
 
-| Title                        |    C    | O | Notes                                                                                              |
-|------------------------------|:-------:|:-:|----------------------------------------------------------------------------------------------------|
-| Hunter × Hunter (HxH)        | 390/390 | H | VG, 318 is the most beautiful thing, panelling is great, art bad to 250, too fast sometimes, wordy |
-| JoJo Part 7: Steel Ball Run  |   95    | x | VG, gyro enjoyer, actually good plot, great stands, kinda wacky ending, funny valentine is epic    |
-| Witch Hat Atelier (WHA)      |  47/51  | v | VG, really chill and cute, amazing charaters, beautiful art and super creative magic system        |
-| Assassination Classroom      |   180   | x | VG, amazing characters, funny but haven't cried this much in so long :sob:                         |
-| Kuutei Dragons               |  65/65  | v | VG, last 2 arcs were great, everyone's hot, great characters, art is too good, flying scaly octopi |
-| Delicious in Dungeon         |  79/79  | x | VG, funny, great characters, amazing world building and fantasy creatures, perfect foreshadowing   |
-| Spy x Family                 |  56/56  | v | VG, exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                    |
-| Jujutsu Kaisen (JJK)         | 163/165 | v | VG, art kinda bad rn, great characters, gojou                                                      |
-| Tokyo Ghoul (TG)             |   143   | x | VG, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                      |
-| The Girl From The Other Side |   53    | x | PG, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, kinda confusing    |
-| Skip to Loafer               |  35/35  | v | PG, cutesy & rElAtAbLe, great characters and very exciting                                         |
-| Our Dining Table             |    8    | x | PG, wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                      |
-| Chainsaw Man (CSM)           |   97    | x | PG, ++ ending too unclear & too rushed as a whole, gun arc & Denji training are too short          |
-| Three Days of Happiness      |   16    | x | PG, dEeP, good take on the value of a life, life isn't black & white, positive nihilism            |
-| Tomie                        |   20    | x | PG, great concept, Painter, Hair, Little Finger, Moromi are really good stories, satisfying        |
-| Hana Wants to Bear Fruit!    |   12    | x | PG, mc has a working brain and isn't a complete simp, the plant metaphor is great                  |
-| Dissolving Classroom         |    5    | x | PG, cool concept, very complete, last chapter felt off topic, stop apologising                     |
-| Giant Spider and Me          |   14    | x | PG, whimsical and cute, they/them for asa is neat, way too short & ending kinda wack               |
-| So I'm a Spider, So What     |  54/54  | v | PG, isekai trash and g@mer, fun, not cringy unlike most gamer media                                |
-| Ajin - Demi Human            |   86    | x | PG, jojo x tokyo ghoul, creative battles, unique art, smoker guy and sato are cool, wack ending    |
-| Our Wonderful Days           |   18    | x | G, nice to see a swag story without swagphobia, wholesome and cute                                 |
-| Lovesickness                 |   10    | x | G, great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                              |
-| Ito Junji's Cat Diary        |   10    | x | G, very fun, horror art/writing style on slice of life is hilarious                                |
-| The Enigma of Amigara Fault  |    1    | x | G, claustrophoby, this is my hole, it was made for me!                                             |
-| Uzumaki                      |   20    | x | G, good art, creepy in a good way, furnace chapters were the best, sometimes too weird             |
-| Yu Yu Hakusho                |   175   | x | G, very cheesy and boring but enjoyable, nice seeing the things taken from it and put in HxH       |
-| JoJo Part 6: Stone Ocean     |   158   | x | G, what?                                                                                           |
-| Gambling Apocalypse: Kaiji   |   158   | x | G, really repetitive, bad pacing, boring art, scanlations are awful, but good premise & sorta dEeP |
-| Boys Run The Riot            |  26/26  | v | G, wholesome                                                                                       |
-| Tokyo Ghoul Jack             |    7    | x | G, colours were pretty                                                                             |
-| Okaeri Aureole               |    5    | x | MEH, wholesome and kinda deep                                                                      |
-| Bastard (Manhwa)             |   93    | x | MEH, mid story but awful panneling, swear word censoring and unrealistic & cheesy moments          |
-| Fire Punch                   |   83    | x | MEH, weird and doesn't make much sense, dystopian setting is nice, split morality world is unique  |
-| Mieruko-Chan                 |  38/38  | v | MEH, okay art, interesting premise but awful execution, when miko cries :pensive:, shit fanservice |
-| Oyasumi Punpun               |   147   | x | SH, ++, too horny, pegasus (early) & mangaka were cool, kinda sad ig, mc design is unique & nice   |
-| Platinum End                 |   58    | x | SH, recycled deathnote, fanservice, impossible to follow battles, annoying useless mc, boring art  |
+| Title                        |    C    | O | Notes                                                                                                      |
+|------------------------------|:-------:|:-:|------------------------------------------------------------------------------------------------------------|
+| Hunter × Hunter (HxH)        | 390/390 | H | VG, RR, 318-most beautiful thing ever, panelling is great, art bad to 250, too fast sometimes, wordy       |
+| JoJo Part 7: Steel Ball Run  |   95    | x | VG, WR, gyro enjoyer, actually good plot, great stands, kinda wacky ending, funny valentine is epic        |
+| Witch Hat Atelier (WHA)      |  47/55  | v | VG, WR, really chill and cute, amazing charaters, beautiful art and super creative magic system            |
+| Assassination Classroom      |   180   | x | VG, RR, amazing characters, funny but haven't cried this much in so long :sob:                             |
+| Delicious in Dungeon         |  80/80  | x | VG, WR, funny, great characters, amazing world building, fantasy creatures, writing, perfect foreshadowing |
+| Kuutei Dragons               |  66/66  | v | VG, last 2 arcs were great, everyone's hot, great characters, art is too good, flying scaly octopi         |
+| Spy x Family (SxF)           |  57/57  | v | VG, exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                            |
+| Tokyo Ghoul (TG)             |   143   | x | VG, WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                          |
+| Jujutsu Kaisen (JJK)         | 169/169 | v | VG, art kinda bad rn, great characters, gojou                                                              |
+| The Girl From The Other Side |   53    | x | PG, RR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, kinda confusing        |
+| Komi Can't Communicte        | 334/334 | v | PG, cute and relatable, fanservice kinda meh, repetitive, kometani <3, little faces are <3, just hjshjh    |
+| Skip to Loafer               |  36/36  | v | PG, cutesy, rElAtAbLe, great characters and very exciting                                                  |
+| Chainsaw Man (CSM)           |   97    | x | PG, ++ ending too unclear, too rushed as a whole, gun arc & Denji training are too short                   |
+| Shinya Shokudou              |  54/54  | v | PG, wholesome, feelsgoodman.png, vibey, unique art style, explains a lot about japanese culture            |
+| Our Dining Table             |    8    | x | PG, wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                              |
+| Tomie                        |   20    | x | PG, great concept, Painter, Hair, Little Finger, Moromi are really good stories, satisfying                |
+| Three Days of Happiness      |   16    | x | PG, dEeP, good take on the value of a life, life isn't black and white, positive nihilism                  |
+| Hana Wants to Bear Fruit!    |   12    | x | PG, mc has a working brain and isn't a complete simp, the plant metaphor is neat                           |
+| Dissolving Classroom         |    5    | x | PG, cool concept, very complete, last chapter felt off topic, stop apologising                             |
+| Giant Spider and Me          |   14    | x | PG, whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                        |
+| Ajin - Demi Human            |   86    | x | PG, jojo x tokyo ghoul, creative battles, unique art, smoker guy and sato are cool, wack ending            |
+| My Dress-up Darling          |  67/67  | v | PG, would be better if it wasn't ecchi, cool learning more about cosplay                                   |
+| Stargazing Dog               |    5    | x | PG, depressing and wholesome at the same time, unique art                                                  |
+| Our Wonderful Days           |   18    | x | G, nice to see a swag story without swagphobia, wholesome and cute                                         |
+| Lovesickness                 |   10    | x | G, great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                      |
+| So I'm a Spider, So What     |  55/55  | v | G, isekai trash and g@mer, fun, not cringy unlike most gamer media                                         |
+| Ito Junji's Cat Diary        |   10    | x | G, very fun, horror art/writing style on slice of life is hilarious                                        |
+| The Enigma of Amigara Fault  |    1    | x | G, claustrophoby, this is my hole, it was made for me!                                                     |
+| Candy & Cigarettes           |  26/26  | v | G, the bad guy is drippy, fun concept, weird idea of muricuns                                              |
+| Uzumaki                      |   20    | x | G, good art, creepy in a good way, furnace chapters were the best, sometimes too weird                     |
+| Yu Yu Hakusho                |   175   | x | G, very cheesy and boring but enjoyable, nice seeing the things taken from it and put in HxH               |
+| Mashle                       |  90/90  | v | G, +, opmy/moby, repetitive humour, meh magic system, sometimes funny                                      |
+| JoJo Part 6: Stone Ocean     |   158   | x | G, what?, too horny at times                                                                               |
+| Gambling Apocalypse: Kaiji   |   158   | x | G, really repetitive, bad pacing, boring art, scanlations are awful, but good premise, sorta dEeP          |
+| Boys Run The Riot            |  26/37  | x | G, wholesome                                                                                               |
+| Tokyo Ghoul Jack             |    7    | x | G, colours were pretty                                                                                     |
+| Okaeri Aureole               |    5    | x | MEH, wholesome and kinda deep                                                                              |
+| Bastard (Manhwa)             |   93    | x | MEH, mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                  |
+| Fire Punch                   |   83    | x | MEH, weird and doesn't make much sense, dystopian setting is nice, split morality world is unique          |
+| Tokyo Revengers              | 235/235 | v | MEH, super drawn out, cheesy, asspull, G-SH, useless mc, bullshit logic, generic, overrated                |
+| Mieruko-Chan                 |  39/39  | v | SH, okay art, cool premise but awful execution, where's the plot, what's happening, shit fanservice        |
+| Oyasumi Punpun               |   147   | x | SH, ++, too horny, pegasus (early) & mangaka were cool, kinda sad ig, mc design is unique & nice           |
+| Platinum End                 |   58    | x | SH, recycled deathnote, fanservice, impossible to follow battles, annoying useless mc, boring art          |
 
 ## Not Finished Anime
 
-| Title                           |    EP     |  M  | O | Notes                                         |
-|---------------------------------|:---------:|:---:|:-:|-----------------------------------------------|
-| Cells at Work (CAW)             |   12/21   |  0  | x | need to rewatch                               |
-| The Disastrous Life of Saiki K. | 48+1/48+6 |  0  | x | VG, really funny and whimsical                |
-| Cowboy Bebop                    |   21/26   | 0/1 | x | +++, temporarily dropping because it's boring |
-| Psycho-Pass                     |     ?     |  ?  | ? | ++                                            |
-| Code Geass                      |   0/55    |  ?  | ? | +                                             |
-| Neon Genesis Evangelion         |   0/26    |  ?  | x | +                                             |
-| Noragami                        |   0/25    |  0  | x | +                                             |
-| Steins;Gate                     |     ?     |  ?  | ? | ++                                            |
-| Violet Evergarden               |     ?     |  ?  | ? | +                                             |
-| Your Name                       |     0     | 0/1 | x | +                                             |
-| Banana Fish                     |   0/24    |  0  | x | ++, gae                                       |
-| Sonny Boy                       |     ?     |  ?  | ? | chinese                                       |
-| Tokyo Ghoul (TG)                |   12/48   |  0  | x | DNF, will read manga instead                  |
-| Fairy tail                      |  50/328   |  ?  | ? | DNF, too icky and trash fanservicy            |
+| Title                            |    EP     | O | Notes                                         |
+|----------------------------------|:---------:|:-:|-----------------------------------------------|
+| Cells at Work (CAW)              |   12/21   | x | need to rewatch                               |
+| The Disastrous Life of Saiki K.  | 48+1/48+6 | x | VG, really funny and whimsical                |
+| Cowboy Bebop                     |   21/26   | x | +++, temporarily dropping because it's boring |
+| Psycho-Pass                      |     ?     | ? | ++                                            |
+| Code Geass                       |   0/55    | ? | +                                             |
+| Neon Genesis Evangelion          |   0/26    | x | +                                             |
+| Noragami                         |   0/25    | x | +                                             |
+| Steins;Gate                      |   0/24    | ? | ++                                            |
+| Violet Evergarden                |     ?     | ? | +                                             |
+| Your Name                        |     1     | x | +                                             |
+| Banana Fish                      |   0/24    | x | ++, gae                                       |
+| Sonny Boy                        |     ?     | ? | chinese                                       |
+| Tokyo Ghoul (TG)                 |   12/48   | x | DNF, will read manga instead                  |
+| Fairy tail                       |  50/328   | ? | DNF, too icky and trash fanservicy            |
+| JoJo's Bizarre Adventures (JJBA) |  155/164  | v | VG, the best shit posting                     |
+
+## Upcoming Anime
+
+| Title                            |   EP    | O | Notes                                                                                            |
+|----------------------------------|:-------:|:-:|--------------------------------------------------------------------------------------------------|
+| Attack on Titan (AOT)            |   76    | v | 2022-01-10, VG, really good worldbuilding, hopefully the ending isn't as bad as people say it is |
+| My Dress-up Darling              |    X    | v | 2022-01-09                                                                                       |
+| JoJo's Bizarre Adventures (JJBA) | 155/164 | v | 2021-12-01, VG, the best shit posting                                                            |
+| Demon Slayer                     |  27+8   | v | 2021-12-05, G, overrated but art carries, campy, boring mc, generic asf                          |
+| Spy x Family                     |    X    | v | 2022-04-XX                                                                                       |
+| JJK 0 MOVIE                      |    1    | x | 2022-xx-xx                                                                                       |
 
 ## Finished Anime
 
-| Title                            | EP  | M | O | Notes                                                                                            |
-|----------------------------------|:---:|:-:|:-:|--------------------------------------------------------------------------------------------------|
-| JoJo's Bizarre Adventures (JJBA) | 152 | 0 | v | VG, the best shit posting                                                                        |
-| Bungou Stray Dogs (BSD)          | 37  | 1 | x | VG, s4 when :sob:                                                                                |
-| Hunter × Hunter                  | 148 | 2 | x | VG, hunter exam arc is so cozy :sob:                                                             |
-| Death Note (DN)                  | 37  | 2 | x | VG, never heard of a gun :sob:                                                                   |
-| Parasyte                         | 24  | 0 | x | VG, ++, seeing Izumi lose his humanity and Migi become more human is great :sob:                 |
-| Assassination Classroom          | 47  | 0 | x | VG, stupid yellow octopus :sob:                                                                  |
-| Attack on Titan (AOT)            | 76  | 0 | v | VG, S4 kinda bad                                                                                 |
-| Jujutsu Kaisen (JJK)             | 24  | 0 | v | VG, great animation, finally female characters that are good                                     |
-| My Neighbour Totoro              |  0  | 1 | x | VG, cute and wholesome                                                                           |
-| Mob Psycho 100 (MP100)           | 25  | 0 | x | VG, ++, too rushed & some things weren't explained, but nice                                     |
-| Sk8 the Infinity (SK8)           | 12  | 0 | x | PG, queerbait smh                                                                                |
-| Spirited Away                    |  0  | 1 | x | PG, pig scene kinda spoop                                                                        |
-| ERASED                           | 12  | 0 | x | PG, ++, kinda spooky with a trash ending                                                         |
-| Yuri on Ice                      | 12  | 0 | x | PG, lots of characters developed at the same time well                                           |
-| Demon Slayer (DS)                | 27  | 1 | v | G, overrated but art carries                                                                     |
-| Wonder Egg Priority (WEP)        | 13  | 0 | v | G, dark :sob: but why did you fuck it up                                                         |
-| One Punch Man (OPM)              | 24  | 0 | x | G, +, no plot but fun to watch when bored                                                        |
-| Howl's Moving Castle             |  0  | 1 | x | MEH, boring, forgetable, nice fantasy creatures, where's the explanation & backstory, bad pacing |
-| Charlotte                        | 13  | 0 | x | MEH, ++, only good part was half of ep13, bad tone shifts & pacing, ok concept                   |
-| Yona of the Dawn (YOTD)          | 24  | 0 | x | MEH, MC is used only for moving the plot along, tries to be too many things at once              |
-| Porco Rosso                      |  0  | 1 | x | MEH, +, sexism, no explanation, not fantasy and just boring                                      |
-| The Promised Neverland (TPN)     | 23  | 0 | x | SH, really put 3 arcs into 3 min slideshow huh                                                   |
-| Dr. Stone                        | 35  | 0 | x | SH, +, dr misogynistone & trash fans                                                             |
-| Fullmetal Alchemist: Brotherhood | 64  | 0 | x | SH, ++, tropey, bad humour, awful pacing, annoying characters, stupid writing, okay ending       |
+| Title                            | EP  | O | Notes                                                                                               |
+|----------------------------------|:---:|:-:|-----------------------------------------------------------------------------------------------------|
+| Bungou Stray Dogs (BSD)          | 37  | x | VG, s4 when :sob:                                                                                   |
+| Hunter × Hunter                  | 148 | x | VG, hunter exam arc is so cozy :sob:                                                                |
+| Death Note (DN)                  | 37  | x | VG, never heard of a gun :sob:                                                                      |
+| Parasyte                         | 24  | x | VG, ++, seeing Izumi lose his humanity and Migi become more human is great :sob:                    |
+| Assassination Classroom          | 47  | x | VG, stupid yellow octopus :sob:                                                                     |
+| Jujutsu Kaisen (JJK)             | 24  | v | VG, great animation, finally female characters that are good                                        |
+| My Neighbour Totoro              |  1  | x | VG, cute and wholesome                                                                              |
+| Mob Psycho 100 (MP100)           | 25  | x | VG, ++, too rushed,, some things weren't explained, but nice                                        |
+| Sk8 the Infinity (SK8)           | 12  | x | PG, queerbait smh                                                                                   |
+| Spirited Away                    |  1  | x | PG, pig scene kinda spoop                                                                           |
+| ERASED                           | 12  | x | PG, ++, kinda spooky with a trash ending                                                            |
+| Yuri on Ice                      | 12  | x | PG, lots of characters developed at the same time well                                              |
+| Wonder Egg Priority (WEP)        | 13  | v | G, dark :sob: but why did you fuck it up                                                            |
+| One Punch Man (OPM)              | 24  | x | G, +, no plot but fun to watch when bored                                                           |
+| Howl's Moving Castle             |  1  | x | MEH, boring, forgetable, nice fantasy creatures, where's the explanation & backstory, bad pacing    |
+| Charlotte                        | 13  | x | MEH, ++, only good part was half of ep13, bad tone shifts & pacing, ok concept                      |
+| Yona of the Dawn (YOTD)          | 24  | x | MEH, MC is used only for moving the plot along, tries to be too many things at once                 |
+| Porco Rosso                      |  1  | x | MEH, +, sexism, no explanation, not fantasy and just boring                                         |
+| The Promised Neverland (TPN)     | 23  | x | SH, really put 3 arcs into 3 min slideshow huh                                                      |
+| Dr. Stone                        | 35  | x | SH, +, dr misogynistone & trash fans                                                                |
+| Fullmetal Alchemist: Brotherhood | 64  | x | SH, ++, tropey, bad humour, awful pacing, annoying mcs, stupid writing, okay ending, boring battles |
 
 ## Quotes (Spoilers!)
 
@@ -441,9 +461,9 @@
 
 ## Legend
 
-| EP       | S       | M      | O       | C        | v/x    | +           | :sob: |
-|----------|---------|--------|---------|----------|--------|-------------|-------|
-| Episodes | Seasons | Movies | Ongoing | Chapters | Yes/No | Recommended | cried |
+| EP       | S       | M      | O       | C        | v   | x  | +           | :sob: | RR     | WR           |
+|----------|---------|--------|---------|----------|-----|----|-------------|-------|--------|--------------|
+| Episodes | Seasons | Movies | Ongoing | Chapters | Yes | No | Recommended | Cried | Reread | Wanna Reread |
 
 | VG        | PG          | G    | MEH | SH   |
 |-----------|-------------|------|-----|------|
