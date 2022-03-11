@@ -1,62 +1,92 @@
 ## Not Finished Manga
 
-| Title                          |    C     | O | Notes                                                                                        |
-|--------------------------------|:--------:|:-:|----------------------------------------------------------------------------------------------|
-| Gash Bell                      |  40/331  |   | +, hard to read, cool concept, deathnoty & platinum endy, monster of the week                |
-| Toriko                         | 341/396  | x | WR, great worldbuilding & magic system, like an extenion of HxH                              |
-| Dragon Ball Super              |  43/80   | v | G, better than z, fresher, better art, uniquer battles, battle of universes is fun           |
-| Saint Young Men                |  23/110  | H | hilarious, great premise                                                                     |
-| Hakumei & Mikochi              |   1/91   |   | whimsical?                                                                                   |
-| Bleach                         |          |   |                                                                                              |
-| One Piece                      | 719/1040 | v | PG, +++, dials & devil fruits are great, water 7 - marineford is VG, trash fans & fanservice |
-| Psyren                         |          |   | +                                                                                            |
-| World Trigger                  |  61/219  | v | +++, worse aot, hate the art style, too many characters                                      |
-| Magus of the Library           |  10/24   | v | +, Similar to WHA                                                                            |
-| Frieren at the Funeral         |          |   | +                                                                                            |
-| Kingdom                        |  0/703   | v |                                                                                              |
-| Black Butler                   |  4/182   | v | popular                                                                                      |
-| Golden Kamuy                   |  37/297  | v | darker dungeon meshi                                                                         |
-| Happiness                      |  13/50   | x | tgy                                                                                          |
-| Vinland Saga                   |          |   | ++                                                                                           |
-| Our Happy Hours                |   0/8    | x | deep                                                                                         |
-| The Witch and The Beast        |   2/37   | v | swag                                                                                         |
-| Lucifer and the Biscuit Hammer |   9/65   | x | +, mid/mid                                                                                   |
-| Snow White With The Red Hair   |  6/125   | v | ++, bad panelling                                                                            |
-| He Does Not Have Any Friends   |  0/81.5  | x | +                                                                                            |
-| 20th Century Boys (20CB)       |  0/249   | x | ++                                                                                           |
-| Jagaaaaaan                     |  0/148   | v | similar to parasyte                                                                          |
-| Tougen Anki                    |   0/71   | v | +                                                                                            |
-| The Eminence in Shadow         |   0/34   | v | +, isekai trash                                                                              |
-| Dorohedoro                     |  0/167   | x |                                                                                              |
-| The Law of Ueki                |    1/    | x | botany related                                                                               |
-| The Ancient Magus' Bride       |          | x | whimsicaly                                                                                   |
-| Level E                        |    1/    | x | togashi                                                                                      |
-| Mushishi                       |   5/50   | x | slice of lifey                                                                               |
-| Blue Period                    |          |   |                                                                                              |
-| Monster                        |  0/162   | x |                                                                                              |
-| Drifting Classroom             |          | x | ++, horror                                                                                   |
-| Bokurano                       |          |   | +, depresso                                                                                  |
-| Terra Formars                  |          |   | jacked hlebarki                                                                              |
-| Yotsuba                        |          |   | +, slice of life                                                                             |
-| Medaka Box                     |          |   | +, very ()/10                                                                                |
-| Collete Decides to Die         |          |   | +                                                                                            |
-| Hell's Paradise - Jigoraku     |          |   |                                                                                              |
-| National Lottery               |          |   | literally capitalism                                                                         |
-| My Home Hero                   |          |   | murder mystery thing                                                                         |
-| Insomniacs After School        |          |   | slice of life                                                                                |
-| The Way of the Househusband    |          | v | slice of lifey                                                                               |
-| The Walking Man                |          | x | slicey of lifey                                                                              |
-| Nausicaa                       |          | x |                                                                                              |
-| Pluto                          |   0/65   | x |                                                                                              |
-| Grand Blue                     |   0/73   | x | trash                                                                                        |
-| Billy Bat                      |  0/165   | x |                                                                                              |
-| Planetes                       |   2/26   | x | +                                                                                            |
-| Bungou Stray Dogs (BSD)        |  35/95   | v | waiting to read all irl authors                                                              |
-| Death Note                     |  68/110  | x |                                                                                              |
-| Naruto                         |  1/700   |   | +                                                                                            |
-| Tokyo Ghoul:re                 |  76/179  | x | writing is terrible compared to previous TG                                                  |
-| Berserk                        |  88/363  | x | Should have stopped before the eclipse, war themed slice of life                             |
-| The Promised Neverland         |  1/189   | x | i need something to make up for season 2 but will wait a bit to forget it more               |
+| Title                           |    C     | O | Notes                                                                                        |
+|---------------------------------|:--------:|:-:|----------------------------------------------------------------------------------------------|
+| 20th Century Boys (20CB)        |  0/249   | x | ++                                                                                           |
+| Sakamoto Days                   |          |   |                                                                                              |
+| Houseki no Kuni                 |          |   |                                                                                              |
+| Kasane                          |          |   |                                                                                              |
+| Aria                            |          |   |                                                                                              |
+| The Flowers of Evil             |          |   |                                                                                              |
+| Amanchu!                        |          |   |                                                                                              |
+| Heaven's Design Team            |  14/34   | + | otter chapter (17) is adorable                                                               |
+| Kaiju No.8                      |          |   |                                                                                              |
+| Doughnuts Under a Crescent Moon |          |   | gay                                                                                          |
+| A Bride's Story                 |          |   |                                                                                              |
+| A Sign of Affection             |          |   | +, deaf shoujo                                                                               |
+| Air Gear                        |          |   | +                                                                                            |
+| Berserk                         |  88/363  | x | Should have stopped before the eclipse, war themed slice of life                             |
+| Billy Bat                       |  0/165   | x |                                                                                              |
+| Black Butler                    |  4/182   | v | popular                                                                                      |
+| Bleach                          |          |   |                                                                                              |
+| Blue Period                     |          |   |                                                                                              |
+| Bokurano                        |          |   | +, depresso                                                                                  |
+| Bungou Stray Dogs (BSD)         |  35/95   | v | waiting to read all irl authors                                                              |
+| Cage of Eden                    |          |   | +                                                                                            |
+| Collete Decides to Die          |   0/73   | v | +                                                                                            |
+| Daidokoro no Dragon             |          |   |                                                                                              |
+| Death Note                      |  68/110  | x |                                                                                              |
+| Dorohedoro                      |  0/167   | x |                                                                                              |
+| Dragon Ball Super               |  43/80   | v | G, better than z, fresher, better art, uniquer battles, battle of universes is fun           |
+| Drifting Classroom              |          | x | ++, horror                                                                                   |
+| Frieren at the Funeral          |          |   | +                                                                                            |
+| Gamaran                         |          |   | +                                                                                            |
+| Gash Bell                       |  40/331  |   | +, hard to read, cool concept, deathnoty & platinum endy, monster of the week                |
+| Golden Kamuy                    |  37/297  | v | darker dungeon meshi                                                                         |
+| Grand Blue                      |   0/73   | x | trash                                                                                        |
+| Gunjou no Magmel                |          |   |                                                                                              |
+| Hakumei & Mikochi               |   1/91   |   | whimsical?                                                                                   |
+| Happiness                       |  13/50   | x | tgy                                                                                          |
+| Hayate the Combat Butler        |          |   | +                                                                                            |
+| He Does Not Have Any Friends    |  0/81.5  | x | +                                                                                            |
+| Helck                           |          |   | +                                                                                            |
+| Hell's Paradise - Jigoraku      |          |   |                                                                                              |
+| Heterogenia Linguistico         |          |   |                                                                                              |
+| Horiyama                        |          |   | +                                                                                            |
+| How to Treat Magical Beasts     |          |   |                                                                                              |
+| Insomniacs After School         |          |   | slice of life                                                                                |
+| Jagaaaaaan                      |  0/148   | v | ++, similar to parasyte                                                                      |
+| Kingdom                         |  0/703   | v |                                                                                              |
+| Level E                         |    1/    | x | togashi                                                                                      |
+| Love On The Other Side          |          |   |                                                                                              |
+| Lucifer and the Biscuit Hammer  |   9/65   | x | +, mid/mid                                                                                   |
+| Made in Abyss                   |          |   |                                                                                              |
+| Magus of the Library            |  10/24   | v | +, Similar to WHA                                                                            |
+| Medaka Box                      |          |   | +, very ()/10                                                                                |
+| Monster                         |  0/162   | x |                                                                                              |
+| Mushishi                        |   5/50   | x | slice of lifey                                                                               |
+| My Home Hero                    |          |   | murder mystery thing                                                                         |
+| Naruto                          |  1/700   |   | +                                                                                            |
+| National Lottery                |          |   | literally capitalism                                                                         |
+| Nausicaa                        |          | x |                                                                                              |
+| Oli-Oli Soup                    |          |   |                                                                                              |
+| One Piece                       | 719/1040 | v | PG, +++, dials & devil fruits are great, water 7 - marineford is VG, trash fans & fanservice |
+| Our Happy Hours                 |   0/8    | x | deep                                                                                         |
+| Planetes                        |   2/26   | x | +                                                                                            |
+| Pluto                           |   0/65   | x |                                                                                              |
+| Psyren                          |          |   | +                                                                                            |
+| Rainbow                         |          |   | +                                                                                            |
+| ReLIFE                          |          |   | +                                                                                            |
+| Saint Young Men                 |  23/110  | H | hilarious, great premise                                                                     |
+| Seitokai Yakuindomo             |          |   | +                                                                                            |
+| Snow White With The Red Hair    |  6/125   | v | ++, bad panelling                                                                            |
+| Sweat and Soap                  |          |   | +                                                                                            |
+| Terra Formars                   |          |   | jacked hlebarki                                                                              |
+| The Ancient Magus' Bride        |          | x | whimsicaly                                                                                   |
+| The Eminence in Shadow          |   0/34   | v | +, isekai trash                                                                              |
+| The Law of Ueki                 |    1/    | x | botany related                                                                               |
+| The Promised Neverland          |  1/189   | x | i need something to make up for season 2 but will wait a bit to forget it more               |
+| The Walking Man                 |          | x | slicey of lifey                                                                              |
+| The Way of the Househusband     |          | v | slice of lifey                                                                               |
+| The Witch and The Beast         |   2/37   | v | swag                                                                                         |
+| Tokyo Ghoul:re                  |  76/179  | x | writing is terrible compared to previous TG                                                  |
+| Toriko                          | 341/396  | x | WR, great worldbuilding & magic system, like an extenion of HxH                              |
+| Tougen Anki                     |   0/71   | v | +                                                                                            |
+| Urami Koi                       |          |   | +                                                                                            |
+| Vinland Saga                    |          |   | ++                                                                                           |
+| World Trigger                   |  61/219  | v | +++, worse aot, hate the art style, too many characters                                      |
+| Yokohama Shopping District      |          |   | +                                                                                            |
+| Yotsuba                         |          |   | +, slice of life                                                                             |
 
 ## Finished Manga
 
@@ -83,11 +113,11 @@
 | Our Dining Table             |    8    | x | PG, wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                              |
 | My Dress-up Darling          |  71/71  | v | PG, would be better if it wasn't ecchi, cool learning more about cosplay                                   |
 | Stargazing Dog               |    5    | x | PG, depressing and wholesome at the same time, unique art                                                  |
+| Kengan Asura                 |   236   | x | PG, ++, inaba cool, fun battles, setsuna shit, needs a magic system, meh art, meh ending                   |
 | Dissolving Classroom         |    5    | x | G, cool concept, very complete, last chapter felt off topic, stop apologising                              |
 | Yu Yu Hakusho                |   175   | x | G, very cheesy and boring but enjoyable, nice seeing the things taken from it and put in HxH               |
 | JoJo Part 6: Stone Ocean     |   158   | x | G, what?, too horny in the beginning, awful ending, cool stands                                            |
 | Kengan Omega                 | 149/149 | v | G, ++, don't really care about the "plot"                                                                  |
-| Kengan Asura                 |   236   | x | G, ++, inaba cool, fun battles, setsuna shit, needs a magic system, meh art, meh ending                    |
 | Mashle                       |  96/96  | v | G, +, opmy/moby, repetitive humour, meh magic system, sometimes funny                                      |
 | Our Wonderful Days           |   18    | x | G, nice to see a swag story without swagphobia, wholesome and cute                                         |
 | Lovesickness                 |   10    | x | G, great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                      |
@@ -102,8 +132,9 @@
 | Gambling Apocalypse: Kaiji   |   158   | x | G, really repetitive, bad pacing, boring art, scanlations are awful, but good premise, sorta dEeP          |
 | Tokyo Ghoul Jack             |    7    | x | G, colours were pretty                                                                                     |
 | Okaeri Aureole               |    5    | x | MEH, wholesome and kinda deep                                                                              |
-| Bastard (Manhwa)             |   93    | x | MEH, mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                  |
 | Fire Punch                   |   83    | x | MEH, weird and doesn't make much sense, dystopian setting is nice, split morality world is unique          |
+| Bastard (Manhwa)             |   93    | x | MEH, mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                  |
+| Homunculus                   |   15    | x | MEH, SA scene is shit, confusing, not relatable, cringy hornyness, bingeable                               |
 | Dragon Ball                  |   194   | x | MEH, awful fan service, boring battles, boring everything, super overrated                                 |
 | Tokyo Revengers              | 242/242 | v | SH, super drawn out, cheesy, asspull, G to SH, useless mc, bullshit logic, generic, overrated              |
 | Mieruko-Chan                 |  40/40  | v | SH, okay art, cool premise but awful execution, where's the plot, what's happening, shit fanservice        |
