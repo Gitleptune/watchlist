@@ -5,13 +5,13 @@
 | Slime Isekai                         |  61/96   | v | Shounen     | PG | surprisingly good, bit rushed, muy politics                                              |
 | The Summit of the Gods               |   0/47   | x | Seinen      |    | mountain shit                                                                            |
 | Majo no Tabitabi                     |  1/11.5  | v | Shounen     |    |                                                                                          |
-| Opus                                 |          |   |             |    | +                                                                                        |
+| Opus                                 |  0/20    | x |             |    | +                                                                                        |
 | Wizard Souls                         |          |   |             |    | card game but mc hates the game                                                          |
 | Gon                                  |          |   |             |    |                                                                                          |
 | Freesia                              |          |   |             |    | take your meds shitzo                                                                    |
 | What Did You Eat Yesterday?          |          |   |             |    | gaymer                                                                                   |
 | Oshi No Ko                           |          |   |             |    |                                                                                          |
-| Welcome to the NHK                   |          |   |             |    |                                                                                          |
+| Welcome to the NHK                   |   0/40   | x |             |    |                                                                                          |
 | Touge Oni                            |          |   |             |    | 4chan fantasy                                                                            |
 | Helck                                |          |   |             |    | ++                                                                                       |
 | Ryuu to Yuusha to Haitatsunin        |   0/32   | v | Seinen      |    | 4chan fantasy                                                                            |
@@ -27,7 +27,7 @@
 | Pumpkin Night                        |   0/69   | v | Seinen      |    |                                                                                          |
 | Burn The Witch                       |   0/5    | x | Shounen     |    |                                                                                          |
 | Oh! Men!                             |  0/26.5  | x | Josei       |    | cooking                                                                                  |
-| Bokurano Ours                        |   3/11   | x | Seinen      | EH | bad art & panelling, only slightly inspired by nge, sussy, kinda boring                  |
+| Bokurano                             |  18/66   | x | Seinen      | EH | bad art & panelling, only slightly inspired by nge, sussy, kinda boring                  |
 | Legend of the Strongest Man Kurosawa |          |   | Seinen      |    |                                                                                          |
 | Stardust Memories                    |          |   | Seinen      |    | yoppi, sci-fi short stories                                                              |
 | Tsugumi Project                      |          |   | Seinen      |    |                                                                                          |
@@ -164,7 +164,7 @@
 | Tomie                                 |   20    | x | Shoujo      | PG | great concept, Painter, Hair, Little Finger, Moromi are really good stories, satisfying             |
 | Stargazing Dog                        |    5    | x | Seinen      | PG | depressing and wholesome at the same time, unique art                                               |
 | Kengan Asura                          |   236   | x | Shounen     | PG | ++, inaba cool, fun battles, setsuna shit, needs a magic system, eh art, eh ending                  |
-| Ruri Dragon                           |   1/1   | v | Shounen     | ?? | too early to tell lol, relaxingly nonchalant                                                        |
+| Ruri Dragon                           |   1/2   | v | Shounen     | GO | too early to tell lol, relaxingly nonchalant                                                        |
 | Chainsaw Man                          |   97    | x | Shounen     | GO | ++, too rushed and confusing, gun arc & Denji training are too short, asspully                      |
 | My Dress-up Darling                   |  72/76  | v | Shounen     | GO | would be better if it wasn't ecchi, cool learning more about cosplay                                |
 | Yu Yu Hakusho                         |   175   | x | Shounen     | GO | very cheesy and boring but enjoyable, nice seeing the things taken from it and put in HxH           |
