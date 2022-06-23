@@ -2,18 +2,18 @@
 
 | Title                                |    C     | O | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
-| Slime Isekai                         |  61/96   | v | Shounen     | PG | surprisingly good, bit rushed, muy politics                                              |
+| Slime Isekai                         |  83/96   | v | Shounen     | PG | surprisingly good, bit rushed, muy politics                                              |
 | The Summit of the Gods               |   0/47   | x | Seinen      |    | mountain shit                                                                            |
 | Majo no Tabitabi                     |  1/11.5  | v | Shounen     |    |                                                                                          |
-| Opus                                 |  0/20    | x |             |    | +                                                                                        |
-| Wizard Souls                         |          |   |             |    | card game but mc hates the game                                                          |
-| Gon                                  |          |   |             |    |                                                                                          |
-| Freesia                              |          |   |             |    | take your meds shitzo                                                                    |
-| What Did You Eat Yesterday?          |          |   |             |    | gaymer                                                                                   |
-| Oshi No Ko                           |          |   |             |    |                                                                                          |
-| Welcome to the NHK                   |   0/40   | x |             |    |                                                                                          |
-| Touge Oni                            |          |   |             |    | 4chan fantasy                                                                            |
-| Helck                                |          |   |             |    | ++                                                                                       |
+| Opus                                 |   0/20   | x |             |    | +                                                                                        |
+| Wizard Souls                         |   0/0    |   |             |    | card game but mc hates the game                                                          |
+| Gon                                  |   0/0    |   |             |    |                                                                                          |
+| Freesia                              |   0/0    |   |             |    | take your meds shitzo                                                                    |
+| What Did You Eat Yesterday?          |   0/0    |   |             |    | gaymer                                                                                   |
+| Oshi No Ko                           |   0/0    |   |             |    |                                                                                          |
+| Welcome to the NHK                   |   1/40   |   |             |    |                                                                                          |
+| Touge Oni                            |   0/0    |   |             |    | 4chan fantasy                                                                            |
+| Helck                                |   0/0    |   |             |    | ++                                                                                       |
 | Ryuu to Yuusha to Haitatsunin        |   0/32   | v | Seinen      |    | 4chan fantasy                                                                            |
 | Vanitas no Carte                     |          |   |             |    |                                                                                          |
 | Gambling Outcast Kaiji               |  15/131  | x | Seinen      |    |                                                                                          |
@@ -22,12 +22,12 @@
 | Ring                                 |   5/24   | x | Shounen     |    | toriko author, really weird and goofy                                                    |
 | Beck                                 | 1/101.5  | x | Shounen     |    | +jazzy                                                                                   |
 | The Kajiki Chef: Divine Cuisine      |   0/23   | v | Shounen     |    | toriko-ish premise                                                                       |
-| PTSD Radio                           |          |   | Seinen      |    |                                                                                          |
+| PTSD Radio                           |          | H | Seinen      |    |                                                                                          |
 | A Man and His Cat                    |          | v | Shounen     |    |                                                                                          |
 | Pumpkin Night                        |   0/69   | v | Seinen      |    |                                                                                          |
 | Burn The Witch                       |   0/5    | x | Shounen     |    |                                                                                          |
 | Oh! Men!                             |  0/26.5  | x | Josei       |    | cooking                                                                                  |
-| Bokurano                             |  18/66   | x | Seinen      | EH | bad art & panelling, only slightly inspired by nge, sussy, kinda boring                  |
+| Bokurano Ours                        |   3/11   | x | Seinen      | EH | bad art & panelling, only slightly inspired by nge, sussy, kinda boring                  |
 | Legend of the Strongest Man Kurosawa |          |   | Seinen      |    |                                                                                          |
 | Stardust Memories                    |          |   | Seinen      |    | yoppi, sci-fi short stories                                                              |
 | Tsugumi Project                      |          |   | Seinen      |    |                                                                                          |
@@ -166,15 +166,15 @@
 | Kengan Asura                          |   236   | x | Shounen     | PG | ++, inaba cool, fun battles, setsuna shit, needs a magic system, eh art, eh ending                  |
 | Ruri Dragon                           |   1/2   | v | Shounen     | GO | too early to tell lol, relaxingly nonchalant                                                        |
 | Chainsaw Man                          |   97    | x | Shounen     | GO | ++, too rushed and confusing, gun arc & Denji training are too short, asspully                      |
-| My Dress-up Darling                   |  72/76  | v | Shounen     | GO | would be better if it wasn't ecchi, cool learning more about cosplay                                |
+| My Dress-up Darling                   |  72/77  | v | Shounen     | GO | would be better if it wasn't ecchi, cool learning more about cosplay                                |
 | Yu Yu Hakusho                         |   175   | x | Shounen     | GO | very cheesy and boring but enjoyable, nice seeing the things taken from it and put in HxH           |
 | Dai Dark                              |  28/30  | v | Shounen     | GO | ++, sick art, pika guy is super annoying, cool worldbuilding, gender neutral is neat, kinda boring  |
 | JoJo Part 6: Stone Ocean              |   158   | x | Shounen     | GO | what?, too horny in the beginning, awful ending, cool stands, very very monster of the week, ff <3  |
 | Our Wonderful Days                    |   18    | x | Shoujo-ai   | GO | nice to see a swag story without swagphobia, wholesome and cute                                     |
-| Kengan Omega                          | 151/163 | v | Shounen     | GO | ++, don't really care about the "plot"                                                              |
+| Kengan Omega                          | 151/164 | v | Shounen     | GO | ++, don't really care about the "plot"                                                              |
 | Golem Hearts                          |   15    | x | Shounen     | GO | fun concept, almost whimsical, wish it wasn't axed, nice art                                        |
 | Dissolving Classroom                  |    5    | x | Josei       | GO | cool concept, very complete, last chapter felt off topic, stop apologising                          |
-| Heads                                 |   36    | X | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                  |
+| Heads                                 |   36    | x | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                  |
 | Mashle                                | 96/112  | v | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny                                   |
 | Lovesickness                          |   10    | x | Josei       | GO | great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                  |
 | Ito Junji's Cat Diary                 |   10    | x | Seinen      | GO | very fun, horror art/writing style on slice of life is hilarious                                    |
@@ -199,7 +199,7 @@
 | Bastard                               |   93    | x | Shounen     | EH | mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                |
 | Dragon Ball                           |   194   | x | Shounen     | EH | awful & sussy fan service, boring battles, boring everything, super overrated                       |
 | Our Happy Hours                       |    8    | x | Seinen      | EH | eh art & panelling, trying to be edgy & deep too hard and failing, ok at times                      |
-| Jagaaaaaan                            | 156/156 | v | Seinen      | SH | ++, parasyte x tg x csm, too horny&rapey, asspully, going nowhere, mc motivation has no sense, edgy |
+| Jagaaaaaan                            | 156/157 | v | Seinen      | SH | ++, parasyte x tg x csm, too horny&rapey, asspully, going nowhere, mc motivation has no sense, edgy |
 | Oyasumi Punpun                        |   147   | x | Seinen      | SH | ++, too horny, pegasus (early) & mangaka were cool, kinda sad ig, mc design is unique & nice        |
 | Tokyo Revengers                       | 245/247 | v | Shounen     | SH | super drawn out, cheesy, asspull, G to SH, useless mc, bullshit logic, generic, overrated           |
 | Mieruko-Chan                          |  40/40  | v | Shounen     | SH | okay art, cool premise but awful execution, where's the plot, what's happening, shit fanservice     |
@@ -245,7 +245,7 @@
 | Wonder Egg Priority              |   13    | GO | dark :sob: but why did you fuck it up                                                               |
 | One Punch Man                    |   24    | GO | +, no plot but fun to watch when bored                                                              |
 | Kiznaiver                        |   12    | EH | boring mc, good concept, drawn out, nico & hisomu <3                                                |
-| Demon Slayer                     |  27+8   | EH | overrated, art carries, campy, boring mc, generic asf, half of it is filler and drawn out           |
+| Demon Slayer                     |  35/44  | EH | overrated, art carries, campy, boring mc, generic asf, half of it is filler and drawn out           |
 | Charlotte                        |   13    | EH | ++, only good part was half of ep13, bad tone shifts & pacing, ok concept                           |
 | Yona of the Dawn                 |   24    | EH | MC is used only for moving the plot along, tries to be too many things at once                      |
 | Kids on the Slope                |   12    | EH | + queerbait, nice music, don't care about it though, uncomfy art, boring                            |
