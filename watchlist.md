@@ -2,7 +2,6 @@
 
 | Title                                |    C     | O | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
-| Slime Isekai                         |  84/96   | v | Shounen     | PG | surprisingly good, bit rushed, muy politics, noir <3                                     |
 | The Summit of the Gods               |   0/47   | x | Seinen      |    | mountain shit                                                                            |
 | Majo no Tabitabi                     |  1/11.5  | v | Shounen     |    |                                                                                          |
 | Opus                                 |   0/20   | x | Seinen      |    | +                                                                                        |
@@ -17,9 +16,9 @@
 | Ryuu to Yuusha to Haitatsunin        |   0/32   | v | Seinen      |    | 4chan fantasy                                                                            |
 | Vanitas no Carte                     |   0/56   | v | Shounen     |    |                                                                                          |
 | Gambling Outcast Kaiji               |  15/131  | x | Seinen      |    |                                                                                          |
-| Record of Ragnarok                   |  17/64   | v | Seinen      |    | gods battles pogu                                                                        |
-| The Way of the Househusband          |  36/89   | v | Seinen      |    | slice of lifey                                                                           |
-| Ring                                 |   5/24   | x | Shounen     |    | toriko author, really weird and goofy                                                    |
+| Record of Ragnarok                   |  17/64   | v | Seinen      | EH | gods battles pogu                                                                        |
+| The Way of the Househusband          |  36/89   | v | Seinen      | EH | slice of lifey                                                                           |
+| Ring                                 |   5/24   | x | Shounen     | EH | toriko author, really weird and goofy                                                    |
 | Beck                                 | 1/101.5  | x | Shounen     |    | +jazzy                                                                                   |
 | The Kajiki Chef: Divine Cuisine      |   0/23   | v | Shounen     |    | toriko-ish premise                                                                       |
 | PTSD Radio                           |  20/49   | H | Seinen      |    |                                                                                          |
@@ -145,9 +144,10 @@
 | The Girl From The Other Side          |   53    | x | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing           |
 | Tokyo Ghoul                           |   143   | x | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                       |
 | Our Dreams at Dusk                    |   23    | x | Seinen      | PG | +, great use of art, i feel you frfr, called it so many times, buddy read, learned new slurs :sob:  |
-| Spy x Family                          |  61/63  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
+| Slime Isekai                          |  96/96  | v | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
 | National Quiz                         |   44    | x | Seinen      | PG | cool art & panelling, fun concept, muy politics, more serious would be good, satisfying             |
 | Shinya Shokudou                       |  54/54  | H | Seinen      | PG | wholesome, feelsgoodman.png, vibey, unique art style, explains a lot about japanese culture         |
+| Spy x Family                          |  61/63  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Jujutsu Kaisen                        | 177/189 | v | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
 | Eniale & Dewiela                      |   15    | x | Seinen      | PG | devile lady arc is cool, horny, amazing art & panelling as always with shirahama, gay????           |
 | Sakamoto Days                         |  62/75  | v | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
@@ -181,7 +181,7 @@
 | Three Days of Happiness               |   16    | x | Shounen     | GO | dEeP, good take on the value of a life, life isn't black and white, optimistic nihilism             |
 | Dragon Ball: Z                        |   325   | x | Shounen     | GO | copy paste battles, no stakes, boo is the best villain, super repetitive and predictable            |
 | The Enigma of Amigara Fault           |    1    | x | Seinen      | GO | claustrophoby, this is my hole, it was made for me!                                                 |
-| So I'm a Spider, So What              | 56/58.2 | v | Shounen     | GO | isekai trash and g@mer, fun, not cringy unlike most gamer media                                     |
+| So I'm a Spider, So What              | 56/59.1 | v | Shounen     | GO | isekai trash and g@mer, fun, not cringy unlike most gamer media                                     |
 | Boys Run The Riot                     |   37    | x | Seinen      | GO | kinda wholesome, eh ending                                                                          |
 | Uzumaki                               |   20    | x | Seinen      | GO | good art, creepy in a good way, furnace chapters were the best, sometimes too weird                 |
 | Fort of Apocalypse                    |   46    | x | Shounen     | GO | starts out generic but gets better afterwards, too gorey at times, philosophy nerd, plot armour     |
