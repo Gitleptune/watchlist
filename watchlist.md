@@ -2,11 +2,16 @@
 
 | Title                                |    C     | O | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
+| Nana                                 |          |   |             |    |                                                                                          |
+| Tondemo Skill de Isekai Hourou Meshi |  16/52   | v | Shounen     |    |                                                                                          |
+| Crazy Food Truck                     |          |   |             |    |                                                                                          |
 | The Summit of the Gods               |   0/47   | x | Seinen      |    | mountain shit                                                                            |
 | Majo no Tabitabi                     |  1/11.5  | v | Shounen     |    |                                                                                          |
 | Opus                                 |   0/20   | x | Seinen      |    | +                                                                                        |
 | Wizard's Soul                        |   0/22   | x | Seinen      |    | card game but mc hates the game                                                          |
 | Gon                                  |   0/24   | x | Seinen      |    |                                                                                          |
+| Tomodachi Game                       |  0/101   | v | Shounen     |    | + ed rec                                                                                 |
+| Beck                                 | 1/101.5  | x | Shounen     |    | + jazzy rec                                                                              |
 | Freesia                              |   0/82   | x | Seinen      |    | take your meds shitzo                                                                    |
 | What Did You Eat Yesterday?          |  0/136   | v | Seinen      |    | gaymer                                                                                   |
 | Oshi No Ko                           |   0/84   | v | Seinen      |    |                                                                                          |
@@ -19,7 +24,6 @@
 | Record of Ragnarok                   |  17/64   | v | Seinen      | EH | gods battles pogu                                                                        |
 | The Way of the Househusband          |  36/89   | v | Seinen      | EH | slice of lifey                                                                           |
 | Ring                                 |   5/24   | x | Shounen     | EH | toriko author, really weird and goofy                                                    |
-| Beck                                 | 1/101.5  | x | Shounen     |    | +jazzy                                                                                   |
 | The Kajiki Chef: Divine Cuisine      |   0/23   | v | Shounen     |    | toriko-ish premise                                                                       |
 | PTSD Radio                           |  20/49   | H | Seinen      |    |                                                                                          |
 | A Man and His Cat                    |   0/25   | H | Shounen     |    |                                                                                          |
@@ -52,7 +56,7 @@
 | Kaiju No.8                           |   0/63   | v | Shounen     |    | linesinmotion                                                                            |
 | Shiori Experience                    |   0/60   | v | Seinen      |    | rock                                                                                     |
 | Collete Decides to Die               |   2/73   | v | Shoujo      |    | +                                                                                        |
-| Dragon Ball Super                    |  43/80   | v | Shounen     |    | G, better than z, fresher, better art, uniquer battles, battle of universes is fun       |
+| Dragon Ball Super                    |  43/80   | v | Shounen     | GO | better than z, fresher, better art, uniquer battles, battle of universes is fun          |
 | Hakumei & Mikochi                    |   9/80   | v | Seinen      |    | +,                                                                                       |
 | Bungou Stray Dogs                    |  35/95   | v | Seinen      |    | waiting to read all irl authors                                                          |
 | A Bride's Story                      |  0/101   | v | Seinen      |    | +                                                                                        |
@@ -76,7 +80,6 @@
 | The Ancient Magus' Bride             |   0/85   | v | Seinen      |    | whimsicaly                                                                               |
 | Vinland Saga                         |  0/192   | v | Seinen      |    | ++                                                                                       |
 | Made in Abyss                        |   0/62   | v | Seinen      |    |                                                                                          |
-| Insomniacs After School              |   0/72   | v | Seinen      |    |                                                                                          |
 | Seven Little Sons of the Dragon      |   0/7    | x | Seinen      |    | ryoko kui                                                                                |
 | Ryuu no Gakkou wa Yama no Ue         |   0/10   | x | Seinen      |    | ryoko kui                                                                                |
 | Ashizuri Aquarium                    |   8/14   | x | Seinen      | GO | trippy, cute, unique art                                                                 |
@@ -143,9 +146,10 @@
 | Skip to Loafer                        |  38/41  | v | Seinen      | VG | cutesy, rElAtAbLe, great characters and very exciting                                               |
 | The Girl From The Other Side          |   53    | x | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing           |
 | Tokyo Ghoul                           |   143   | x | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                       |
-| Our Dreams at Dusk                    |   23    | x | Seinen      | PG | +, great use of art, i feel you frfr, called it so many times, buddy read, learned new slurs :sob:  |
-| Slime Isekai                          |  96/96  | v | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
 | National Quiz                         |   44    | x | Seinen      | PG | cool art & panelling, fun concept, muy politics, more serious would be good, satisfying             |
+| Insomniacs After School               |  80/80  | v | Seinen      | PG | +, cute and wholesome, art is hit or miss, ch79 event is very sudden, wacky-ish pacing              |
+| Our Dreams at Dusk                    |   23    | x | Seinen      | PG | +, great use of art, deep, called it so many times, buddy read, learned new slurs :sob:             |
+| Slime Isekai                          |  96/96  | v | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
 | Shinya Shokudou                       |  54/54  | H | Seinen      | PG | wholesome, feelsgoodman.png, vibey, unique art style, explains a lot about japanese culture         |
 | Spy x Family                          |  61/63  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Jujutsu Kaisen                        | 177/189 | v | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
