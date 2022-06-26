@@ -4,6 +4,9 @@
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
 | Nana                                 |          |   |             |    |                                                                                          |
 | The Summit of the Gods               |   0/47   | x | Seinen      |    | mountain shit                                                                            |
+| Blue Exorcist                        |          |   |             |    |                                                                                          |
+| From the New World                   |   0/27   | x | Shounen     |    | 4chan fantasy worldbuilding                                                              |
+| Karappo no Shoujo to Niji no Kakera  |   0/4    | v |             |    | 4chan fantasy worldbuilding                                                              |
 | Majo no Tabitabi                     |  1/11.5  | v | Shounen     |    |                                                                                          |
 | Opus                                 |   0/20   | x | Seinen      |    | +                                                                                        |
 | Wizard's Soul                        |   0/22   | x | Seinen      |    | card game but mc hates the game                                                          |
@@ -74,7 +77,7 @@
 | My Home Hero                         |  0/106   | v | Shounen     |    | murder mystery thing                                                                     |
 | The Faraway Paladin                  |   0/44   | v | Shounen     |    | maybe whimsical                                                                          |
 | Ragna Crimson                        |   0/53   | v | Seinen      |    | maybe whimsical                                                                          |
-| Terra Formars                        |  12/226  | H | Shounen     |    | jacked hlebarki                                                                          |
+| Terra Formars                        |  29/226  | H | Shounen     |    | jacked hlebarki                                                                          |
 | The Ancient Magus' Bride             |   0/85   | v | Seinen      |    | whimsicaly                                                                               |
 | Vinland Saga                         |  0/194   | v | Seinen      |    | ++                                                                                       |
 | Made in Abyss                        |   0/62   | v | Seinen      |    |                                                                                          |
@@ -207,7 +210,7 @@
 | Jagaaaaaan                            | 156/157 | v | Seinen      | SH | ++, parasyte x tg x csm, too horny&rapey, asspully, going nowhere, mc motivation has no sense, edgy |
 | Oyasumi Punpun                        |   147   | x | Seinen      | SH | ++, too horny, pegasus (early) & mangaka were cool, kinda sad ig, mc design is unique & nice        |
 | Tokyo Revengers                       | 245/247 | v | Shounen     | SH | super drawn out, cheesy, asspull, G to SH, useless mc, bullshit logic, generic, overrated           |
-| Mieruko-Chan                          |  40/40  | v | Shounen     | SH | okay art, cool premise but awful execution, where's the plot, what's happening, shit fanservice     |
+| Mieruko-Chan                          |  40/43  | v | Shounen     | SH | okay art, cool premise but awful execution, where's the plot, what's happening, shit fanservice     |
 | Platinum End                          |   58    | x | Shounen     | SH | recycled deathnote, fanservice, impossible to follow battles, annoying useless mc, boring art       |
 
 ## Not Finished Anime
