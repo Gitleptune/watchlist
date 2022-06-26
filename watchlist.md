@@ -3,7 +3,6 @@
 | Title                                |    C     | O | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
 | Nana                                 |          |   |             |    |                                                                                          |
-| Crazy Food Truck                     |          |   |             |    |                                                                                          |
 | The Summit of the Gods               |   0/47   | x | Seinen      |    | mountain shit                                                                            |
 | Majo no Tabitabi                     |  1/11.5  | v | Shounen     |    |                                                                                          |
 | Opus                                 |   0/20   | x | Seinen      |    | +                                                                                        |
@@ -75,7 +74,7 @@
 | My Home Hero                         |  0/106   | v | Shounen     |    | murder mystery thing                                                                     |
 | The Faraway Paladin                  |   0/44   | v | Shounen     |    | maybe whimsical                                                                          |
 | Ragna Crimson                        |   0/53   | v | Seinen      |    | maybe whimsical                                                                          |
-| Terra Formars                        |  0/226   | v | Shounen     |    | jacked hlebarki                                                                          |
+| Terra Formars                        |  12/226  | H | Shounen     |    | jacked hlebarki                                                                          |
 | The Ancient Magus' Bride             |   0/85   | v | Seinen      |    | whimsicaly                                                                               |
 | Vinland Saga                         |  0/194   | v | Seinen      |    | ++                                                                                       |
 | Made in Abyss                        |   0/62   | v | Seinen      |    |                                                                                          |
@@ -191,6 +190,7 @@
 | Uzumaki                               |   20    | x | Seinen      | GO | good art, creepy in a good way, furnace chapters were the best, sometimes too weird                 |
 | Fort of Apocalypse                    |   46    | x | Shounen     | GO | starts out generic but gets better afterwards, too gorey at times, philosophy nerd, plot armour     |
 | Candy & Cigarettes                    |  27/35  | v | Seinen      | GO | the bad guy is drippy, fun concept, weird idea of muricuns                                          |
+| Crazy Food Truck                      |   7/7   | v | Seinen      | GO | why the fanservice though, golden lefty snails are cool                                             |
 | Oli Oli Soup                          |   10    | x | Seinen      | GO | nice art, cute and fun                                                                              |
 | Gambling Apocalypse: Kaiji            |   158   | x | Seinen      | GO | really repetitive, bad pacing, boring art, scanlations are awful, but good premise, sorta dEeP      |
 | Astroid                               |   11    | x | Seinen      | GO | trippy, amazing art, read only for the art, didn't really get the "deepness"                        |
