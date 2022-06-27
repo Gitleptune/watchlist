@@ -2,12 +2,14 @@
 
 | Title                                |    C     | O | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
-| Nana                                 |          |   |             |    |                                                                                          |
+| Terra Formars                        |  57/226  | H | Shounen     | EH | stop with the annoying back story, super super formulaic, get to the battles already     |
 | The Summit of the Gods               |   0/47   | x | Seinen      |    | mountain shit                                                                            |
+| Fushigi no Kuni no Bird              |          |   |             |    | 4chan                                                                                    |
 | Blue Exorcist                        |          |   |             |    |                                                                                          |
 | From the New World                   |   0/27   | x | Shounen     |    | 4chan fantasy worldbuilding                                                              |
 | Karappo no Shoujo to Niji no Kakera  |   0/4    | v |             |    | 4chan fantasy worldbuilding                                                              |
 | Majo no Tabitabi                     |  1/11.5  | v | Shounen     |    |                                                                                          |
+| Nana                                 |          |   |             |    |                                                                                          |
 | Opus                                 |   0/20   | x | Seinen      |    | +                                                                                        |
 | Wizard's Soul                        |   0/22   | x | Seinen      |    | card game but mc hates the game                                                          |
 | Gon                                  |   0/24   | x | Seinen      |    |                                                                                          |
@@ -66,7 +68,7 @@
 | World Trigger                        |  61/219  | v | Shounen     |    | +++, worse aot, hate the art style, too many characters                                  |
 | Golden Kamuy                         |  37/297  | v | Seinen      |    | darker dungeon meshi                                                                     |
 | Lookism                              | 242/393  | v | Shounen     |    | SH, +, boring, tokyo revengers, awful panelling, boring battles, edgy, just awful        |
-| Kingdom                              |  0/715   | v | Seinen      |    |                                                                                          |
+| Kingdom                              |  0/722   | v | Seinen      |    |                                                                                          |
 | One Piece                            | 719/1046 | v | Shounen     | GO | +++, dials & devil fruits are great, water 7 - marineford is VG, trash fans & fanservice |
 | Amanchu!                             |   0/68   | v | Shounen     |    |                                                                                          |
 | With You and the Rain                |   0/35   | v | Seinen      |    | slice of lifey                                                                           |
@@ -77,7 +79,6 @@
 | My Home Hero                         |  0/106   | v | Shounen     |    | murder mystery thing                                                                     |
 | The Faraway Paladin                  |   0/44   | v | Shounen     |    | maybe whimsical                                                                          |
 | Ragna Crimson                        |   0/53   | v | Seinen      |    | maybe whimsical                                                                          |
-| Terra Formars                        |  29/226  | H | Shounen     |    | jacked hlebarki                                                                          |
 | The Ancient Magus' Bride             |   0/85   | v | Seinen      |    | whimsicaly                                                                               |
 | Vinland Saga                         |  0/194   | v | Seinen      |    | ++                                                                                       |
 | Made in Abyss                        |   0/62   | v | Seinen      |    |                                                                                          |
@@ -111,7 +112,7 @@
 | 20th Century Boys                    |  0/249   | x | Seinen      |    | +++, linesinmotion                                                                       |
 | Gash Bell                            |  40/331  | x | Shounen     |    | +, hard to read, cool concept, deathnoty & platinum endy, monster of the week            |
 | The Seven Deadly Sins                | 138/346  | x | Shounen     |    | ++, great art, fanservicy, gowther <3, ban <3                                            |
-| Berserk                              |  88/363  | x | Seinen      |    | should have stopped before the eclipse, war themed slice of life                         |
+| Berserk                              |  88/363  | v | Seinen      |    | should have stopped before the eclipse, war themed slice of life                         |
 | Toriko                               | 341/396  | x | Shounen     |    | WR, great worldbuilding & magic system, like an extenion of HxH                          |
 | GTO: Great Teacher Onizuka           |  62/200  | x | Shounen     | EH | creepy, repetitive, funny sometimes                                                      |
 | Level E                              |   1/16   | x | Shounen     |    | togashi                                                                                  |
@@ -144,24 +145,24 @@
 | Ikigami                               |   60    | x | Seinen      | VG | literally 1984, not a big fan of the last volume but until then it was amazing and perfect          |
 | Drifting Dragons                      |  68/71  | v | Seinen      | VG | last 2 arcs were great, everyone's hot, great characters, art is too good, flying scaly octopi      |
 | Yotsuba to!                           | 109/109 | v | Shounen     | VG | +, cute, wholesome, hilarious, criminally amazing art, yanda & torako <3, torako x asagi headcannon |
-| Skip to Loafer                        |  38/41  | v | Seinen      | VG | cutesy, rElAtAbLe, great characters and very exciting                                               |
+| Skip to Loafer                        |  38/42  | v | Seinen      | VG | cutesy, rElAtAbLe, great characters and very exciting                                               |
 | The Girl From The Other Side          |   53    | x | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing           |
 | Tokyo Ghoul                           |   143   | x | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                       |
 | National Quiz                         |   44    | x | Seinen      | PG | cool art & panelling, fun concept, muy politics, more serious would be good, satisfying             |
 | Insomniacs After School               |  80/80  | v | Seinen      | PG | +, cute and wholesome, art is hit or miss, ch79 event is very sudden, wacky-ish pacing              |
-| Cooking in Another World Isekai       |  52/52  | v | Shounen     |    | whimsical, sui <3, dora-chan <3, dragon fanatic <3, mc syndrome but eh, funny                       |
+| Cooking in Another World Isekai       |  52/52  | v | Shounen     | PG | whimsical, sui <3, dora-chan <3, dragon fanatic <3, mc syndrome but eh, funny                       |
 | Slime Isekai                          |  96/96  | v | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
 | Shinya Shokudou                       |  54/54  | H | Seinen      | PG | wholesome, feelsgoodman.png, vibey, unique art style, explains a lot about japanese culture         |
 | Our Dreams at Dusk                    |   23    | x | Seinen      | PG | +, great use of art, deep, called it so many times, buddy read, learned new slurs :sob:             |
-| Spy x Family                          |  61/63  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
+| Spy x Family                          |  61/64  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Jujutsu Kaisen                        | 177/189 | v | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
 | Eniale & Dewiela                      |   15    | x | Seinen      | PG | devile lady arc is cool, horny, amazing art & panelling as always with shirahama, gay????           |
-| Sakamoto Days                         |  62/75  | v | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
+| Sakamoto Days                         |  62/76  | v | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
 | Gambling Heathen Kaiji                |   134   | x | Seinen      | PG | stop jebaiting me ffs, panelling and art quality as a whole are not great, suspenseful              |
 | Komi Can't Communicate                | 346/360 | v | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
 | Hana Wants to Bear Fruit!             |   12    | x | Josei       | PG | mc has a working brain and isn't a complete simp, the plant metaphor is neat                        |
 | Giant Spider and Me                   |   14    | x | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                     |
-| Call of the Night                     | 117/123 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
+| Call of the Night                     | 117/124 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
 | Our Dining Table                      |    8    | x | Shounen-ai  | PG | wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                           |
 | My Little Noir                        |    1    | x | Seinen      | PG | beautiful art, beautiful panelling, cute, kamome shirahama                                          |
 | Ajin - Demi Human                     |   86    | x | Seinen      | PG | jojo x tokyo ghoul, creative battles, unique art, smoker guy and sato are cool, wack ending         |
@@ -181,7 +182,7 @@
 | Golem Hearts                          |   15    | x | Shounen     | GO | fun concept, almost whimsical, wish it wasn't axed, nice art                                        |
 | Dissolving Classroom                  |    5    | x | Josei       | GO | cool concept, very complete, last chapter felt off topic, stop apologising                          |
 | Heads                                 |   36    | x | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                  |
-| Mashle                                | 96/112  | v | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny                                   |
+| Mashle                                | 96/113  | v | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny                                   |
 | Lovesickness                          |   10    | x | Josei       | GO | great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                  |
 | Ito Junji's Cat Diary                 |   10    | x | Seinen      | GO | very fun, horror art/writing style on slice of life is hilarious                                    |
 | Three Days of Happiness               |   16    | x | Shounen     | GO | dEeP, good take on the value of a life, life isn't black and white, optimistic nihilism             |
@@ -302,8 +303,8 @@
 
 | Title                            | R  | Notes                                                                                                          |
 |----------------------------------|----|----------------------------------------------------------------------------------------------------------------|
-| My Neighbour Totoro              | VG | cute and wholesome, wanna live there                                                                           |
 | The Night is Short, Walk on Girl | VG | trippy, good music, koiversion therapy, cool all books are connected quote, cool artstyle, poignant :nerd:     |
+| My Neighbour Totoro              | VG | cute and wholesome, wanna live there                                                                           |
 | Kiki's Delivery Service          | PG | ++, cute art, deepression, kiki should've realised she doesn't need trombo and be happy, art block             |
 | The Boy and The Beast            | PG | abandoned baby trope, rly maeks u tink, cheesy, bear house pretty, plot armoury, unexplained magic system      |
 | The Garden of Words              | PG | sorta creepy, okay ending, great animation, appreaciate the shortness but more conversations would be nice     |
