@@ -33,7 +33,8 @@
 | The Witch and The Beast              |   2/37   | v | Seinen      |    | swag                                                                                     |
 | Planetes                             |   2/26   | x | Seinen      |    | +                                                                                        |
 | Bokurano                             |  18/65   | x | Seinen      | EH | bad art & panelling, only slightly inspired by nge, sussy, kinda boring                  |
-| Record of Ragnarok                   |  17/64   | v | Seinen      | EH | gods battles pogu                                                                        |
+| Record of Ragnarok                   |  39/64   | v | Seinen      | EH | neat concept but gets repetitive, not a fan of them changing shit, drawn out, asspully   |
+| Vending Machine Isekai               |          |   |             |    |                                                                                          |
 | Gambling Outcast Kaiji               |  15/131  | x | Seinen      |    |                                                                                          |
 | The Seven Deadly Sins                | 138/346  | x | Shounen     |    | ++, great art, fanservicy, gowther <3, ban <3                                            |
 | Happiness                            |  13/50   | x | Shounen     |    | +, tgy                                                                                   |
