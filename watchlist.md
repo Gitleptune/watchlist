@@ -33,7 +33,6 @@
 | The Witch and The Beast              |   2/37   | v | Seinen      |    | swag                                                                                     |
 | Planetes                             |   2/26   | x | Seinen      |    | +                                                                                        |
 | Bokurano                             |  18/65   | x | Seinen      | EH | bad art & panelling, only slightly inspired by nge, sussy, kinda boring                  |
-| Record of Ragnarok                   |  39/64   | v | Seinen      | EH | neat concept but gets repetitive, not a fan of them changing shit, drawn out, asspully   |
 | Vending Machine Isekai               |          |   |             |    |                                                                                          |
 | Gambling Outcast Kaiji               |  15/131  | x | Seinen      |    |                                                                                          |
 | The Seven Deadly Sins                | 138/346  | x | Shounen     |    | ++, great art, fanservicy, gowther <3, ban <3                                            |
@@ -193,7 +192,7 @@
 | Boys Run The Riot                     |   37    | x | Seinen      | GO | kinda wholesome, eh ending                                                                          |
 | Uzumaki                               |   20    | x | Seinen      | GO | good art, creepy in a good way, furnace chapters were the best, sometimes too weird                 |
 | Fort of Apocalypse                    |   46    | x | Shounen     | GO | starts out generic but gets better afterwards, too gorey at times, philosophy nerd, plot armour     |
-| Candy & Cigarettes                    |  27/35  | v | Seinen      | GO | the bad guy is drippy, fun concept, weird idea of muricuns                                          |
+| Candy & Cigarettes                    |  27/37  | v | Seinen      | GO | the bad guy is drippy, fun concept, weird idea of muricuns                                          |
 | Crazy Food Truck                      |   7/7   | v | Seinen      | GO | why the fanservice though, golden lefty snails are cool                                             |
 | Oli Oli Soup                          |   10    | x | Seinen      | GO | nice art, cute and fun                                                                              |
 | Gambling Apocalypse: Kaiji            |   158   | x | Seinen      | GO | really repetitive, bad pacing, boring art, scanlations are awful, but good premise, sorta dEeP      |
@@ -207,6 +206,7 @@
 | Jun and Kaoru                         |   16    | x | Shounen     | EH | nothing really interesting, was good vibes i guess??                                                |
 | Bastard                               |   93    | x | Shounen     | EH | mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                |
 | Dragon Ball                           |   194   | x | Shounen     | EH | awful & sussy fan service, boring battles, boring everything, super overrated                       |
+| Record of Ragnarok                    |  55/64  | v | Seinen      | EH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully         |
 | Our Happy Hours                       |    8    | x | Seinen      | EH | eh art & panelling, trying to be edgy & deep too hard and failing, ok at times                      |
 | Gon                                   |   24    | x | Seinen      | EH | shit scans, art is way too detailed for my liking, this is for little kids                          |
 | Jagaaaaaan                            | 156/157 | v | Seinen      | SH | ++, parasyte x tg x csm, too horny&rapey, asspully, going nowhere, mc motivation has no sense, edgy |
