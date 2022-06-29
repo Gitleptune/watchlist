@@ -3,9 +3,15 @@
 | Title                                |    C     | O | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
 | Hakumei & Mikochi                    |   9/80   | v | Seinen      |    | +,                                                                                       |
+| Starving Anonymous                   |          |   |             |    | +, politikal i guess maybe jazzy                                                         |
+| Love and Lies                        |  16/60   | x |             | EH | wanted this to be more about the crazy law and not some weird cuckold shit :worried:     |
+| Shiver                               |   3/10   | x | Seinen      |    | fashion model muy gud                                                                    |
+| Blue Lock                            |          |   |             |    |                                                                                          |
+| Blue Phobia                          |          |   |             |    |                                                                                          |
 | Lucifer and the Biscuit Hammer       |   9/65   | x | Seinen      |    | +, mid/mid                                                                               |
 | Berserk                              |  88/363  | v | Seinen      |    | should have stopped before the eclipse, war themed slice of life                         |
 | Ashizuri Aquarium                    |   8/14   | x | Seinen      | GO | trippy, cute, unique art                                                                 |
+| Laika in Space                       |          |   |             |    |                                                                                          |
 | Tokyo Ghoul:re                       |  76/179  | x | Seinen      |    | writing is terrible compared to previous TG                                              |
 | One Piece                            | 719/1046 | v | Shounen     | GO | +++, dials & devil fruits are great, water 7 - marineford is VG, trash fans & fanservice |
 | Ningyo-hime no Gomen ne Gohan        |   7/41   | x | Seinen      |    |                                                                                          |
@@ -161,7 +167,7 @@
 | Komi Can't Communicate                | 346/360 | v | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
 | Hana Wants to Bear Fruit!             |   12    | x | Josei       | PG | mc has a working brain and isn't a complete simp, the plant metaphor is neat                        |
 | Giant Spider and Me                   |   14    | x | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                     |
-| Call of the Night                     | 117/124 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
+| Call of the Night                     | 117/125 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
 | Our Dining Table                      |    8    | x | Shounen-ai  | PG | wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                           |
 | My Little Noir                        |    1    | x | Seinen      | PG | beautiful art, beautiful panelling, cute, kamome shirahama                                          |
 | Ajin - Demi Human                     |   86    | x | Seinen      | PG | jojo x tokyo ghoul, creative battles, unique art, smoker guy and sato are cool, wack ending         |
@@ -206,10 +212,10 @@
 | Jun and Kaoru                         |   16    | x | Shounen     | EH | nothing really interesting, was good vibes i guess??                                                |
 | Bastard                               |   93    | x | Shounen     | EH | mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                |
 | Dragon Ball                           |   194   | x | Shounen     | EH | awful & sussy fan service, boring battles, boring everything, super overrated                       |
-| Record of Ragnarok                    |  55/64  | v | Seinen      | EH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully         |
+| Record of Ragnarok                    |  59/64  | v | Seinen      | EH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully         |
 | Our Happy Hours                       |    8    | x | Seinen      | EH | eh art & panelling, trying to be edgy & deep too hard and failing, ok at times                      |
 | Gon                                   |   24    | x | Seinen      | EH | shit scans, art is way too detailed for my liking, this is for little kids                          |
-| Jagaaaaaan                            | 156/157 | v | Seinen      | SH | ++, parasyte x tg x csm, too horny&rapey, asspully, going nowhere, mc motivation has no sense, edgy |
+| Jagaaaaaan                            | 156/158 | v | Seinen      | SH | ++, parasyte x tg x csm, too horny&rapey, asspully, going nowhere, mc motivation has no sense, edgy |
 | Oyasumi Punpun                        |   147   | x | Seinen      | SH | ++, too horny, pegasus (early) & mangaka were cool, kinda sad ig, mc design is unique & nice        |
 | Tokyo Revengers                       | 245/247 | v | Shounen     | SH | super drawn out, cheesy, asspull, G to SH, useless mc, bullshit logic, generic, overrated           |
 | Mieruko-Chan                          |  40/43  | v | Shounen     | SH | okay art, cool premise but awful execution, where's the plot, what's happening, shit fanservice     |
