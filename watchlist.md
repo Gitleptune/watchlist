@@ -3,12 +3,11 @@
 | Title                                |    C     | O | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
 | Hakumei & Mikochi                    |   9/80   | v | Seinen      |    | +,                                                                                       |
-| Starving Anonymous                   |          |   |             |    | +, politikal i guess maybe jazzy                                                         |
-| Gunka no Baltzar                     |          |   |             |    | poliktiks maybe                                                                          |
-| Akumetsu                             |          |   |             |    | poliktiks maybe                                                                          |
-| Altair - A Record Of Battles         |          |   |             |    | poliktiks maybe                                                                          |
-| Kunihachibu                          |          |   |             |    | poliktiks maybe                                                                          |
-| Love and Lies                        |  16/60   | x |             | EH | wanted this to be more about the crazy law and not some weird cuckold shit :worried:     |
+| Chihayafuru                          |  0/245   | v | Josei       |    | +                                                                                        |
+| Starving Anonymous                   |   0/62   | x | Seinen      |    | +, politikal i guess maybe jazzy                                                         |
+| Gunka no Baltzar                     |   0/71   | v | Seinen      |    | poliktiks maybe                                                                          |
+| Akumetsu                             |  0/162   | x | Shounen     |    | poliktiks maybe                                                                          |
+| Love and Lies                        |  16/60   | x | Seinen      | EH | wanted this to be more about the crazy law and not some weird cuckold shit :worried:     |
 | Lucifer and the Biscuit Hammer       |   9/65   | x | Seinen      |    | +, mid/mid                                                                               |
 | Berserk                              |  88/363  | v | Seinen      |    | should have stopped before the eclipse, war themed slice of life                         |
 | Ashizuri Aquarium                    |   8/14   | x | Seinen      | GO | trippy, cute, unique art                                                                 |
@@ -38,7 +37,6 @@
 | The Witch and The Beast              |   2/37   | v | Seinen      |    | swag                                                                                     |
 | Planetes                             |   2/26   | x | Seinen      |    | +                                                                                        |
 | Bokurano                             |  18/65   | x | Seinen      | EH | bad art & panelling, only slightly inspired by nge, sussy, kinda boring                  |
-| Vending Machine Isekai               |          |   |             |    |                                                                                          |
 | Gambling Outcast Kaiji               |  15/131  | x | Seinen      |    |                                                                                          |
 | The Seven Deadly Sins                | 138/346  | x | Shounen     |    | ++, great art, fanservicy, gowther <3, ban <3                                            |
 | Happiness                            |  13/50   | x | Shounen     |    | +, tgy                                                                                   |
@@ -68,13 +66,13 @@
 | Grand Blue Dreaming                  |   0/75   | v | Seinen      |    | trash                                                                                    |
 | Blue Period                          |  32/50   | v | Seinen      |    | +, wish it was more relatable, kuwano <3, pretty boring at times, don't like the art     |
 | Blue Giant                           |   0/80   | x | Seinen      |    |                                                                                          |
-| Blue Lock                            |          |   |             |    |                                                                                          |
-| Blue Spring                          |          |   |             |    |                                                                                          |
-| Blue Phobia                          |          |   |             |    |                                                                                          |
+| Blue Lock                            |  0/179   | v | Shounen     |    |                                                                                          |
+| Blue Spring                          |   0/7    | x | Seinen      |    |                                                                                          |
+| Blue Phobia                          |   0/18   | x | Seinen      |    |                                                                                          |
 | Blue Box                             |   0/57   | v | Shounen     |    | romance & sport                                                                          |
 | Blue Orchestra                       |   0/38   | v | Shounen     |    | linesinmotion                                                                            |
 | Blue Heaven                          |   0/27   | x | Seinen      |    |                                                                                          |
-| Blue Exorcist                        |          |   |             |    |                                                                                          |
+| Blue Exorcist                        |  0/133   | v | Shounen     |    |                                                                                          |
 | BLAME!                               |   0/65   | x | Seinen      |    |                                                                                          |
 | Pluto                                |   0/65   | x | Seinen      |    |                                                                                          |
 | Kaiju No.8                           |   0/63   | v | Shounen     |    | linesinmotion                                                                            |
@@ -96,7 +94,6 @@
 | Hokuhokusei Ni Kumo To Ike           |  0/41.5  | v | Seinen      |    | linesinmotion                                                                            |
 | The Delinquent Housewife             |   0/41   | x | Seinen      |    |                                                                                          |
 | Samenai Machi No Kissaten            |   0/40   | x | Seinen      |    | yoppi, cute maybe                                                                        |
-| Karappo no Shoujo to Niji no Kakera  |   0/4    | v |             |    | 4chan fantasy worldbuilding                                                              |
 | Heterogenia Linguistico              |   0/38   | v | Seinen      |    |                                                                                          |
 | Daidokoro no Dragon                  |   0/37   | x | Seinen      |    |                                                                                          |
 | With You and the Rain                |   0/35   | v | Seinen      |    | slice of lifey                                                                           |
@@ -138,8 +135,8 @@
 | A Bride's Story                      |  0/101   | v | Seinen      |    | +                                                                                        |
 | Hinamatsuri                          | 0/100.5  | x | Seinen      |    | +                                                                                        |
 | Ryuu no Gakkou wa Yama no Ue         |   0/10   | x | Seinen      |    | ryoko kui                                                                                |
-| Fushigi no Kuni no Bird              |          |   |             |    | 4chan                                                                                    |
-| Nana                                 |          |   |             |    |                                                                                          |
+| Bird in Wonderland                   |   0/42   | v | Seinen      |    | 4chan                                                                                    |
+| Nana                                 |   0/84   | H | Shoujo      |    |                                                                                          |
 
 ## Finished Manga
 
@@ -159,8 +156,8 @@
 | National Quiz                         |   44    | x | Seinen      | PG | cool art & panelling, fun concept, muy politics, more serious would be good, satisfying             |
 | Insomniacs After School               |  80/80  | v | Seinen      | PG | +, cute and wholesome, art is hit or miss, ch79 event is very sudden, wacky-ish pacing              |
 | Cooking in Another World Isekai       |  52/52  | v | Shounen     | PG | whimsical, sui <3, dora-chan <3, dragon fanatic <3, mc syndrome but eh, funny                       |
-| Slime Isekai                          |  96/96  | v | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
 | Shinya Shokudou                       |  54/54  | H | Seinen      | PG | wholesome, feelsgoodman.png, vibey, unique art style, explains a lot about japanese culture         |
+| Slime Isekai                          |  96/97  | v | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
 | Our Dreams at Dusk                    |   23    | x | Seinen      | PG | +, great use of art, deep, called it so many times, buddy read, learned new slurs :sob:             |
 | Spy x Family                          |  61/64  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Jujutsu Kaisen                        | 177/189 | v | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
@@ -186,7 +183,7 @@
 | Dai Dark                              |  28/30  | v | Shounen     | GO | ++, sick art, pika guy is super annoying, cool worldbuilding, gender neutral is neat, kinda boring  |
 | JoJo Part 6: Stone Ocean              |   158   | x | Shounen     | GO | what?, too horny in the beginning, awful ending, cool stands, very very monster of the week, ff <3  |
 | Our Wonderful Days                    |   18    | x | Shoujo-ai   | GO | nice to see a swag story without swagphobia, wholesome and cute                                     |
-| Kengan Omega                          | 151/164 | v | Shounen     | GO | ++, don't really care about the "plot"                                                              |
+| Kengan Omega                          | 151/165 | v | Shounen     | GO | ++, don't really care about the "plot"                                                              |
 | Golem Hearts                          |   15    | x | Shounen     | GO | fun concept, almost whimsical, wish it wasn't axed, nice art                                        |
 | Dissolving Classroom                  |    5    | x | Josei       | GO | cool concept, very complete, last chapter felt off topic, stop apologising                          |
 | Heads                                 |   36    | x | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                  |
