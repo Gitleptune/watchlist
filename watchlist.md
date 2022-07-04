@@ -16,49 +16,50 @@
 | Sui and Neri of the Twilight Planet  |   0/15   | x | Seinen      |    | 4chan cute sol                                                                           |
 | Fool Night                           |   0/15   | v | Seinen      |    | 4chan plant dystopia                                                                     |
 | Baka to Gogh                         |  0/12.1  | x | Seinen      |    | 4chan sol nationa lquiz artist                                                           |
-| Hansel And Gretel                    |          |   |             |    | 4chan fairytales bastardised by akira author                                             |
-| Jacaranda                            |          |   |             |    | 4chan tree destroys japan                                                                |
+| Hansel And Gretel                    |   0/22   | x | Seinen      |    | 4chan fairytales bastardised by akira author                                             |
+| Jacaranda                            |   0/5    | x | Seinen      |    | stinky art, 4chan                                                                        |
 | Ryuu to Yuusha to Haitatsunin        |   0/32   | v | Seinen      |    | 4chan fantasy                                                                            |
 | Touge Oni                            |  0/21.5  | v | Seinen      |    | 4chan fantasy                                                                            |
 | Bird in Wonderland                   |   0/42   | v | Seinen      |    | 4chan                                                                                    |
+| Me and the Devil Blues               |   0/33   | H | Seinen      |    |                                                                                          |
 | Paperakyu                            |  2/110   | x | Seinen      |    |                                                                                          |
-| Neun                                 |          |   |             |    |                                                                                          |
-| Nichijou                             |  0/206   | v |             |    |                                                                                          |
-| Message to Adolf                     |          |   |             |    |                                                                                          |
-| Haikyuu                              |  0/402   | v | Shounen     |    |                                                                                          |
+| Neun                                 |   0/49   | x | Seinen      |    |                                                                                          |
+| Nichijou                             |  0/206   | v | Shounen     |    |                                                                                          |
+| Message to Adolf                     |   0/36   | x | Seinen      |    |                                                                                          |
+| Haikyuu                              |  0/402   | x | Shounen     |    |                                                                                          |
 | Chihayafuru                          |  8/245   | v | Josei       |    | +                                                                                        |
-| Sanctuary                            |          | x | Seinen      |    | +, poliktikal maybe                                                                      |
-| No. 5                                |          |   |             |    |                                                                                          |
-| Chimoguri Ringo to Kingyobachi Otoko |          |   |             |    |                                                                                          |
+| Sanctuary                            |  0/107   | x | Seinen      |    | +, poliktikal maybe                                                                      |
+| No. 5                                |   0/37   | x | Seinen      |    |                                                                                          |
+| Chimoguri Ringo to Kingyobachi Otoko |  0/21.5  | x | Shounen     |    |                                                                                          |
 | Hakumei & Mikochi                    |   9/80   | v | Seinen      |    | +,                                                                                       |
 | Juujika no Rokunin                   |   0/88   | v | Shounen     |    | +, dot rec                                                                               |
 | Starving Anonymous                   |   0/62   | x | Seinen      |    | +, politikal i guess maybe jazzy                                                         |
 | Gunka no Baltzar                     |   0/71   | v | Seinen      |    | poliktiks maybe                                                                          |
 | Akumetsu                             |  0/162   | x | Shounen     |    | +, poliktiks maybe                                                                       |
 | Love and Lies                        |  16/60   | x | Seinen      | EH | wanted this to be more about the crazy law and not some weird cuckold shit :worried:     |
-| Lucifer and the Biscuit Hammer       |   9/65   | x | Seinen      |    | +, mid/mid                                                                               |
-| Berserk                              |  88/363  | v | Seinen      |    | should have stopped before the eclipse, war themed slice of life                         |
+| Lucifer and the Biscuit Hammer       |   9/65   | x | Seinen      | EH | +, mid/mid                                                                               |
+| Berserk                              |  88/363  | v | Seinen      | PG | should have stopped before the eclipse, war themed slice of life                         |
 | Ashizuri Aquarium                    |   8/14   | x | Seinen      | GO | trippy, cute, unique art                                                                 |
-| Tokyo Ghoul:re                       |  76/179  | x | Seinen      |    | writing is terrible compared to previous TG                                              |
+| Tokyo Ghoul:re                       |  76/179  | x | Seinen      | EH | writing is terrible compared to previous TG                                              |
 | One Piece                            | 719/1046 | v | Shounen     | GO | +++, dials & devil fruits are great, water 7 - marineford is VG, trash fans & fanservice |
-| Ningyo-hime no Gomen ne Gohan        |   7/41   | x | Seinen      |    |                                                                                          |
-| Death Note                           |  68/110  | x | Shounen     |    |                                                                                          |
+| Ningyo-hime no Gomen ne Gohan        |   7/41   | x | Seinen      | EH |                                                                                          |
+| Death Note                           |  68/110  | x | Shounen     | PG |                                                                                          |
 | GTO: Great Teacher Onizuka           |  62/200  | x | Shounen     | EH | creepy, repetitive, funny sometimes                                                      |
-| World Trigger                        |  61/219  | v | Shounen     |    | +++, worse aot, hate the art style, too many characters                                  |
+| World Trigger                        |  61/219  | v | Shounen     | EH | +++, worse aot, hate the art style, too many characters                                  |
 | Snow White With The Red Hair         |  6/125   | v | Shoujo      |    | ++, bad panelling                                                                        |
 | Terra Formars                        |  57/226  | H | Shounen     | EH | stop with the annoying back story, super super formulaic, get to the battles already     |
 | Mushishi                             |   5/50   | x | Seinen      |    | slice of lifey                                                                           |
 | Ring                                 |   5/24   | x | Shounen     | EH | toriko author, really weird and goofy                                                    |
 | Dragon Ball Super                    |  43/80   | v | Shounen     | GO | better than z, fresher, better art, uniquer battles, battle of universes is fun          |
-| Gash Bell                            |  40/331  | x | Shounen     |    | +, hard to read, cool concept, deathnoty & platinum endy, monster of the week            |
+| Gash Bell                            |  40/331  | x | Shounen     | GO | +, hard to read, cool concept, deathnoty & platinum endy, monster of the week            |
 | Black Butler                         |  4/182   | v | Shounen     |    | popular                                                                                  |
-| Golden Kamuy                         |  37/297  | v | Seinen      |    | darker dungeon meshi                                                                     |
+| Golden Kamuy                         |  37/297  | v | Seinen      | GO | darker dungeon meshi                                                                     |
 | The Way of the Househusband          |  36/89   | v | Seinen      | EH | slice of lifey                                                                           |
-| Bungou Stray Dogs                    |  35/95   | v | Seinen      |    | waiting to read all irl authors                                                          |
-| Toriko                               | 341/396  | x | Shounen     |    | WR, great worldbuilding & magic system, like an extenion of HxH                          |
+| Bungou Stray Dogs                    |  35/95   | v | Seinen      | VG | waiting to read all irl authors                                                          |
+| Toriko                               | 341/396  | x | Shounen     | VG | WR, great worldbuilding & magic system, like an extenion of HxH                          |
 | Lookism                              | 242/393  | v | Shounen     | SH | +, boring, tokyo revengers, awful panelling, boring battles, edgy, just awful            |
-| Saint Young Men                      |  23/110  | v | Seinen      |    | hilarious, great premise                                                                 |
-| Heaven's Design Team                 |  22/34   | v | Seinen      |    | otter chapter (17) is adorable                                                           |
+| Saint Young Men                      |  23/110  | v | Seinen      | GO | hilarious, great premise                                                                 |
+| Heaven's Design Team                 |  22/34   | v | Seinen      | PG | otter chapter (17) is adorable                                                           |
 | PTSD Radio                           |  20/49   | H | Seinen      |    |                                                                                          |
 | Collete Decides to Die               |   2/73   | v | Shoujo      |    | +                                                                                        |
 | Aria                                 |   2/60   | x | Shounen     |    | +                                                                                        |
@@ -66,11 +67,11 @@
 | Planetes                             |   2/26   | x | Seinen      |    | +                                                                                        |
 | Bokurano                             |  18/65   | x | Seinen      | EH | bad art & panelling, only slightly inspired by nge, sussy, kinda boring                  |
 | Gambling Outcast Kaiji               |  15/131  | x | Seinen      |    |                                                                                          |
-| The Seven Deadly Sins                | 138/346  | x | Shounen     |    | ++, great art, fanservicy, gowther <3, ban <3                                            |
+| The Seven Deadly Sins                | 138/346  | x | Shounen     | PG | ++, great art, fanservicy, gowther <3, ban <3                                            |
 | Happiness                            |  13/50   | x | Shounen     |    | +, tgy                                                                                   |
 | My Solo Exchange Diary               | 13/25.5  | x | Seinen      | GO | the first one was way more relatable                                                     |
-| Psyren                               | 123/145  | x | Shounen     |    | ++, childish, not nen, time travel is shit, sussy art, plot armour,                      |
-| Magus of the Library                 |  10/24   | v | Seinen      |    | +, whimsical                                                                             |
+| Psyren                               | 123/145  | x | Shounen     | EH | ++, childish, not nen, time travel is shit, sussy art, plot armour,                      |
+| Magus of the Library                 |  10/24   | v | Seinen      | GO | +, whimsical                                                                             |
 | Welcome to the NHK                   |   1/40   | x | Shounen     |    |                                                                                          |
 | The Promised Neverland               |  1/189   | x | Shounen     |    | i need something to make up for season 2 but will wait a bit to forget it more           |
 | Level E                              |   1/16   | x | Shounen     |    | togashi                                                                                  |
@@ -101,8 +102,7 @@
 | Blue Orchestra                       |   0/38   | v | Shounen     |    | linesinmotion                                                                            |
 | Blue Heaven                          |   0/27   | x | Seinen      |    |                                                                                          |
 | Blue Exorcist                        |  0/133   | v | Shounen     |    |                                                                                          |
-| Blue Flag                            |          |   |             |    |                                                                                          |
-| Blue Morning                         |          |   |             |    |                                                                                          |
+| Blue Flag                            |   0/54   | x | Shounen     |    |                                                                                          |
 | BLAME!                               |   0/65   | x | Seinen      |    |                                                                                          |
 | Pluto                                |   0/65   | x | Seinen      |    |                                                                                          |
 | Kaiju No.8                           |   0/63   | v | Shounen     |    | linesinmotion                                                                            |
@@ -128,7 +128,7 @@
 | Daidokoro no Dragon                  |   0/37   | x | Seinen      |    |                                                                                          |
 | With You and the Rain                |   0/35   | v | Seinen      |    | slice of lifey                                                                           |
 | How to Treat Magical Beasts          |   0/30   | v | Shounen     |    |                                                                                          |
-| Magi                                 |          |   | Shounen     |    | +                                                                                        |
+| Magi                                 |  0/369   | x | Shounen     |    | +                                                                                        |
 | Hirayasumi                           |   0/29   | v | Seinen      |    |                                                                                          |
 | From the New World                   |   0/27   | x | Shounen     |    | 4chan fantasy worldbuilding                                                              |
 | I am a Hero                          |  0/265   | x | Seinen      |    | zombie                                                                                   |
@@ -174,14 +174,14 @@
 | JoJo Part 7: Steel Ball Run           |   95    | x | Seinen      | VG | WR, gyro enjoyer, actually good plot, great stands, kinda wacky ending, funny valentine is epic     |
 | Witch Hat Atelier                     |  47/57  | v | Seinen      | VG | WR, chill and cute, beautiful art, fresh & fleshed out magic system, child-like interest in magic   |
 | Dungeon Meshi                         |  80/85  | v | Seinen      | VG | WR, hilarious, great characters, amazing worldbuilding, great writing, perfect foreshadowing        |
-| Assassination Classroom               |   180   | x | Shounen     | VG | RR, amazing characters, funny but haven't cried this much in so long :sob:                          |
 | Ikigami                               |   60    | x | Seinen      | VG | literally 1984, not a big fan of the last volume but until then it was amazing and perfect          |
+| Assassination Classroom               |   180   | x | Shounen     | VG | RR, amazing characters, funny but haven't cried this much in so long :sob:                          |
 | Drifting Dragons                      |  68/71  | v | Seinen      | VG | last 2 arcs were great, everyone's hot, great characters, art is too good, flying scaly octopi      |
 | Yotsuba to!                           | 109/109 | v | Shounen     | VG | +, cute, wholesome, hilarious, criminally amazing art, yanda & torako <3, torako x asagi headcannon |
 | Skip to Loafer                        |  38/42  | v | Seinen      | VG | cutesy, rElAtAbLe, great characters and very exciting                                               |
 | The Girl From The Other Side          |   53    | x | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing           |
-| Tokyo Ghoul                           |   143   | x | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                       |
 | National Quiz                         |   44    | x | Seinen      | PG | cool art & panelling, fun concept, muy politics, more serious would be good, satisfying             |
+| Tokyo Ghoul                           |   143   | x | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                       |
 | Insomniacs After School               |  80/80  | v | Seinen      | PG | +, cute and wholesome, art is hit or miss, ch79 event is very sudden, wacky-ish pacing              |
 | Shinya Shokudou                       |  54/54  | H | Seinen      | PG | wholesome, feelsgoodman.png, vibey, unique art style, explains a lot about japanese culture         |
 | Cooking in Another World Isekai       | 52/52.2 | v | Shounen     | PG | whimsical, sui <3, dora-chan <3, dragon fanatic <3, mc syndrome but eh, funny                       |
