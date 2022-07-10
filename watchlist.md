@@ -11,12 +11,11 @@
 | Bibliomania                          |   0/12   | x | Seinen      |    | 4chan horror                                                                             |
 | Sneewittchen                         |   0/12   | x | Seinen      |    | 4chan humorous or bizarre takes on fairy tales                                           |
 | Kutsuzure Sensen                     |   0/21   | x | Seinen      |    | 4chan communist                                                                          |
-| Goggle                               |  1/6.5   | x | Seinen      |    | 4chan deep mature one shots                                                              |
+| Goggle                               |  2/6.5   | x | Seinen      |    | 4chan deep mature one shots                                                              |
 | Sui and Neri of the Twilight Planet  |   0/15   | x | Seinen      |    | 4chan cute sol                                                                           |
 | Fool Night                           |   0/15   | v | Seinen      |    | 4chan plant dystopia                                                                     |
 | Baka to Gogh                         |  0/12.1  | x | Seinen      |    | 4chan sol nationa lquiz artist                                                           |
 | Hansel And Gretel                    |   0/22   | x | Seinen      |    | 4chan fairytales bastardised by akira author                                             |
-| Jacaranda                            |   0/5    | x | Seinen      |    | stinky art, 4chan                                                                        |
 | Ryuu to Yuusha to Haitatsunin        |   0/32   | v | Seinen      |    | 4chan fantasy                                                                            |
 | Touge Oni                            |  0/21.5  | v | Seinen      |    | 4chan fantasy                                                                            |
 | Bird in Wonderland                   |   0/42   | v | Seinen      |    | 4chan                                                                                    |
@@ -189,14 +188,14 @@
 | Our Dreams at Dusk                    |   23    | x | Seinen      | PG | +, great use of art, deep, called it so many times, buddy read, learned new slurs :sob:             |
 | Castle of The Dragon                  |   29    | x | Seinen      | PG | bizarre as fuck, what am i even reading, good time travel story??, cool art, 4chan                  |
 | Eniale & Dewiela                      |   15    | x | Seinen      | PG | devile lady arc is cool, horny, amazing art & panelling as always with shirahama, gay????           |
-| Jujutsu Kaisen                        | 177/189 | v | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
+| Jujutsu Kaisen                        | 177/190 | v | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
 | Sakamoto Days                         |  62/77  | v | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
 | Hana Wants to Bear Fruit!             |   12    | x | Josei       | PG | mc has a working brain and isn't a complete simp, the plant metaphor is neat                        |
 | Gambling Heathen Kaiji                |   134   | x | Seinen      | PG | stop jebaiting me ffs, panelling and art quality as a whole are not great, suspenseful              |
-| Komi Can't Communicate                | 346/361 | v | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
+| Komi Can't Communicate                | 346/363 | v | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
+| Call of the Night                     | 117/130 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
 | Spy x Family                          |  61/64  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Giant Spider and Me                   |   14    | x | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                     |
-| Call of the Night                     | 117/129 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
 | Our Dining Table                      |    8    | x | Shounen-ai  | PG | wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                           |
 | My Little Noir                        |    1    | x | Seinen      | PG | beautiful art, beautiful panelling, cute, kamome shirahama                                          |
 | My Lesbian Experience With Loneliness |    5    | x | Seinen      | PG | rly maeks u think, relatable, wholsome-ish, like a more happier ending no longer human              |
@@ -244,6 +243,7 @@
 | Homunculus                            |   166   | x | Seinen      | EH | SA scene is shit, confusing, not relatable, cringy hornyness, bingeable                             |
 | Jun and Kaoru                         |   16    | x | Shounen     | EH | nothing really interesting, was good vibes i guess??                                                |
 | Bastard                               |   93    | x | Shounen     | EH | mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                |
+| Jacaranda                             |    5    | x | Seinen      | EH | stinky art, cool concept but the execution isn't anything special, 4chan                            |
 | Dragon Ball                           |   194   | x | Shounen     | EH | awful & sussy fan service, boring battles, boring everything, super overrated                       |
 | Record of Ragnarok                    |  59/64  | v | Seinen      | EH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully         |
 | Our Happy Hours                       |    8    | x | Seinen      | EH | eh art & panelling, trying to be edgy & deep too hard and failing, ok at times                      |
