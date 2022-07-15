@@ -35,6 +35,7 @@
 | Starving Anonymous                   |   0/62   | x | Seinen      |    | +, politikal i guess maybe jazzy                                                         |
 | Gunka no Baltzar                     |   0/71   | v | Seinen      |    | poliktiks maybe                                                                          |
 | Akumetsu                             |  0/162   | x | Shounen     |    | +, poliktiks maybe                                                                       |
+| Naruto                               |  64/700  | x | Shounen     |    | +                                                                                        |
 | Love and Lies                        |  16/60   | x | Seinen      | EH | wanted this to be more about the crazy law and not some weird cuckold shit :worried:     |
 | Lucifer and the Biscuit Hammer       |   9/65   | x | Seinen      | EH | +, mid/mid                                                                               |
 | Berserk                              |  88/363  | v | Seinen      | PG | should have stopped before the eclipse, war themed slice of life                         |
@@ -159,7 +160,7 @@
 | My Alcoholic Escape From Reality     |   0/12   | x | Seinen      |    |                                                                                          |
 | Helck                                |  0/106   | x | Shounen     |    | ++                                                                                       |
 | My Home Hero                         |  0/106   | v | Shounen     |    | murder mystery thing                                                                     |
-| Tomodachi Game                       |  0/101   | v | Shounen     |    | + ed rec                                                                                 |
+| Tomodachi Game                       |  0/102   | v | Shounen     |    | + ed rec                                                                                 |
 | A Bride's Story                      |  0/101   | v | Seinen      |    | +                                                                                        |
 | Hinamatsuri                          | 0/100.5  | x | Seinen      |    | +                                                                                        |
 | Ryuu no Gakkou wa Yama no Ue         |   0/10   | x | Seinen      |    | ryoko kui                                                                                |
@@ -189,11 +190,11 @@
 | Castle of The Dragon                  |   29    | x | Seinen      | PG | bizarre as fuck, what am i even reading, good time travel story??, cool art, 4chan                  |
 | Eniale & Dewiela                      |   15    | x | Seinen      | PG | devile lady arc is cool, horny, amazing art & panelling as always with shirahama, gay????           |
 | Jujutsu Kaisen                        | 177/190 | v | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
-| Sakamoto Days                         |  62/77  | v | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
+| Sakamoto Days                         |  62/78  | v | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
 | Hana Wants to Bear Fruit!             |   12    | x | Josei       | PG | mc has a working brain and isn't a complete simp, the plant metaphor is neat                        |
 | Gambling Heathen Kaiji                |   134   | x | Seinen      | PG | stop jebaiting me ffs, panelling and art quality as a whole are not great, suspenseful              |
 | Komi Can't Communicate                | 346/363 | v | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
-| Call of the Night                     | 117/130 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
+| Call of the Night                     | 117/131 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
 | Spy x Family                          |  61/64  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Giant Spider and Me                   |   14    | x | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                     |
 | Our Dining Table                      |    8    | x | Shounen-ai  | PG | wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                           |
@@ -211,12 +212,12 @@
 | Dai Dark                              |  28/30  | v | Shounen     | GO | ++, sick art, pika guy is super annoying, cool worldbuilding, gender neutral is neat, kinda boring  |
 | JoJo Part 6: Stone Ocean              |   158   | x | Shounen     | GO | what?, too horny in the beginning, awful ending, cool stands, very very monster of the week, ff <3  |
 | Our Wonderful Days                    |   18    | x | Shoujo-ai   | GO | nice to see a swag story without swagphobia, wholesome and cute                                     |
-| Kengan Omega                          | 151/166 | v | Shounen     | GO | ++, don't really care about the "plot"                                                              |
+| Kengan Omega                          | 151/167 | v | Shounen     | GO | ++, don't really care about the "plot"                                                              |
 | Golem Hearts                          |   15    | x | Shounen     | GO | fun concept, almost whimsical, wish it wasn't axed, nice art                                        |
 | Dissolving Classroom                  |    5    | x | Josei       | GO | cool concept, very complete, last chapter felt off topic, stop apologising                          |
 | Heads                                 |   36    | x | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                  |
 | Lovesickness                          |   10    | x | Josei       | GO | great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                  |
-| Mashle                                | 96/114  | v | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny but falls flat usually            |
+| Mashle                                | 96/115  | v | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny but falls flat usually            |
 | Ito Junji's Cat Diary                 |   10    | x | Seinen      | GO | very fun, horror art/writing style on slice of life is hilarious                                    |
 | Three Days of Happiness               |   16    | x | Shounen     | GO | dEeP, good take on the value of a life, life isn't black and white, optimistic nihilism             |
 | Dragon Ball: Z                        |   325   | x | Shounen     | GO | copy paste battles, no stakes, boo is the best villain, super repetitive and predictable            |
@@ -347,8 +348,8 @@
 | Kiki's Delivery Service          | PG | ++, cute art, deepression, kiki should've realised she doesn't need trombo and be happy, art block             |
 | The Garden of Words              | PG | sorta creepy, okay ending, great animation, appreaciate the shortness but more conversations would be nice     |
 | The Boy and The Beast            | PG | abandoned baby trope, rly maeks u tink, cheesy, bear house pretty, plot armoury, unexplained magic system      |
-| Spirited Away                    | PG | pig scene kinda spoop, isekai :pensive:, very pretty and cute, don't really care about the plot that much      |
 | Earwig and the Witch             | PG | animation was eh, ozzy??, mandrake is sick, very fun, good pacing, girlboss manipulative mc, eh open end       |
+| Spirited Away                    | PG | pig scene kinda spoop, isekai :pensive:, very pretty and cute, don't really care about the plot that much      |
 | When Marnie Was There            | GO | hc about trans mc & reliving stories told by gran about her grandpa, anti-fem clothes, weird, good art         |
 | Mary and the Witch's Flower      | GO | 2times, cute and whimsical, great animation, eh plot, girlobossing af                                          |
 | Laputa: Castle in the Sky        | GO | great worldbuilding, pedoy, not grounded, lots of plot armour, golem is really cute, remove all but the island |
