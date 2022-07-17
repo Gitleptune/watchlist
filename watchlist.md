@@ -2,6 +2,7 @@
 
 | Title                                |    C     | O | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------------|----|------------------------------------------------------------------------------------------|
+| Naruto                               | 104/700  | x | Shounen     |    | +                                                                                        |
 | Cocoon                               |   0/15   | x | Josei       |    | 4chan pretty                                                                             |
 | Onward Towards Our Noble Deaths      |   0/1    | x | Seinen      |    | 4chan ww2                                                                                |
 | Genshiken                            |   0/52   | x | Seinen      |    | 4chan                                                                                    |
@@ -35,7 +36,6 @@
 | Starving Anonymous                   |   0/62   | x | Seinen      |    | +, politikal i guess maybe jazzy                                                         |
 | Gunka no Baltzar                     |   0/71   | v | Seinen      |    | poliktiks maybe                                                                          |
 | Akumetsu                             |  0/162   | x | Shounen     |    | +, poliktiks maybe                                                                       |
-| Naruto                               |  64/700  | x | Shounen     |    | +                                                                                        |
 | Love and Lies                        |  16/60   | x | Seinen      | EH | wanted this to be more about the crazy law and not some weird cuckold shit :worried:     |
 | Lucifer and the Biscuit Hammer       |   9/65   | x | Seinen      | EH | +, mid/mid                                                                               |
 | Berserk                              |  88/363  | v | Seinen      | PG | should have stopped before the eclipse, war themed slice of life                         |
@@ -193,7 +193,7 @@
 | Sakamoto Days                         |  62/78  | v | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
 | Hana Wants to Bear Fruit!             |   12    | x | Josei       | PG | mc has a working brain and isn't a complete simp, the plant metaphor is neat                        |
 | Gambling Heathen Kaiji                |   134   | x | Seinen      | PG | stop jebaiting me ffs, panelling and art quality as a whole are not great, suspenseful              |
-| Komi Can't Communicate                | 346/363 | v | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
+| Komi Can't Communicate                | 346/364 | v | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
 | Call of the Night                     | 117/131 | v | Shounen     | PG | +, detective plan good, sussy fanservice, good translation, fun and holsum, wanna skip school       |
 | Spy x Family                          |  61/64  | v | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Giant Spider and Me                   |   14    | x | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                     |
@@ -246,7 +246,7 @@
 | Bastard                               |   93    | x | Shounen     | EH | mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                |
 | Jacaranda                             |    5    | x | Seinen      | EH | stinky art, cool concept but the execution isn't anything special, 4chan                            |
 | Dragon Ball                           |   194   | x | Shounen     | EH | awful & sussy fan service, boring battles, boring everything, super overrated                       |
-| Record of Ragnarok                    |  59/64  | v | Seinen      | EH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully         |
+| Record of Ragnarok                    |  59/65  | v | Seinen      | EH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully         |
 | Our Happy Hours                       |    8    | x | Seinen      | EH | eh art & panelling, trying to be edgy & deep too hard and failing, ok at times                      |
 | Gon                                   |   24    | x | Seinen      | EH | shit scans, art is way too detailed for my liking, this is for little kids                          |
 | Jagaaaaaan                            | 156/158 | v | Seinen      | SH | ++, parasyte x tg x csm, too horny&rapey, asspully, going nowhere, mc motivation has no sense, edgy |
@@ -259,6 +259,7 @@
 
 | Title                      |   EP   | R  | Notes                                                                                            |
 |----------------------------|:------:|----|--------------------------------------------------------------------------------------------------|
+| Call of The Night          |  2/12  |    | beautiful                                                                                        |
 | Pokemon: Indigo League     |  9/82  |    |                                                                                                  |
 | Cells at Work              | 12/21  |    | need to rewatch                                                                                  |
 | Cowboy Bebop               | 21/26  |    | +++, temporarily dropping because it's boring                                                    |
