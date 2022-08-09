@@ -2,13 +2,10 @@
 
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
-| JoJo Part 1: Phantom Blood           |  26/44   | x | 1986  | 1987 | Shounen     | GO | kinda bland but i dont hate it                                                           |
-| JoJo Part 2: Battle Tendency         |   0/69   | x | 1987  | 1989 | Shounen     |    |                                                                                          |
-| JoJo Part 3: Stardust Crusaders      |  0/152   | x | 1989  | 1992 | Shounen     |    |                                                                                          |
+| JoJo Part 3: Stardust Crusaders      |  1/152   | x | 1989  | 1992 | Shounen     |    |                                                                                          |
 | JoJo Part 4: Diamond is Unbreakable  |  0/174   | x | 1992  | 1995 | Shounen     |    |                                                                                          |
 | JoJo Part 5: Golden Wind             |  0/155   | x | 1995  | 1999 | Shounen     |    |                                                                                          |
 | JoJo Part 8: JoJolion                |  0/110   | x | 2011  | 2021 | Seinen      |    |                                                                                          |
-| Onward Towards Our Noble Deaths      |   0/1    | x | 1973  | 1973 | Seinen      |    | /a/ ww2                                                                                  |
 | Aqua                                 |   0/10   | x | 2001  | 2001 | Shounen     |    |                                                                                          |
 | Gunslinger Girl                      |  0/100   | x | 2002  | 2012 | Seinen      |    | ikigamiish mayb                                                                          |
 | Hinamatsuri                          | 0/100.5  | x | 2010  | 2020 | Seinen      |    | +                                                                                        |
@@ -235,13 +232,14 @@
 | Eniale & Dewiela                      |   15    | x | 2012  | 2015 | Seinen      | PG | devile lady arc is cool, horny, amazing art & panelling as always with shirahama, gay????           |
 | Tokyo Ghoul                           |   143   | x | 2011  | 2014 | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                       |
 | Castle of The Dragon                  |   29    | x | 2004  | 2004 | Seinen      | PG | bizarre as fuck, what am i even reading, good time travel story??, cool art, /a/                    |
+| JoJo Part 2: Battle Tendency          |   69    | x | 1987  | 1989 | Shounen     | PG | antifa, wamuu is so based, art is muy nice, panelling is kinda eh, good pacing                      |
 | Slime Isekai                          |  96/98  | v | 2015  | ---- | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
-| Sakamoto Days                         |  62/81  | v | 2020  | ---- | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
+| Sakamoto Days                         |  62/82  | v | 2020  | ---- | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
 | Hana Wants to Bear Fruit!             |   12    | x | 2019  | 2020 | Josei       | PG | mc has a working brain and isn't a complete simp, the plant metaphor is neat                        |
 | Jujutsu Kaisen                        | 177/193 | v | 2018  | ---- | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
 | Gambling Heathen Kaiji                |   134   | x | 2000  | 2004 | Seinen      | PG | stop jebaiting me ffs, panelling and art quality as a whole are not great, suspenseful              |
 | My Lesbian Experience With Loneliness |    5    | x | 2016  | 2016 | Seinen      | PG | rly maeks u think, relatable, wholsome-ish, like a more happier ending no longer human              |
-| Call of the Night                     | 117/136 | v | 2019  | ---- | Shounen     | PG | +, deep but not pretentious, sussy, good translation, fun and holsum, wanna skip school             |
+| Call of the Night                     | 117/137 | v | 2019  | ---- | Shounen     | PG | +, deep but not pretentious, sussy, good translation, fun and holsum, wanna skip school             |
 | Komi Can't Communicate                | 346/367 | v | 2016  | ---- | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
 | Spy x Family                          |  61/65  | v | 2019  | ---- | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Giant Spider and Me                   |   14    | x | 2016  | 2018 | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                     |
@@ -264,8 +262,10 @@
 | Dissolving Classroom                  |    5    | x | 2013  | 2014 | Josei       | GO | cool concept, very complete, last chapter felt off topic, stop apologising                          |
 | Heads                                 |   36    | x | 2002  | 2003 | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                  |
 | Lovesickness                          |   10    | x | 1996  | 1996 | Josei       | GO | great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                  |
-| Mashle                                | 96/118  | v | 2020  | ---- | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny but falls flat usually            |
+| Mashle                                | 96/119  | v | 2020  | ---- | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny but falls flat usually            |
 | Ito Junji's Cat Diary                 |   10    | x | 2007  | 2008 | Seinen      | GO | very fun, horror art/writing style on slice of life is hilarious                                    |
+| Onward Towards Our Noble Deaths       |    1    | x | 1973  | 1973 | Seinen      | GO | depressing, i love selling my body to the state for literally nothing, /a/                          |
+| JoJo Part 1: Phantom Blood            |   44    | x | 1986  | 1987 | Shounen     | GO | kinda bland but i dont hate it                                                                      |
 | Three Days of Happiness               |   16    | x | 2016  | 2017 | Shounen     | GO | dEeP, good take on the value of a life, life isn't black and white, optimistic nihilism             |
 | Dragon Ball: Z                        |   325   | x | 1988  | 1995 | Shounen     | GO | copy paste battles, no stakes, boo is the best villain, super repetitive and predictable            |
 | The Enigma of Amigara Fault           |    1    | x | 2000  | 2000 | Seinen      | GO | claustrophoby, this is my hole, it was made for me!                                                 |
