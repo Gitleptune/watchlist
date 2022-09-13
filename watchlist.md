@@ -2,6 +2,7 @@
 
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
+| Denjin N                             |   /37    | x |       |      |             |    | SCANLATION HIATUS ELECTIRICTY DEATH NOTE GUY                                             |
 | JoJo Part 3: Stardust Crusaders      |  1/152   | x | 1989  | 1992 | Shounen     |    |                                                                                          |
 | JoJo Part 4: Diamond is Unbreakable  |  0/174   | x | 1992  | 1995 | Shounen     |    |                                                                                          |
 | JoJo Part 5: Golden Wind             |  0/155   | x | 1995  | 1999 | Shounen     |    |                                                                                          |
@@ -20,7 +21,7 @@
 | Baka to Gogh                         |  0/12.1  | x | 1997  | 2000 | Seinen      |    | /a/ sol nationa lquiz artist                                                             |
 | Kasane                               |  0/126   | x | 2013  | 2018 | Seinen      |    |                                                                                          |
 | Blood on the Tracks                  |  0/126   | v | 2017  | ---- | Seinen      |    | +                                                                                        |
-| Give My Regards to Black Jack        |  0/127   | x | 2002  | 2006 | Seinen      |    | crapitalism healthcare                                                                   |
+| Black Jack                           |  31/243  | x | 1973  | 1983 | Shounen     | EH | magi hospital was cool, very hit and miss, mostly miss, vol 3 half waygT                 |
 | Hell's Paradise: Jigoraku            |  0/127   | x | 2018  | 2021 | Shounen     |    |                                                                                          |
 | Stardust Memories                    |   0/13   | x | 1995  | 2003 | Seinen      |    | yoppi, sci-fi short stories                                                              |
 | Abara                                |   0/13   | x | 2005  | 2006 | Seinen      |    | monster horror                                                                           |
@@ -37,22 +38,17 @@
 | Fool Night                           |   0/16   | v | 2020  | ---- | Seinen      |    | /a/ plant dystopia                                                                       |
 | Maison Ikkoku                        |  0/162   | x | 1980  | 1987 | Seinen      |    |                                                                                          |
 | Akumetsu                             |  0/162   | x | 2002  | 2016 | Shounen     |    | +, poliktiks maybe                                                                       |
-| Billy Bat                            |  0/165   | x | 2008  | 2016 | Seinen      |    |                                                                                          |
+| Billy Bat                            |  65/165  | x | 2008  | 2016 | Seinen      |    | civil rights part hit HARD, really boring and drawn out                                  |
 | Dorohedoro                           |  0/167   | x | 2000  | 2018 | Seinen      |    | +                                                                                        |
 | Gekiga Hitler                        |   0/17   | x | 1971  | 1971 | Seinen      |    |                                                                                          |
 | Blue Lock                            |  0/179   | v | 2018  | ---- | Shounen     |    |                                                                                          |
 | The Walking Man                      |   0/18   | x | 1990  | 1998 | Seinen      |    | slicey of lifey                                                                          |
-| Blue Phobia                          |   0/18   | x | 2017  | 2018 | Seinen      |    |                                                                                          |
 | Ayako                                |   0/19   | x | 1972  | 1973 | Seinen      |    | politics                                                                                 |
 | 2001 Nights                          |   0/19   | x | 1984  | 1986 | Seinen      |    |                                                                                          |
 | Gamaran                              |  0/194   | x | 2009  | 2013 | Shounen     |    | +                                                                                        |
 | Vinland Saga                         |  0/195   | v | 2005  | ---- | Seinen      |    | ++                                                                                       |
 | Doughnuts Under a Crescent Moon      |   0/20   | x | 2019  | 2022 | Shoujo-ai   |    | translation hiatus                                                                       |
-| Ode to Kirihito                      |   0/20   | x | 1971  | 1971 | Seinen      |    | horror                                                                                   |
-| pink                                 |   0/20   | x | 1989  | 1989 | Josei       |    | office prostitute crocodile pet                                                          |
-| Opus                                 |   0/20   | x | 1995  | 1995 | Seinen      |    | +                                                                                        |
 | Liar Game                            |  0/201   | x | 2005  | 2015 | Seinen      |    | death note-y                                                                             |
-| Watamote                             |  0/206   | v | 2011  | ---- | Shounen     |    |                                                                                          |
 | Nichijou                             |  0/206   | v | 2006  | ---- | Shounen     |    | /azu/                                                                                    |
 | Hansel And Gretel                    |   0/21   | x | 1981  | 1981 | Seinen      |    | /a/ fairytales bastardised by akira author                                               |
 | Kutsuzure Sensen                     |   0/21   | x | 2010  | 2012 | Seinen      |    | /a/ communist                                                                            |
@@ -68,10 +64,7 @@
 | Choujin X                            |   0/24   | v | 2021  | ---- | Seinen      |    |                                                                                          |
 | Souboutei Must be Destroyed          |  0/241   | x | 2016  | 2021 | Shounen     |    | /a/ horrory cool art                                                                     |
 | 20th Century Boys                    |  0/249   | x | 1999  | 2006 | Seinen      |    | +++, linesinmotion                                                                       |
-| Lucky Star                           |  0/252   | H | 2004  | ---- | Shounen     |    | /azu/                                                                                    |
-| MW                                   |   0/26   | x | 1976  | 1978 | Seinen      |    | american psycho                                                                          |
-| Oh! Men!                             |  0/26.5  | x | 2017  | 2017 | Josei       |    | cooking                                                                                  |
-| I am a Hero                          |  0/265   | x | 2009  | 2021 | Seinen      |    | zombie                                                                                   |
+| Trigun                               |   0/23   | x | 1995  | 1997 | Shounen     |    |                                                                                          |
 | Blue Heaven                          |   0/27   | x | 2002  | 2003 | Seinen      |    |                                                                                          |
 | From the New World                   |   0/27   | x | 2012  | 2014 | Shounen     |    | /a/ fantasy worldbuilding                                                                |
 | Hirayasumi                           |   0/29   | v | 2021  | ---- | Seinen      |    |                                                                                          |
@@ -89,7 +82,6 @@
 | Daidokoro no Dragon                  |   0/37   | x | 2017  | 2020 | Seinen      |    |                                                                                          |
 | Blue Orchestra                       |   0/38   | v | 2017  | ---- | Shounen     |    | linesinmotion                                                                            |
 | Heterogenia Linguistico              |   0/38   | v | 2018  | ---- | Seinen      |    |                                                                                          |
-| Human Metamorphosis                  |   0/4    | x | 1970  | 1971 | Seinen      |    |                                                                                          |
 | Samenai Machi No Kissaten            |   0/40   | x | 2015  | 2019 | Seinen      |    | yoppi, cute maybe                                                                        |
 | Haikyuu                              |  0/402   | x | 2012  | 2020 | Shounen     |    |                                                                                          |
 | The Delinquent Housewife             |   0/41   | x | 2015  | 2016 | Seinen      |    |                                                                                          |
@@ -117,11 +109,9 @@
 | Shiori Experience                    |   0/61   | v | 2013  | ---- | Seinen      |    | rock                                                                                     |
 | Franken Fran                         |  0/61.5  | x | 2006  | 2012 | Shounen     |    | +++                                                                                      |
 | Made in Abyss                        |   0/62   | v | 2012  | ---- | Seinen      |    |                                                                                          |
-| Starving Anonymous                   |   0/62   | x | 2014  | 2018 | Seinen      |    | +, politikal i guess maybe jazzy                                                         |
 | Kaiju No.8                           |   0/63   | v | 2020  | ---- | Shounen     |    | linesinmotion                                                                            |
 | Sweetness and Lightning              |   0/64   | x | 2013  | 2018 | Seinen      |    | /azu/                                                                                    |
 | Once Again in Slow Motion            |   0/64   | x | 2016  | 2018 | Seinen      |    |                                                                                          |
-| BLAME!                               |   0/65   | x | 1997  | 2003 | Seinen      |    |                                                                                          |
 | Pluto                                |   0/65   | x | 2003  | 2009 | Seinen      |    |                                                                                          |
 | Fujiyama-san wa Shishunki            |   0/67   | x | 2012  | 2015 | Seinen      |    |                                                                                          |
 | Flying Witch                         |   0/68   | v | 2012  | ---- | Shounen     |    | /azu/                                                                                    |
@@ -152,7 +142,6 @@
 | Juujika no Rokunin                   |   0/88   | v | 2020  | ---- | Shounen     |    | +, dot rec                                                                               |
 | Soil                                 |   0/89   | x | 2004  | 2016 | Seinen      |    | /a/                                                                                      |
 | Oshi No Ko                           |   0/89   | v | 2020  | ---- | Seinen      |    |                                                                                          |
-| Helter Skelter                       |   0/9    | x | 1995  | 1996 | Josei       |    | fashion drugs acting shit                                                                |
 | Ryuu no Gakkou wa Yama no Ue         |   0/9    | x | 2011  | 2011 | Seinen      |    | ryoko kui                                                                                |
 | My Wandering Warrior Existence       |  0/9.5   | x | 2020  | 2020 | Seinen      |    |                                                                                          |
 | Legend of the Strongest Man Kurosawa |   0/90   | x | 2003  | 2006 | Seinen      |    |                                                                                          |
@@ -215,54 +204,59 @@
 |---------------------------------------|:-------:|:-:|-------|------|-------------|----|-----------------------------------------------------------------------------------------------------|
 | Hunter x Hunter                       | 390/390 | H | 1998  | ---- | Shounen     | VG | WR, 318-most beautiful thing ever, good panelling, art bad to 250, too fast sometimes, wordy, :sob: |
 | JoJo Part 7: Steel Ball Run           |   95    | x | 2004  | 2011 | Seinen      | VG | WR, gyro enjoyer, actually good plot, great stands, kinda wacky ending, funny valentine is epic     |
-| Dungeon Meshi                         |  80/85  | v | 2014  | ---- | Seinen      | VG | WR, hilarious, great characters, amazing worldbuilding, great writing, perfect foreshadowing        |
-| Witch Hat Atelier                     |  47/60  | v | 2016  | ---- | Seinen      | VG | WR, chill and cute, beautiful art, fresh & fleshed out magic system, child-like interest in magic   |
+| Dungeon Meshi                         |  80/86  | v | 2014  | ---- | Seinen      | VG | WR, hilarious, great characters, amazing worldbuilding, great writing, perfect foreshadowing        |
+| Witch Hat Atelier                     |  47/61  | v | 2016  | ---- | Seinen      | VG | WR, chill and cute, beautiful art, fresh & fleshed out magic system, child-like interest in magic   |
 | Ikigami                               |   60    | x | 2005  | 2012 | Seinen      | VG | literally 1984, not a big fan of the last volume but until then it was amazing and perfect          |
 | Yotsuba to!                           | 109/109 | v | 2003  | ---- | Shounen     | VG | +, cute, wholesome, hilarious, criminally amazing art, yanda & torako <3, torako x asagi headcannon |
 | Assassination Classroom               |   180   | x | 2012  | 2016 | Shounen     | VG | WR, amazing characters, funny but haven't cried this much in so long :sob:                          |
-| Drifting Dragons                      |  68/72  | v | 2016  | ---- | Seinen      | VG | last 2 arcs were great, everyone's hot, great characters, art is too good, flying scaly octopi      |
+| Drifting Dragons                      |  68/73  | v | 2016  | ---- | Seinen      | VG | last 2 arcs were great, everyone's hot, great characters, art is too good, flying scaly octopi      |
 | Yugami-Kun Has No Friends             |  81.5   | x | 2012  | 2019 | Seinen      | VG | so wholesume, great characters, he jus like me frfr not really, ending speech was :sob:             |
-| Skip to Loafer                        |  38/43  | v | 2018  | ---- | Seinen      | PG | cutesy, rElAtAbLe, great characters and very exciting                                               |
+| Attack On Titan                       |   139   | x | 2009  | 2021 | Shounen     | VG | last chapter confused me but i like the ending, poliktikal and philosophical, great worldbuilding   |
 | National Quiz                         |   44    | x | 1994  | 1995 | Seinen      | PG | cool art & panelling, fun concept, muy politics, more serious would be good, satisfying             |
+| Skip to Loafer                        |  38/43  | v | 2018  | ---- | Seinen      | PG | cutesy, rElAtAbLe, great characters and very exciting                                               |
 | The Girl From The Other Side          |   53    | x | 2015  | 2021 | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing           |
 | Insomniacs After School               |  80/80  | v | 2019  | ---- | Seinen      | PG | +, cute and wholesome, art is hit or miss, ch79 event is very sudden, wacky-ish pacing, /p/+/adv/   |
 | Shinya Shokudou                       |  54/54  | H | 2006  | ---- | Seinen      | PG | wholesome, feelsgoodman.png, vibey, unique art style, explains a lot about japanese culture         |
-| Our Dreams at Dusk                    |   23    | x | 2015  | 2018 | Seinen      | PG | +, great use of art, deep, called it so many times, buddy read, learned new slurs :sob:             |
-| Cooking in Another World Isekai       | 52/52.2 | v | 2017  | ---- | Shounen     | PG | whimsical, sui <3, dora-chan <3, dragon fanatic <3, mc syndrome but eh, funny                       |
-| Eniale & Dewiela                      |   15    | x | 2012  | 2015 | Seinen      | PG | devile lady arc is cool, horny, amazing art & panelling as always with shirahama, gay????           |
 | Tokyo Ghoul                           |   143   | x | 2011  | 2014 | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                       |
+| Our Dreams at Dusk                    |   23    | x | 2015  | 2018 | Seinen      | PG | +, great use of art, deep, called it so many times, buddy read, learned new slurs :sob:             |
+| Eniale & Dewiela                      |   15    | x | 2012  | 2015 | Seinen      | PG | devile lady arc is cool, horny, amazing art & panelling as always with shirahama, gay????           |
+| MW                                    |   26    | x | 1976  | 1978 | Seinen      | PG | american psycho, sussy moments were ehhhh, consequences of catholicism, vg pacing & length          |
+| My Lesbian Experience With Loneliness |    5    | x | 2016  | 2016 | Seinen      | PG | rly maeks u think, relatable, wholsome-ish, like a more happier ending no longer human              |
 | Castle of The Dragon                  |   29    | x | 2004  | 2004 | Seinen      | PG | bizarre as fuck, what am i even reading, good time travel story??, cool art, /a/                    |
 | JoJo Part 2: Battle Tendency          |   69    | x | 1987  | 1989 | Shounen     | PG | antifa, wamuu is so based, art is muy nice, panelling is kinda eh, good pacing                      |
+| Cooking in Another World Isekai       | 52/52.2 | v | 2017  | ---- | Shounen     | PG | whimsical, sui <3, dora-chan <3, dragon fanatic <3, mc syndrome but eh, funny                       |
 | Slime Isekai                          |  96/98  | v | 2015  | ---- | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
-| Sakamoto Days                         |  62/82  | v | 2020  | ---- | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
+| Starving Anonymous                    |   62    | x | 2014  | 2018 | Seinen      | PG | +, god is actually an alien cricket, much philosphical :nerd:, biphobic fr                          |
+| All You Need Is Kill                  |   17    | x | 2014  | 2014 | Seinen      | PG | really fun concept, incremental game, ending was nice, mimics are so cool                           |
+| Sakamoto Days                         |  62/83  | v | 2020  | ---- | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
 | Hana Wants to Bear Fruit!             |   12    | x | 2019  | 2020 | Josei       | PG | mc has a working brain and isn't a complete simp, the plant metaphor is neat                        |
-| Jujutsu Kaisen                        | 177/193 | v | 2018  | ---- | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
+| Hello, Melanholic!                    |   18    | x | 2019  | 2020 | Shoujo-ai   | PG | wholesum, really interesting variety of characters for such a short series                          |
+| Jujutsu Kaisen                        | 177/195 | v | 2018  | ---- | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
 | Gambling Heathen Kaiji                |   134   | x | 2000  | 2004 | Seinen      | PG | stop jebaiting me ffs, panelling and art quality as a whole are not great, suspenseful              |
-| My Lesbian Experience With Loneliness |    5    | x | 2016  | 2016 | Seinen      | PG | rly maeks u think, relatable, wholsome-ish, like a more happier ending no longer human              |
-| Call of the Night                     | 117/137 | v | 2019  | ---- | Shounen     | PG | +, deep but not pretentious, sussy, good translation, fun and holsum, wanna skip school             |
-| Komi Can't Communicate                | 346/367 | v | 2016  | ---- | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
-| Spy x Family                          |  61/65  | v | 2019  | ---- | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
+| Komi Can't Communicate                | 346/368 | v | 2016  | ---- | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
+| Spy x Family                          |  61/67  | v | 2019  | ---- | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Giant Spider and Me                   |   14    | x | 2016  | 2018 | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                     |
 | Our Dining Table                      |    8    | x | 2015  | 2017 | Shounen-ai  | PG | wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                           |
+| Call of the Night                     | 117/138 | v | 2019  | ---- | Shounen     | PG | +, deep but not pretentious, sussy, good translation, fun and holsum, wanna skip school             |
 | My Little Noir                        |    1    | x | 2011  | 2011 | Seinen      | PG | beautiful art, beautiful panelling, cute, kamome shirahama                                          |
 | Ajin - Demi Human                     |   86    | x | 2012  | 2021 | Seinen      | PG | jojo x tokyo ghoul, creative battles, unique art, smoker guy and sato are cool, wack ending         |
-| 80's Video Trip                       |    1    | x | 2019  | 2019 | Seinen      | PG | really pretty and beautiful art, deep, wholesum, could be a bit longer                              |
+| Kengan Asura                          |   236   | x | 2012  | 2018 | Shounen     | PG | ++, inaba cool, fun battles, setsuna shit, needs a magic system, eh art, eh ending                  |
 | Paperakyu                             |  66/66  | x | 2011  | 2020 | Seinen      | PG | translation hiatus, furry dudes are neat, suspenseful at times, art is "unique"                     |
 | Tomie                                 |   20    | x | 1987  | 1999 | Shoujo      | PG | great concept, Painter, Hair, Little Finger, Moromi are really good stories, satisfying             |
 | Stargazing Dog                        |    5    | x | 2008  | 2009 | Seinen      | PG | depressing and wholesome at the same time, unique art                                               |
-| Kengan Asura                          |   236   | x | 2012  | 2018 | Shounen     | PG | ++, inaba cool, fun battles, setsuna shit, needs a magic system, eh art, eh ending                  |
+| My Broken Mariko                      |  1/4.5  | x | 2019  | 2019 | Josei       | PG | would be better with backstory at the start, smoking is hot, sad                                    |
+| 80's Video Trip                       |    1    | x | 2019  | 2019 | Seinen      | PG | really pretty and beautiful art, deep, wholesum, could be a bit longer                              |
 | Yu Yu Hakusho                         |   175   | x | 1990  | 1994 | Shounen     | GO | very cheesy and boring but enjoyable, nice seeing the things taken from it and put in HxH           |
 | Chainsaw Man                          | 97/100  | v | 2018  | ---- | Shounen     | GO | ++, too rushed and confusing, gun arc & Denji training are too short, asspully                      |
-| My Dress-up Darling                   |  72/78  | v | 2018  | ---- | Shounen     | GO | would be better if it wasn't ecchi, cool learning more about cosplay                                |
-| Dai Dark                              |  28/30  | v | 2019  | ---- | Shounen     | GO | ++, sick art, pika guy is super annoying, cool worldbuilding, gender neutral is neat, kinda boring  |
 | JoJo Part 6: Stone Ocean              |   158   | x | 1999  | 2003 | Shounen     | GO | what?, too horny in the beginning, awful ending, cool stands, very very monster of the week, ff <3  |
-| Our Wonderful Days                    |   18    | x | 2017  | 2019 | Shoujo-ai   | GO | nice to see a swag story without swagphobia, wholesome and cute                                     |
-| Kengan Omega                          | 151/169 | v | 2019  | ---- | Shounen     | GO | ++, don't really care about the "plot"                                                              |
+| Our Wonderful Days                    |   18    | x | 2017  | 2019 | Shoujo-ai   | GO | wholesome and cute                                                                                  |
+| My Dress-up Darling                   |  72/79  | v | 2018  | ---- | Shounen     | GO | would be better if it wasn't ecchi, cool learning more about cosplay                                |
+| Dai Dark                              |  28/31  | v | 2019  | ---- | Shounen     | GO | ++, sick art, pika guy is super annoying, cool worldbuilding, gender neutral is neat, kinda boring  |
 | Golem Hearts                          |   15    | x | 2017  | 2018 | Shounen     | GO | fun concept, almost whimsical, wish it wasn't axed, nice art                                        |
 | Dissolving Classroom                  |    5    | x | 2013  | 2014 | Josei       | GO | cool concept, very complete, last chapter felt off topic, stop apologising                          |
 | Heads                                 |   36    | x | 2002  | 2003 | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                  |
 | Lovesickness                          |   10    | x | 1996  | 1996 | Josei       | GO | great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                  |
-| Mashle                                | 96/119  | v | 2020  | ---- | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny but falls flat usually            |
+| Mashle                                | 96/120  | v | 2020  | ---- | Shounen     | GO | +, opmy/moby, repetitive humour, eh magic system, sometimes funny but falls flat usually            |
 | Ito Junji's Cat Diary                 |   10    | x | 2007  | 2008 | Seinen      | GO | very fun, horror art/writing style on slice of life is hilarious                                    |
 | Onward Towards Our Noble Deaths       |    1    | x | 1973  | 1973 | Seinen      | GO | depressing, i love selling my body to the state for literally nothing, /a/                          |
 | JoJo Part 1: Phantom Blood            |   44    | x | 1986  | 1987 | Shounen     | GO | kinda bland but i dont hate it                                                                      |
@@ -281,20 +275,25 @@
 | Tokyo Ghoul Jack                      |    7    | x | 2013  | 2013 | Seinen      | GO | colours were pretty, story was okay i guess                                                         |
 | Ruri Dragon                           |   1/6   | H | 2022  | ---- | Shounen     | GO | too early to tell lol, relaxingly nonchalant                                                        |
 | Asteroid                              |   11    | x | 1989  | 1991 | Seinen      | EH | trippy, amazing art, read only for the art, didn't really get the "deepness"                        |
+| Kengan Omega                          | 151/172 | v | 2019  | ---- | Shounen     | EH | ++, don't really care about the "plot"                                                              |
 | Rapid Commuter Underground            |   25    | x | 2012  | 2014 | Seinen      | EH | neat art, not much else, /a/                                                                        |
+| Blue Phobia                           |   18    | x | 2017  | 2018 | Seinen      | EH | the writing was really cheesy at times, okay concept i guess                                        |
 | Ashidaka: The Iron Hero               |   19    | x | 2020  | 2021 | Shounen     | EH | hard to follow, explanation plx, totally not tg, asspully, annoying pacificist mc, cringy           |
 | Shiver                                |   10    | x | 2015  | 2015 | Seinen      | EH | fashion model muy gud, formulaic and kinda repetitive                                               |
 | Okaeri Aureole                        |    5    | x | 2016  | 2017 | Shounen-ai  | EH | wholesome and kinda deep i guess                                                                    |
 | Angel Oil                             |   5/5   | H | 2006  | ---- | Seinen      | EH | cool concept but way too little out                                                                 |
 | Domu                                  |    6    | x | 1980  | 1981 | Seinen      | EH | good art, very confusing, battles were cool                                                         |
-| Just Listen To The Song               |    1    | x | 2022  | 2022 | Shounen     | EH | fujimoto, would've been way better if it was longer, neat-ish concept but not explored              |
-| Fire Punch                            |   83    | x | 2016  | 2018 | Shounen     | EH | weird and doesn't make much sense, dystopian setting is nice, split morality world is unique        |
 | Homunculus                            |   166   | x | 2003  | 2011 | Seinen      | EH | SA scene is shit, confusing, not relatable, cringy hornyness, bingeable                             |
+| Just Listen To The Song               |    1    | x | 2022  | 2022 | Shounen     | EH | fujimoto, would've been way better if it was longer, neat-ish concept but not explored              |
+| Human Metamorphosis                   |    4    | x | 1970  | 1971 | Seinen      | EH | boring, okay concept, art is stinky                                                                 |
+| Fire Punch                            |   83    | x | 2016  | 2018 | Shounen     | EH | weird and doesn't make much sense, dystopian setting is nice, split morality world is unique        |
+| Helter Skelter                        |    9    | x | 1995  | 1996 | Josei       | EH | didn't really get it, art was eh                                                                    |
 | Bastard                               |   93    | x | 2014  | 2017 | Shounen     | EH | mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                |
 | Jacaranda                             |    5    | x | 2002  | 2004 | Seinen      | EH | stinky art, cool concept but the execution isn't anything special, /a/                              |
 | Dragon Ball                           |   194   | x | 1984  | 1988 | Shounen     | EH | awful & sussy fan service, boring battles, boring everything, super overrated                       |
 | Our Happy Hours                       |    8    | x | 2008  | 2008 | Seinen      | EH | eh art & panelling, trying to be edgy & deep too hard and failing, ok at times                      |
 | Jun and Kaoru                         |   16    | x | 2018  | 2021 | Shounen     | EH | nothing really interesting, was good vibes i guess??                                                |
+| Oh! Men!                              |  26.5   | x | 2017  | 2017 | Josei       | SH | boring as fuck, full colour                                                                         |
 | Oyasumi Punpun                        |   147   | x | 2007  | 2013 | Seinen      | SH | ++, too horny, pegasus (early) & mangaka were cool, kinda sad ig, mc design is unique & nice        |
 | Gon                                   |   24    | x | 1992  | 2002 | Seinen      | SH | shit scans, art is way too detailed for my liking, this is for little kids                          |
 | Record of Ragnarok                    |  59/65  | v | 2017  | ---- | Seinen      | SH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully         |
@@ -455,7 +454,7 @@
 |---------------------------------|:---:|:-:|----|:-:|----------------------------------|
 | Witch Hat Atelier               | 60  | v | VG | v |                                  |
 | Dungeon Meshi                   | 85  | x | VG | v |                                  |
-| Drifting Dragons                | 72  | v | VG | v |                                  |
+| Drifting Dragons                | 73  | v | VG | v |                                  |
 | Toriko                          | 396 | x | VG | - | not completely whimsical         |
 | Giant Spider and Me             | 14  | x | PG | v |                                  |
 | The Girl From The Other Side    | 53  | x | PG | - | dark so not completely whimsical |
@@ -512,7 +511,7 @@
 | Dungeon Meshi                         | 85 | v | Seinen | VG | idiots go into dungeon and cook the monsters there, great worldbuilding & humour    |
 | Ikigami                               | 60 | x | Seinen | VG | guberment put bombs in 1/1000 ppl that explode when they're 18-24, they get notif   |
 |                                       |    |   |        |    | 24h before dying, abt what they do with their last 24h & the law itself             |
-| Drifting Dragons                      | 72 | v | Seinen | VG | crew of dragon hunters hunt & eat dragons, really beautiful art, a bit to get going |
+| Drifting Dragons                      | 73 | v | Seinen | VG | crew of dragon hunters hunt & eat dragons, really beautiful art, a bit to get going |
 | Skip to Loafer                        | 43 | v | Seinen | VG | girl moves into big city, abt making frens & bfs in new place, relatalbe & cute     |
 | National Quiz                         | 44 | x | Seinen | PG | quiz where if you win you get your wish granted by the guberment but if you lose    |
 |                                       |    |   |        |    | the guberment punishes you, wacky but really good and about this ridcuoulso law     |
