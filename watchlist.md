@@ -2,7 +2,7 @@
 
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
-| Denjin N                             |   /37    | x |       |      |             |    | SCANLATION HIATUS ELECTIRICTY DEATH NOTE GUY                                             |
+| Denjin N                             |  0/37    | x |       |      |             |    | SCANLATION HIATUS ELECTIRICTY DEATH NOTE GUY                                             |
 | JoJo Part 3: Stardust Crusaders      |  1/152   | x | 1989  | 1992 | Shounen     |    |                                                                                          |
 | JoJo Part 4: Diamond is Unbreakable  |  0/174   | x | 1992  | 1995 | Shounen     |    |                                                                                          |
 | JoJo Part 5: Golden Wind             |  0/155   | x | 1995  | 1999 | Shounen     |    |                                                                                          |
