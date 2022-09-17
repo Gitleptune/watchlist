@@ -2,7 +2,7 @@
 
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
-| Denjin N                             |  0/37    | x |       |      |             |    | SCANLATION HIATUS ELECTIRICTY DEATH NOTE GUY                                             |
+| Denjin N                             |   0/37   | x |       |      |             |    | SCANLATION HIATUS ELECTIRICTY DEATH NOTE GUY                                             |
 | JoJo Part 3: Stardust Crusaders      |  1/152   | x | 1989  | 1992 | Shounen     |    |                                                                                          |
 | JoJo Part 4: Diamond is Unbreakable  |  0/174   | x | 1992  | 1995 | Shounen     |    |                                                                                          |
 | JoJo Part 5: Golden Wind             |  0/155   | x | 1995  | 1999 | Shounen     |    |                                                                                          |
@@ -51,7 +51,6 @@
 | The Walking Man                      |   0/18   | x | 1990  | 1998 | Seinen      |    | slicey of lifey                                                                          |
 | Ayako                                |   0/19   | x | 1972  | 1973 | Seinen      |    | politics                                                                                 |
 | 2001 Nights                          |   0/19   | x | 1984  | 1986 | Seinen      |    |                                                                                          |
-| Gamaran                              |  0/194   | x | 2009  | 2013 | Shounen     |    | +                                                                                        |
 | Vinland Saga                         |  0/195   | v | 2005  | ---- | Seinen      |    | ++                                                                                       |
 | Doughnuts Under a Crescent Moon      |   0/20   | x | 2019  | 2022 | Shoujo-ai   |    | translation hiatus                                                                       |
 | Liar Game                            |  0/201   | x | 2005  | 2015 | Seinen      |    | death note-y                                                                             |
@@ -87,7 +86,6 @@
 | Daidokoro no Dragon                  |   0/37   | x | 2017  | 2020 | Seinen      |    |                                                                                          |
 | Heterogenia Linguistico              |   0/38   | v | 2018  | ---- | Seinen      |    |                                                                                          |
 | Samenai Machi No Kissaten            |   0/40   | x | 2015  | 2019 | Seinen      |    | yoppi, cute maybe                                                                        |
-| Haikyuu                              |  0/402   | x | 2012  | 2020 | Shounen     |    |                                                                                          |
 | The Delinquent Housewife             |   0/41   | x | 2015  | 2016 | Seinen      |    |                                                                                          |
 | Go North-Northwest With Clouds       |  0/41.5  | v | 2016  | ---- | Seinen      |    | linesinmotion                                                                            |
 | The Drifting Classroom               |   0/42   | x | 1972  | 1974 | Shounen     |    | ++, horror                                                                               |
@@ -109,9 +107,7 @@
 | The Flowers of Evil                  |   0/57   | x | 2009  | 2014 | Shounen     |    | +                                                                                        |
 | Spirit in the Sky                    |   0/6    | x | 2002  | 2002 | Seinen      |    | maybe whimsical                                                                          |
 | Shiori Experience                    |   0/61   | v | 2013  | ---- | Seinen      |    | rock                                                                                     |
-| Franken Fran                         |  0/61.5  | x | 2006  | 2012 | Shounen     |    | +++                                                                                      |
 | Made in Abyss                        |   0/62   | v | 2012  | ---- | Seinen      |    |                                                                                          |
-| Kaiju No.8                           |   0/63   | v | 2020  | ---- | Shounen     |    | linesinmotion                                                                            |
 | Sweetness and Lightning              |   0/64   | x | 2013  | 2018 | Seinen      |    | /azu/                                                                                    |
 | Once Again in Slow Motion            |   0/64   | x | 2016  | 2018 | Seinen      |    |                                                                                          |
 | Pluto                                |   0/65   | x | 2003  | 2009 | Seinen      |    |                                                                                          |
@@ -123,7 +119,7 @@
 | Love Sync Dream                      |   0/7    | x | 2007  | 2011 | Seinen      |    |                                                                                          |
 | Seven Little Sons of the Dragon      |   0/7    | x | 2012  | 2012 | Seinen      |    | ryoko kui                                                                                |
 | Shells and AlternaRock               |   0/7    | x | 2015  | 2017 | Shoujo-ai   |    | yuri office                                                                              |
-| Boy Meets Maria                      |   0/7    | x | 2017  | 2018 | Shounen-ai  |    |                                                                                          |
+| Boy Meets Maria                      |   1/7    | x | 2017  | 2018 | Shounen-ai  |    |                                                                                          |
 | Bleach                               |  0/706   | x | 2001  | 2016 | Shounen     |    |                                                                                          |
 | Honey and Clover                     |   0/71   | x | 2000  | 2006 | Josei       |    |                                                                                          |
 | Gunka no Baltzar                     |   0/71   | v | 2011  | ---- | Seinen      |    | poliktiks maybe                                                                          |
@@ -132,7 +128,6 @@
 | Kingdom                              |  0/722   | v | 2006  | ---- | Seinen      |    |                                                                                          |
 | Neko no Otera no Chion-san           |   0/79   | x | 2016  | 2018 | Seinen      |    | sol                                                                                      |
 | Wallaby                              |   0/8    | x | 1998  | 2016 | Shounen     |    | /azu/                                                                                    |
-| He Does Not Have Any Friends         |  0/81.5  | x | 2012  | 2019 | Shounen     |    | +                                                                                        |
 | Freesia                              |   0/82   | x | 2001  | 2009 | Seinen      |    | take your meds shitzo                                                                    |
 | Nana                                 |   0/84   | H | 2000  | ---- | Shoujo      |    |                                                                                          |
 | The Ancient Magus' Bride             |   0/85   | v | 2013  | ---- | Seinen      |    | whimsicaly                                                                               |
