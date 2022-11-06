@@ -2,12 +2,11 @@
 
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
-| Zom 100                              |   0/47   | v | 2018  | ---- | Seinen      |    | niki rec                                                                                 |
+| Fruits Basket                        | 0/136.5  | x | 1998  | 2006 | Shoujo      |    | +, not a sports manga, psychological, surg rec                                           |
 | JoJo Part 8: JoJolion                |  43/110  | x | 2011  | 2021 | Seinen      |    | wall eyes are cool, beetle fight are fun                                                 |
 | To Your Eternity                     |  32/169  | v | 2016  | ---- | Shounen     |    |                                                                                          |
 | Love Sync Dream                      |   0/7    | x | 2007  | 2011 | Seinen      |    |                                                                                          |
 | Seven Little Sons of the Dragon      |   0/7    | x | 2012  | 2012 | Seinen      |    | ryoko kui                                                                                |
-| To Your Eternity                     |          |   |       |      |             |    |                                                                                          |
 | Shells and AlternaRock               |   0/7    | x | 2015  | 2017 | Shoujo-ai   |    | yuri office                                                                              |
 | Wallaby                              |   0/8    | x | 1998  | 2016 | Shounen     |    | /azu/                                                                                    |
 | Ryuu no Gakkou wa Yama no Ue         |   0/9    | x | 2011  | 2011 | Seinen      |    | ryoko kui                                                                                |
@@ -33,7 +32,6 @@
 | Tomodachi Game                       |  0/104   | v | 2013  | ---- | Shounen     |    | + ed rec                                                                                 |
 | My Home Hero                         |  0/106   | v | 2017  | ---- | Shounen     |    | murder mystery thing                                                                     |
 | Sanctuary                            |  0/107   | x | 1990  | 1995 | Seinen      |    | +, poliktikal maybe                                                                      |
-| What Did You Eat Yesterday?          |  0/136   | v | 2007  | ---- | Seinen      |    | gaymer                                                                                   |
 | And Yet the Town Moves               |  4/138   | x | 2005  | 2016 | Seinen      |    | /azu/                                                                                    |
 | Barakamon                            |  0/139   | x | 2008  | 2018 | Shounen     |    | /azu/                                                                                    |
 | Dorohedoro                           |  0/167   | x | 2000  | 2018 | Seinen      |    | +                                                                                        |
@@ -44,7 +42,7 @@
 | JoJo Part 4: Diamond is Unbreakable  |  0/174   | x | 1992  | 1995 | Shounen     |    |                                                                                          |
 | Barbara                              |   0/15   | x | 1973  | 1974 | Seinen      |    | satan                                                                                    |
 | Cocoon                               |   0/15   | x | 2008  | 2010 | Josei       |    | pretty                                                                                   |
-| Sui and Neri of the Twilight Planet  |   0/15   | x | 2020  | 2021 | Seinen      |    | cute sol                                                                                 |
+| Sui and Neri of the Twilight Planet  |   1/15   | x | 2020  | 2021 | Seinen      |    | cute sol                                                                                 |
 | Claymore                             |  0/155   | x | 2001  | 2014 | Shounen     |    |                                                                                          |
 | Akumetsu                             |  14/162  | x | 2002  | 2016 | Shounen     |    | +, poliktiks maybe                                                                       |
 | Billy Bat                            |  65/165  | x | 2008  | 2016 | Seinen      |    | civil rights part hit hard, otherwise really boring and drawn out                        |
@@ -95,7 +93,6 @@
 | Cat Soup                             |   0/57   | x | 1990  | 1995 | Seinen      |    |                                                                                          |
 | Shiori Experience                    |   0/61   | v | 2013  | ---- | Seinen      |    | rock                                                                                     |
 | Sweetness and Lightning              |   0/64   | x | 2013  | 2018 | Seinen      |    | /azu/                                                                                    |
-| Once Again in Slow Motion            |   0/64   | x | 2016  | 2018 | Seinen      |    |                                                                                          |
 | Pluto                                |   0/65   | x | 2003  | 2009 | Seinen      |    |                                                                                          |
 | Fujiyama-san wa Shishunki            |   0/67   | x | 2012  | 2015 | Seinen      |    |                                                                                          |
 | Flying Witch                         |   0/68   | v | 2012  | ---- | Shounen     |    | /azu/                                                                                    |
@@ -118,7 +115,7 @@
 | Beck                                 | 1/101.5  | x | 2000  | 2008 | Shounen     |    | + jazzy rec                                                                              |
 | Majo no Tabitabi                     |  1/11.5  | v | 2018  | ---- | Shounen     |    |                                                                                          |
 | The Law of Ueki                      |  1/154   | x | 2001  | 2004 | Shounen     |    | botany related                                                                           |
-| Level E                              |   1/16   | x | 1995  | 1996 | Shounen     |    | togashi                                                                                  |
+| Level E                              |   2/16   | x | 1995  | 1996 | Shounen     |    | togashi                                                                                  |
 | The Promised Neverland               |  1/189   | x | 2016  | 2020 | Shounen     |    | i need something to make up for season 2 but will wait a bit to forget it more           |
 | Welcome to the NHK                   |   1/40   | x | 2004  | 2007 | Shounen     |    |                                                                                          |
 | Sailor Moon                          |   1/60   | x | 1992  | 1997 | Shoujo      |    |                                                                                          |
@@ -167,7 +164,7 @@
 
 | Title                                 |    C    | O | Start | End  | Demographic | R  | Notes                                                                                               |
 |---------------------------------------|:-------:|:-:|-------|------|-------------|----|-----------------------------------------------------------------------------------------------------|
-| Hunter x Hunter                       | 392/392 | v | 1998  | ---- | Shounen     | VG | WR, chapter 318 is the most beautiful thing ever, good panelling, art eh to 250, wordy, :sob:       |
+| Hunter x Hunter                       | 393/393 | v | 1998  | ---- | Shounen     | VG | WR, chapter 318 is the most beautiful thing ever, good panelling, art eh to 250, wordy, :sob:       |
 | JoJo Part 7: Steel Ball Run           |   95    | x | 2004  | 2011 | Seinen      | VG | WR, gyro enjoyer, actually good plot, great stands, kinda wacky ending, funny valentine is epic     |
 | Dungeon Meshi                         |  80/87  | v | 2014  | ---- | Seinen      | VG | WR, hilarious, great characters, amazing worldbuilding, great writing, perfect foreshadowing        |
 | Ikigami                               |   60    | x | 2005  | 2012 | Seinen      | VG | literally 1984, not a big fan of the last volume but until then it was amazing and perfect          |
@@ -245,6 +242,7 @@
 | Tokyo Ghoul Jack                      |    7    | x | 2013  | 2013 | Seinen      | GO | colours were pretty, story was okay i guess                                                         |
 | Ruri Dragon                           |   6/6   | H | 2022  | ---- | Shounen     | GO | relaxingly nonchalant, not funny when it's trying to be                                             |
 | Asteroid                              |   11    | x | 1989  | 1991 | Seinen      | EH | trippy, amazing art, read only for the art, didn't really get the "deepness"                        |
+| Once Again in Slow Motion             |   64    | x | 2016  | 2018 | Seinen      | EH | started out really cheesy but improved, kinda a big mess but it was okay                            |
 | Kengan Omega                          | 151/177 | v | 2019  | ---- | Shounen     | EH | ++, don't really care about the "plot", omega is kinda ass                                          |
 | Mashle                                | 96/126  | v | 2020  | ---- | Shounen     | EH | +, opmy/moby, repetitive humour, eh magic system, unfunny                                           |
 | Blue Phobia                           |   18    | x | 2017  | 2018 | Seinen      | EH | the writing was really cheesy at times, okay concept i guess                                        |
@@ -264,6 +262,7 @@
 | Fire Punch                            |   83    | x | 2016  | 2018 | Shounen     | EH | weird and doesn't make much sense, dystopian setting is nice, split morality world is unique        |
 | Helter Skelter                        |    9    | x | 1995  | 1996 | Josei       | EH | didn't really get it, art was eh                                                                    |
 | Yokai Hunter                          |   5.5   | x | 1974  | 1974 | Shounen     | EH | really wordy and boring                                                                             |
+| Zom 100                               |  26/26  | v | 2018  | ---- | Seinen      | EH | +, boring, extremely childish, fanservice                                                           |
 | Bastard                               |   93    | x | 2014  | 2017 | Shounen     | EH | mid story but awful panneling, swear word censoring and unrealistic & cheesy moments                |
 | Blue Flag                             |   54    | x | 2017  | 2020 | Shounen     | EH | wordy, shit ending, bad representation, mami's character arc is amazing, static characters          |
 | Dragon Ball                           |   194   | x | 1984  | 1988 | Shounen     | EH | awful & sussy fan service, boring battles, boring everything, super overrated                       |
