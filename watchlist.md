@@ -2,24 +2,26 @@
 
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
+| Dorohedoro                           |  36/167  | x | 2000  | 2018 | Seinen      |    | +, art is too detailed and messy for my liking                                           |
 | Fruits Basket                        | 0/136.5  | x | 1998  | 2006 | Shoujo      |    | +, not a sports manga, psychological, surg rec                                           |
+| We Shall Now Begin Ethics            |   0/35   | v | 2016  | ---- | Seinen      |    | pheleosophy                                                                              |
+| Densha Otoko: Ganbare Doku Otoko!    |   4/4    | H | 2005  | 2006 | Seinen      | EH | weird, 2chan romance who exactly wants it, scanlation hiatus                             |
 | JoJo Part 8: JoJolion                |  43/110  | x | 2011  | 2021 | Seinen      |    | wall eyes are cool, beetle fight are fun                                                 |
 | To Your Eternity                     |  32/169  | v | 2016  | ---- | Shounen     |    |                                                                                          |
 | Love Sync Dream                      |   0/7    | x | 2007  | 2011 | Seinen      |    |                                                                                          |
 | Seven Little Sons of the Dragon      |   0/7    | x | 2012  | 2012 | Seinen      |    | ryoko kui                                                                                |
-| Shells and AlternaRock               |   0/7    | x | 2015  | 2017 | Shoujo-ai   |    | yuri office                                                                              |
-| Wallaby                              |   0/8    | x | 1998  | 2016 | Shounen     |    | /azu/                                                                                    |
+| Shells and AlternaRock               |   3/7    | x | 2015  | 2017 | Shoujo-ai   |    | yuri office                                                                              |
 | Ryuu no Gakkou wa Yama no Ue         |   0/9    | x | 2011  | 2011 | Seinen      |    | ryoko kui                                                                                |
 | Denjin N                             |   0/37   | x |       |      |             |    | SCANLATION HIATUS ELECTIRICTY DEATH NOTE GUY                                             |
+| Butter!!!                            |   0/34   | x | 2009  | 2013 | Seinen      |    | dance kawaii desu slice of life manga                                                    |
 | Aqua                                 |   0/10   | x | 2001  | 2001 | Shounen     |    |                                                                                          |
-| Bibliomania                          |   0/12   | x | 2016  | 2018 | Seinen      |    | horror                                                                                   |
 | My Alcoholic Escape From Reality     |   0/12   | x | 2019  | 2019 | Seinen      |    |                                                                                          |
 | Baka to Gogh                         |  0/12.1  | x | 1997  | 2000 | Seinen      |    | sol nationa lquiz artist                                                                 |
 | Kasane                               |  0/126   | x | 2013  | 2018 | Seinen      |    |                                                                                          |
 | Hell's Paradise Jigoraku             |  75/127  | x | 2018  | 2021 | Shounen     | EH | so default shounen and extremely horny for no reason at all, boring battles              |
 | Stardust Memories                    |   0/13   | x | 1995  | 2003 | Seinen      |    | yoppi, sci-fi short stories                                                              |
 | Abara                                |   0/13   | x | 2005  | 2006 | Seinen      |    | monster horror                                                                           |
-| Innocent                             |  20/99   | x | 2013  | 2015 | Seinen      |    | +, fucking stinky, i dont care about executions, why was this recced to me               |
+| Innocent                             |  20/99   | x | 2013  | 2015 | Seinen      | EH | +, fucking stinky, i dont care about executions, why was this recced to me silly xv      |
 | Blue Period                          |  32/50   | v | 2017  | ---- | Seinen      | GO | +, wish it was more relatable, kuwano <3, pretty boring at times, don't like the art     |
 | Blue Spring                          |   3/7    | x | 1993  | 1993 | Seinen      | SH | could not care less about delinquents, ugly art                                          |
 | Blue Giant                           |   0/80   | x | 2013  | 2016 | Seinen      |    |                                                                                          |
@@ -31,10 +33,8 @@
 | A Bride's Story                      |  0/102   | v | 2008  | ---- | Seinen      |    | +                                                                                        |
 | Tomodachi Game                       |  0/104   | v | 2013  | ---- | Shounen     |    | + ed rec                                                                                 |
 | My Home Hero                         |  0/106   | v | 2017  | ---- | Shounen     |    | murder mystery thing                                                                     |
-| Sanctuary                            |  0/107   | x | 1990  | 1995 | Seinen      |    | +, poliktikal maybe                                                                      |
 | And Yet the Town Moves               |  4/138   | x | 2005  | 2016 | Seinen      |    | /azu/                                                                                    |
 | Barakamon                            |  0/139   | x | 2008  | 2018 | Shounen     |    | /azu/                                                                                    |
-| Dorohedoro                           |  0/167   | x | 2000  | 2018 | Seinen      |    | +                                                                                        |
 | Yokohama Shopping Trip               |  0/141   | x | 1994  | 2006 | Seinen      |    | +, /azu/                                                                                 |
 | Shadows House                        |  0/144   | v | 2018  | ---- | Seinen      |    |                                                                                          |
 | JoJo Part 3: Stardust Crusaders      |  1/152   | x | 1989  | 1992 | Shounen     |    |                                                                                          |
@@ -47,7 +47,6 @@
 | Akumetsu                             |  14/162  | x | 2002  | 2016 | Shounen     |    | +, poliktiks maybe                                                                       |
 | Billy Bat                            |  65/165  | x | 2008  | 2016 | Seinen      |    | civil rights part hit hard, otherwise really boring and drawn out                        |
 | Fool Night                           |   0/16   | v | 2020  | ---- | Seinen      |    | plant dystopia                                                                           |
-| Gekiga Hitler                        |   0/17   | x | 1971  | 1971 | Seinen      |    |                                                                                          |
 | The Walking Man                      |   0/18   | x | 1990  | 1998 | Seinen      |    | slicey of lifey                                                                          |
 | Ayako                                |   0/19   | x | 1972  | 1973 | Seinen      |    | politics                                                                                 |
 | 2001 Nights                          |   0/19   | x | 1984  | 1986 | Seinen      |    |                                                                                          |
@@ -80,7 +79,6 @@
 | The Summit of the Gods               |   0/47   | x | 2000  | 2003 | Seinen      |    | mountain shit                                                                            |
 | The Faraway Paladin                  |   0/47   | v | 2017  | ---- | Shounen     |    | maybe whimsical                                                                          |
 | Atagoul Monogatari                   |   0/48   | x | 1976  | 1981 | Seinen      |    | fantasy                                                                                  |
-| Neun                                 |   0/49   | x | 2017  | 2020 | Seinen      |    |                                                                                          |
 | A Kiss and a White Lily              |   0/50   | x | 2013  | 2019 | Seinen      |    | gay gay homsexuela                                                                       |
 | Genshiken                            |   0/52   | x | 2002  | 2006 | Seinen      |    |                                                                                          |
 | Ragna Crimson                        |   0/53   | v | 2017  | ---- | Seinen      |    | maybe whimsical                                                                          |
@@ -164,7 +162,7 @@
 
 | Title                                 |    C    | O | Start | End  | Demographic | R  | Notes                                                                                               |
 |---------------------------------------|:-------:|:-:|-------|------|-------------|----|-----------------------------------------------------------------------------------------------------|
-| Hunter x Hunter                       | 393/393 | v | 1998  | ---- | Shounen     | VG | WR, chapter 318 is the most beautiful thing ever, good panelling, art eh to 250, wordy, :sob:       |
+| Hunter x Hunter                       | 397/397 | v | 1998  | ---- | Shounen     | VG | WR, chapter 318 is the most beautiful thing ever, good panelling, art eh to 250, wordy, :sob:       |
 | JoJo Part 7: Steel Ball Run           |   95    | x | 2004  | 2011 | Seinen      | VG | WR, gyro enjoyer, actually good plot, great stands, kinda wacky ending, funny valentine is epic     |
 | Dungeon Meshi                         |  80/87  | v | 2014  | ---- | Seinen      | VG | WR, hilarious, great characters, amazing worldbuilding, great writing, perfect foreshadowing        |
 | Ikigami                               |   60    | x | 2005  | 2012 | Seinen      | VG | literally 1984, not a big fan of the last volume but until then it was amazing and perfect          |
@@ -184,17 +182,17 @@
 | My Lesbian Experience With Loneliness |    5    | x | 2016  | 2016 | Seinen      | PG | rly maeks u think, relatable, wholsome-ish, like a more happier ending no longer human              |
 | MW                                    |   26    | x | 1976  | 1978 | Seinen      | PG | american psycho, sussy moments were ehhhh, consequences of catholicism, VG pacing & length          |
 | Starving Anonymous                    |   62    | x | 2014  | 2018 | Seinen      | PG | +, god is actually an alien cricket, much philosphical :nerd:, actually a good horror/psychological |
-| The Girl From The Other Side          |   53    | x | 2015  | 2021 | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing           |
-| Castle of The Dragon                  |   29    | x | 2004  | 2004 | Seinen      | PG | bizarre as fuck, what am i even reading, good time travel story??, cool art,                        |
-| JoJo Part 2: Battle Tendency          |   69    | x | 1987  | 1989 | Shounen     | PG | antifa, wamuu is so based, art is muy nice, panelling is kinda eh, good pacing                      |
 | Hirayasumi                            |  35/35  | v | 2021  | ---- | Seinen      | PG | cute, wholesum, nice art, he jus like me fr, skip to loafer esque, live in the moment               |
+| Castle of The Dragon                  |   29    | x | 2004  | 2004 | Seinen      | PG | bizarre as fuck, what am i even reading, good time travel story??, cool art,                        |
+| The Girl From The Other Side          |   53    | x | 2015  | 2021 | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing           |
+| JoJo Part 2: Battle Tendency          |   69    | x | 1987  | 1989 | Shounen     | PG | antifa, wamuu is so based, art is muy nice, panelling is kinda eh, good pacing                      |
 | Hana Wants to Bear Fruit!             |   12    | x | 2019  | 2020 | Josei       | PG | mc has a working brain and isn't a complete simp which is fun, the plant metaphor thingy is cool    |
 | My Little Noir                        |    1    | x | 2011  | 2011 | Seinen      | PG | beautiful art, beautiful panelling, cute, kamome shirahama                                          |
 | Sneewittchen: Geschichten nach Grimm  |   12    | x | 2006  | 2006 | Seinen      | PG | mouse bird and sausage & rapunzel & death of hen & changeling are really good                       |
 | Sakamoto Days                         |  62/89  | v | 2020  | ---- | Shounen     | PG | funny, spy x family x hunter x hunter                                                               |
-| Cooking in Another World Isekai       | 52/52.2 | v | 2017  | ---- | Shounen     | PG | whimsical, sui <3, dora-chan <3, dragon fanatic <3, mc syndrome but eh, funny                       |
 | Hello, Melanholic!                    |   18    | x | 2019  | 2020 | Shoujo-ai   | PG | wholesum, really interesting variety of characters for such a short series                          |
 | Slime Isekai                          |  96/98  | v | 2015  | ---- | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy               |
+| Cooking in Another World Isekai       | 52/52.2 | v | 2017  | ---- | Shounen     | PG | whimsical, sui <3, dora-chan <3, dragon fanatic <3, mc syndrome but eh, funny                       |
 | Giant Spider and Me                   |   14    | x | 2016  | 2018 | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                     |
 | Liar Game                             |   201   | x | 2005  | 2015 | Seinen      | PG | a way better kaiji, really, meh art, hitler part is weird, fun ending and message ig                |
 | Jujutsu Kaisen                        | 177/199 | v | 2018  | ---- | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a power system, worse HxH            |
@@ -202,13 +200,13 @@
 | Attack On Titan                       |   139   | x | 2009  | 2021 | Shounen     | PG | ending was pretty fucking shit, poliktikal and philosophical, great worldbuilding                   |
 | All You Need Is Kill                  |   17    | x | 2014  | 2014 | Seinen      | PG | really fun concept, incremental game, ending was nice, mimics are so cool                           |
 | Gambling Heathen Kaiji                |   134   | x | 2000  | 2004 | Seinen      | PG | stop jebaiting me ffs, panelling and art quality as a whole are not great, suspenseful              |
-| Komi Can't Communicate                | 346/373 | v | 2016  | ---- | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
-| Spy x Family                          |  61/68  | v | 2019  | ---- | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
-| Call of the Night                     | 117/143 | v | 2019  | ---- | Shounen     | PG | +, deep but not pretentious, sussy, good translation, fun and holsum, wanna skip school             |
 | Kengan Asura                          |   236   | x | 2012  | 2018 | Shounen     | PG | ++, inaba cool, fun battles, setsuna shit, needs a magic system, eh art, eh ending                  |
+| Komi Can't Communicate                | 346/373 | v | 2016  | ---- | Shounen     | PG | cute and relatable, fanservice kinda eh, repetitive, kometani <3, little faces are <3, just hjshjh  |
 | Paperakyu                             |  66/66  | x | 2011  | 2020 | Seinen      | PG | translation hiatus, furry dudes are neat, suspenseful at times, art is "unique"                     |
 | Ajin - Demi Human                     |   86    | x | 2012  | 2021 | Seinen      | PG | jojo x tokyo ghoul, creative battles, unique art, smoker guy and sato are cool, wack ending         |
 | Tomie                                 |   20    | x | 1987  | 1999 | Shoujo      | PG | great concept, Painter, Hair, Little Finger, Moromi are really good stories, satisfying             |
+| Call of the Night                     | 117/143 | v | 2019  | ---- | Shounen     | PG | +, deep but not pretentious, sussy, good translation, fun and holsum, wanna skip school             |
+| Spy x Family                          |  61/68  | v | 2019  | ---- | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                         |
 | Stargazing Dog                        |    5    | x | 2008  | 2009 | Seinen      | PG | depressing and wholesome at the same time, unique art                                               |
 | My Broken Mariko                      |   4.5   | x | 2019  | 2019 | Josei       | PG | would be better with backstory at the start, smoking is hot, sad                                    |
 | Yu Yu Hakusho                         |   175   | x | 1990  | 1994 | Shounen     | GO | very cheesy and boring but enjoyable, nice seeing the things taken from it and put in HxH           |
@@ -216,7 +214,8 @@
 | Dai Dark                              |  28/32  | v | 2019  | ---- | Shounen     | GO | ++, sick art, pika guy is super annoying, cool worldbuilding, gender neutral is neat, kinda boring  |
 | 80's Video Trip                       |    1    | x | 2019  | 2019 | Seinen      | GO | really pretty and beautiful art, deep, wholesum, could be a bit longer                              |
 | JoJo Part 6: Stone Ocean              |   158   | x | 1999  | 2003 | Shounen     | GO | what?, too horny in the beginning, awful ending, cool stands, very very monster of the week, ff <3  |
-| Takopi's Original Sin                 |   16    | x | 2021  | 2022 | Shounen     | GO | depression, didn't really get the ending but happy ending yay ig?, ppl not bnw is neat              |
+| Takopi's Original Sin                 |   16    | x | 2021  | 2022 | Shounen     | GO | depression, didn't really get the ending but happy ending yay ig?, ppl not being bnw is neat        |
+| Goodbye Eri                           |    1    | x | 2022  | 2022 | Seinen      | GO | fun, cool ending                                                                                    |
 | Our Wonderful Days                    |   18    | x | 2017  | 2019 | Shoujo-ai   | GO | wholesome and cute                                                                                  |
 | Golem Hearts                          |   15    | x | 2017  | 2018 | Shounen     | GO | fun concept, almost whimsical, wish it wasn't axed, nice art                                        |
 | Sanda                                 |  13/13  | v | 2021  | ---- | Shounen     | GO | fun, translation hiatus hnghgn                                                                      |
@@ -226,6 +225,7 @@
 | A Sign of Affection                   |  29/29  | v | 2019  | ---- | Shoujo      | GO | +, deaf shoujo, linesinmotion, wholesum                                                             |
 | Ito Junji's Cat Diary                 |   10    | x | 2007  | 2008 | Seinen      | GO | very fun, horror art/writing style on slice of life is hilarious                                    |
 | Onward Towards Our Noble Deaths       |    1    | x | 1973  | 1973 | Seinen      | GO | depressing, i love selling my body to the state for literally nothing                               |
+| Bibliomania                           |   12    | x | 2016  | 2018 | Seinen      | GO | not really scary, great art and cool concept, rushed and infodump endging                           |
 | JoJo Part 1: Phantom Blood            |   44    | x | 1986  | 1987 | Shounen     | GO | kinda bland but i dont hate it                                                                      |
 | Three Days of Happiness               |   16    | x | 2016  | 2017 | Shounen     | GO | dEeP, good take on the value of a life, life isn't black and white, absurdist-ish                   |
 | The Enigma of Amigara Fault           |    1    | x | 2000  | 2000 | Seinen      | GO | claustrophoby,                                                                                      |
@@ -234,6 +234,7 @@
 | Cooking in Another World Isekai: Sui  |  26/26  | v | 2018  | ---- | Shounen     | GO | more slice of lifey, wack translation, wholsum                                                      |
 | Boys Run The Riot                     |   37    | x | 2020  | 2020 | Seinen      | GO | kinda wholesome, eh ending                                                                          |
 | Uzumaki                               |   20    | x | 1998  | 1999 | Seinen      | GO | good art, creepy in a good way, furnace chapters were the best, sometimes too weird                 |
+| Deus                                  |   1/1   | v | 2022  | ---- | Seinen      | GO | good art, cool concept, way too early to tell and ill probably forget about it                      |
 | Fort of Apocalypse                    |   46    | x | 2011  | 2015 | Shounen     | GO | starts out generic but gets better afterwards, too gorey at times, philosophy nerd, plot armour     |
 | Candy & Cigarettes                    |  27/41  | x | 2017  | 2021 | Seinen      | GO | the bad guy is drippy, fun concept, weird idea of muricuns                                          |
 | Crazy Food Truck                      |  7/16   | x | 2020  | 2021 | Seinen      | GO | why the fanservice though, golden lefty snails are cool                                             |
@@ -242,6 +243,7 @@
 | Tokyo Ghoul Jack                      |    7    | x | 2013  | 2013 | Seinen      | GO | colours were pretty, story was okay i guess                                                         |
 | Ruri Dragon                           |   6/6   | H | 2022  | ---- | Shounen     | GO | relaxingly nonchalant, not funny when it's trying to be                                             |
 | Asteroid                              |   11    | x | 1989  | 1991 | Seinen      | EH | trippy, amazing art, read only for the art, didn't really get the "deepness"                        |
+| Yomotsu Hegui                         |   9/9   | v | 2021  | ---- | Seinen      | EH | a better jagaaaan which is a worse parasyte, edgy, boring                                           |
 | Once Again in Slow Motion             |   64    | x | 2016  | 2018 | Seinen      | EH | started out really cheesy but improved, kinda a big mess but it was okay                            |
 | Kengan Omega                          | 151/177 | v | 2019  | ---- | Shounen     | EH | ++, don't really care about the "plot", omega is kinda ass                                          |
 | Mashle                                | 96/126  | v | 2020  | ---- | Shounen     | EH | +, opmy/moby, repetitive humour, eh magic system, unfunny                                           |
@@ -271,7 +273,7 @@
 | Oyasumi Punpun                        |   147   | x | 2007  | 2013 | Seinen      | EH | ++, too horny, pegasus (early) & mangaka were cool, kinda sad ig, mc design is unique & nice        |
 | Jun and Kaoru                         |   16    | x | 2018  | 2021 | Shounen     | EH | nothing really interesting, was good vibes i guess??                                                |
 | Oh! Men!                              |  26.5   | x | 2017  | 2017 | Josei       | SH | boring as fuck, full colour                                                                         |
-| Boy Meets Maria                       |    6    | x | 2017  | 2018 | Shounen-ai  | SH | just ew, horrible childish mc,                                                                      |
+| Boy Meets Maria                       |    6    | x | 2017  | 2018 | Shounen-ai  | SH | just ew, horrible childish mc                                                                       |
 | Gon                                   |   24    | x | 1992  | 2002 | Seinen      | SH | shit scans, art is way too detailed for my liking, this is for little kids                          |
 | Jagaaaaaan                            | 156/163 | x | 2017  | 2021 | Seinen      | SH | ++, parasyte x tg x csm, too horny&rapey, asspully, going nowhere, mc motivation has no sense, edgy |
 | Record of Ragnarok                    |  59/69  | v | 2017  | ---- | Seinen      | SH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully         |
@@ -372,32 +374,33 @@
 
 ## Finished Anime Movies
 
-| Title                            | R  | Notes                                                                                                          |
-|----------------------------------|----|----------------------------------------------------------------------------------------------------------------|
-| The Night is Short, Walk on Girl | VG | trippy, good music, koiversion therapy, cool all books are connected quote, cool artstyle, poignant :nerd:     |
-| My Neighbour Totoro              | VG | cute and wholesome, wanna live there                                                                           |
-| Kiki's Delivery Service          | PG | ++, cute art, deepression, kiki should've realised she doesn't need trombo and be happy, art block             |
-| The Garden of Words              | PG | sorta creepy, okay ending, great animation, appreaciate the shortness but more conversations would be nice     |
-| The Boy and The Beast            | PG | abandoned baby trope, rly maeks u tink, cheesy, bear house pretty, plot armoury, unexplained magic system      |
-| Earwig and the Witch             | PG | animation was eh, ozzy??, mandrake is sick, very fun, good pacing, girlboss manipulative mc, eh open end       |
-| Spirited Away                    | PG | pig scene kinda spoop, isekai :pensive:, very pretty and cute, don't really care about the plot that much      |
-| When Marnie Was There            | GO | hc about trans mc & reliving stories told by gran about her grandpa, anti-fem clothes, weird, good art         |
-| Mary and the Witch's Flower      | GO | 2times, cute and whimsical, great animation, eh plot, girlobossing af                                          |
-| Laputa: Castle in the Sky        | GO | great worldbuilding, pedoy, not grounded, lots of plot armour, golem is really cute, remove all but the island |
-| Princess Mononoke                | GO | little white ghost thingies wre cool, neat animation, dont really care about the conflict, sorta whimsical     |
-| Howl's Moving Castle             | EH | boring, forgetable, nice fantasy creatures, explanation & backstory where, bad pacing, good art                |
-| Ponyo                            | EH | boring, what even was happening, good animation as always, boring villain (?)                                  |
-| Porco Rosso                      | EH | +, boring, sexist, no explanation, just stop it please                                                         |
-| The Cat Returns                  | EH | boring, weird, just eh asf, what even happened                                                                 |
-| Arrietty                         | SH | boring, same as every other little people movie, literally nothing happened, art carries, creepy mouth scene   |
-| Tales From Earthsea              | SH | boring charcaters, instant development, no explanation & lore, time passes weirdly, ppl teleport, predictable  |
-| From Up on Poppy Hill            | SH | extremely boring, ok concept but awful execution, shit pacing, good music, senseless progression, unrealistic  |
-| Akira                            | SH | not grounded, boring as fuck, art makes me so uncomfy, impressive art quality for its time but it's not enough |
-| Penguin Highway                  | SH | kid crushing on the lady is creepy and unecessary, bad translation, stupid concept, boring & forgettable       |
-| The Empire of Corpses            | SH | awful pacing & characters, too much info, makes no sense, ok concept, don't care about geopolitics, robots???  |
-| Children Who Chase Lost Voices   | SH | not grounded, no timeframe, mc is irrelevant to the plot, boring, awful pacing, like 3 different plotlines??   |
-| Perfect Blue                     | SH | made no sense, progressively worse, fat=evil, mentally ill=serial killer, cared only abt art after sa scene    |
-| Paprika                          | SH | made no sense, fat = evil, rape, bad art, too many plotlines, boring, awful pacing, physical pain and gagging  |
+| Title                            | R  | Notes                                                                                                           |
+|----------------------------------|----|-----------------------------------------------------------------------------------------------------------------|
+| The Night is Short, Walk on Girl | VG | trippy, good music, koiversion therapy, cool all books are connected quote, cool artstyle, poignant :nerd:      |
+| My Neighbour Totoro              | VG | cute and wholesome, wanna live there                                                                            |
+| Kiki's Delivery Service          | PG | ++, cute art, deepression, kiki should've realised she doesn't need trombo and be happy, art block              |
+| The Garden of Words              | PG | sorta creepy, okay ending, great animation, appreaciate the shortness but more conversations would be nice      |
+| The Boy and The Beast            | PG | abandoned baby trope, rly maeks u tink, cheesy, bear house pretty, plot armoury, unexplained magic system       |
+| Earwig and the Witch             | PG | animation was eh, ozzy??, mandrake is sick, very fun, good pacing, girlboss manipulative mc, eh open end        |
+| Spirited Away                    | PG | pig scene kinda spoop, isekai :pensive:, very pretty and cute, don't really care about the plot that much       |
+| When Marnie Was There            | GO | hc about trans mc & reliving stories told by gran about her grandpa, anti-fem clothes, weird, good art          |
+| Mary and the Witch's Flower      | GO | 2times, cute and whimsical, great animation, eh plot, girlobossing af                                           |
+| Laputa: Castle in the Sky        | GO | great worldbuilding, pedoy, not grounded, lots of plot armour, golem is really cute, remove all but the island  |
+| Princess Mononoke                | GO | little white ghost thingies wre cool, neat animation, dont really care about the conflict, sorta whimsical      |
+| Magnet Rose                      | GO | pretty, didn't really get it or whatever, dying and rebirthing flower is cool, self playing blood piano is cool |
+| Howl's Moving Castle             | EH | boring, forgetable, nice fantasy creatures, explanation & backstory where, bad pacing, good art                 |
+| Ponyo                            | EH | boring, what even was happening, good animation as always, boring villain (?)                                   |
+| Porco Rosso                      | EH | +, boring, sexist, no explanation, just stop it please                                                          |
+| The Cat Returns                  | EH | boring, weird, just eh asf, what even happened                                                                  |
+| Arrietty                         | SH | boring, same as every other little people movie, literally nothing happened, art carries, creepy mouth scene    |
+| Tales From Earthsea              | SH | boring charcaters, instant development, no explanation & lore, time passes weirdly, ppl teleport, predictable   |
+| From Up on Poppy Hill            | SH | extremely boring, ok concept but awful execution, shit pacing, good music, senseless progression, unrealistic   |
+| Akira                            | SH | not grounded, boring as fuck, art makes me so uncomfy, impressive art quality for its time but it's not enough  |
+| Penguin Highway                  | SH | kid crushing on the lady is creepy and unecessary, bad translation, stupid concept, boring & forgettable        |
+| The Empire of Corpses            | SH | awful pacing & characters, too much info, makes no sense, ok concept, don't care about geopolitics, robots???   |
+| Children Who Chase Lost Voices   | SH | not grounded, no timeframe, mc is irrelevant to the plot, boring, awful pacing, like 3 different plotlines??    |
+| Perfect Blue                     | SH | made no sense, progressively worse, fat=evil, mentally ill=serial killer, cared only abt art after sa scene     |
+| Paprika                          | SH | made no sense, fat = evil, rape, bad art, too many plotlines, boring, awful pacing, physical pain and gagging   |
 
 ## Anime Movie quotes
 
