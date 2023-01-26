@@ -3,7 +3,7 @@
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
 | Horimiya                             |  74/142  | x | 2011  | 2021 | Shounen     | EH | kinda boring at times, not really original in any way                                    |
-| Kubo Won't Let Me Be Invisible       |  32/137  | v | 2019  | ---- | Seinen      |    | no chance this is seinen bro what the fuuuuck                                            |
+| Kubo Won't Let Me Be Invisible       |  32/137  | v | 2019  | ---- | Shounen     |    | so childish                                                                              |
 | Nana                                 |   2/84   | H | 2000  | ---- | Shoujo      |    | why so much text, ugly                                                                   |
 | Dorohedoro                           |  36/167  | x | 2000  | 2018 | Seinen      |    | +, art is too detailed and messy for my liking                                           |
 | Fruits Basket                        | 0/136.5  | x | 1998  | 2006 | Shoujo      |    | +, not a sports manga, psychological, surg rec                                           |
@@ -167,40 +167,40 @@
 | National Quiz                         |   44    | x | 1994  | 1995 | Seinen      | PG | cool art & panelling, fun concept, muy politics, more serious would be good, satisfying            |
 | Skip to Loafer                        |  38/48  | v | 2018  | ---- | Seinen      | PG | cutesy, rElAtAbLe, great characters and very exciting                                              |
 | Shinya Shokudou                       |  54/54  | H | 2006  | ---- | Seinen      | PG | wholesome, feelsgoodman, vibey, unique art style, explains a lot about japanese culture            |
-| Insomniacs After School               |  80/98  | v | 2019  | ---- | Seinen      | PG | +, cute and wholesome, art is hit or miss, ch79 event is very sudden, wacky-ish pacing             |
-| My Lesbian Experience With Loneliness |    5    | x | 2016  | 2016 | Seinen      | PG | rly maeks u think, relatable, wholsome-ish, like a more happier ending no longer human             |
 | MW                                    |   26    | x | 1976  | 1978 | Seinen      | PG | american psycho, sussy moments were ehhhh, consequences of catholicism, VG pacing & length         |
 | Houseki no Kuni                       |  99/99  | v | 2012  | ---- | Seinen      | PG | +, alx, beginning was evaesque but now is aotesque, sick worldbuilding, whimsical                  |
+| My Lesbian Experience With Loneliness |    5    | x | 2016  | 2016 | Seinen      | PG | rly maeks u think, relatable, wholsome-ish, like a more happier ending no longer human             |
 | Our Dreams at Dusk                    |   23    | x | 2015  | 2018 | Seinen      | PG | +, great use of art, deep, called it so many times, buddy read, :sob:                              |
 | Eniale & Dewiela                      |   15    | x | 2012  | 2015 | Seinen      | PG | devile lady arc is cool, amazing art & panelling as always with shirahama, gay????                 |
 | Hirayasumi                            |  35/41  | v | 2021  | ---- | Seinen      | PG | cute, wholesum, nice art, he jus like me fr, skip to loafer esque, live in the moment              |
+| Insomniacs After School               |  80/98  | v | 2019  | ---- | Seinen      | PG | +, cute and wholesome, art is hit or miss, ch79 event is very sudden, wacky-ish pacing             |
 | Starving Anonymous                    |   62    | x | 2014  | 2018 | Seinen      | PG | +, god is actually an alien cricket, much philosphical :nerd:, actually good horror/psychological  |
-| Tokyo Ghoul                           |   143   | x | 2011  | 2014 | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                      |
 | The Flowers of Evil                   |   57    | x | 2009  | 2014 | Shounen     | PG | +, he jus kinda like me fr, eva-esque but actually made sense, the vandalised room seemed so fun   |
 | Castle of The Dragon                  |   29    | x | 2004  | 2004 | Seinen      | PG | bizarre as fuck, what am i even reading, good time travel story??, cool art,                       |
-| The Girl From The Other Side          |   53    | x | 2015  | 2021 | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing          |
+| Tokyo Ghoul                           |   143   | x | 2011  | 2014 | Seinen      | PG | WR, Juuzou is amazing, great art, arima is annoying, sorta confusing at times                      |
 | Liar Game                             |   201   | x | 2005  | 2015 | Seinen      | PG | a way better kaiji, really, meh art, hitler part is weird, fun ending and message ig               |
-| You And I Are Polar Opposites         |  22/22  | v | 2022  | ---- | Shounen     | PG | +, so good, wholesome, great art, did not expect this to be shounen jump, taira just like me fr    |
+| The Girl From The Other Side          |   53    | x | 2015  | 2021 | Shounen     | PG | WR, whimsically/aoty, beautiful art, great concept, great symbolism, messed up, confusing          |
 | JoJo Part 2: Battle Tendency          |   69    | x | 1987  | 1989 | Shounen     | PG | antifa, wamuu is so based, art is muy nice, panelling is kinda eh, good pacing                     |
+| Sakamoto Days                         | 103/103 | v | 2020  | ---- | Shounen     | PG | funny, spy x family x hunter x hunter                                                              |
 | Hana Wants to Bear Fruit!             |   12    | x | 2019  | 2020 | Josei       | PG | mc has a working brain and isn't a complete simp which is fun, the plant metaphor thingy is cool   |
-| Sakamoto Days                         | 80/102  | v | 2020  | ---- | Shounen     | PG | funny, spy x family x hunter x hunter                                                              |
 | Hello, Melanholic!                    |   18    | x | 2019  | 2020 | Shoujo-ai   | PG | wholesum, really interesting variety of characters for such a short series                         |
 | My Little Noir                        |    1    | x | 2011  | 2011 | Seinen      | PG | beautiful art, beautiful panelling, cute, kamome shirahama                                         |
 | Sneewittchen: Geschichten nach Grimm  |   12    | x | 2006  | 2006 | Seinen      | PG | mouse bird and sausage & rapunzel & death of hen & changeling are really good                      |
 | Giant Spider and Me                   |   14    | x | 2016  | 2018 | Seinen      | PG | whimsical and cute, they/them for asa is neat, way too short, ending kinda wack                    |
 | Our Dining Table                      |    8    | x | 2015  | 2017 | Shounen-ai  | PG | wholesome and cute, swag without swagphobia is nice, tane-kun is adorable                          |
+| You And I Are Polar Opposites         |  22/22  | v | 2022  | ---- | Shounen     | PG | +, so good, wholesome, great art, did not expect this to be shounen jump, taira just like me fr    |
 | All You Need Is Kill                  |   17    | x | 2014  | 2014 | Seinen      | PG | really fun concept, incremental game, ending was nice, mimics are so cool                          |
 | Kengan Asura                          |   236   | x | 2012  | 2018 | Shounen     | PG | ++, inaba cool, fun battles, setsuna shit, needs a magic system, eh art, eh ending                 |
-| Jujutsu Kaisen                        | 177/210 | v | 2018  | ---- | Shounen     | PG | art kinda eh, cool characters, cool powers but there hardly is a cohesive power system, worse HxH  |
 | Attack On Titan                       |   139   | x | 2009  | 2021 | Shounen     | PG | ending was pretty fucking shit, poliktikal and philosophical, great worldbuilding                  |
 | Gambling Heathen Kaiji                |   134   | x | 2000  | 2004 | Seinen      | PG | stop jebaiting me ffs, panelling and art quality as a whole are not great, suspenseful             |
 | Paperakyu                             |  66/66  | x | 2011  | 2020 | Seinen      | PG | translation hiatus, furry dudes are neat, suspenseful at times, art is "unique"                    |
 | Ajin - Demi Human                     |   86    | x | 2012  | 2021 | Seinen      | PG | jojo x tokyo ghoul, creative battles, unique art, smoker guy and sato are cool, wack ending        |
 | Our Wonderful Days                    |   18    | x | 2017  | 2019 | Shoujo-ai   | PG | wholesome and cute                                                                                 |
 | Tomie                                 |   20    | x | 1987  | 1999 | Shoujo      | PG | great concept, Painter, Hair, Little Finger, Moromi are really good stories, satisfying            |
-| Call of the Night                     | 117/155 | v | 2019  | ---- | Shounen     | PG | +, deep but not pretentious, sussy, good translation, fun and holsum, wanna skip school            |
+| Call of the Night                     | 119/155 | v | 2019  | ---- | Shounen     | PG | +, "deep" but not pretentious, sussy, fun and holsum, wanna skip school                            |
 | Spy x Family                          |  74/74  | v | 2019  | ---- | Shounen     | PG | exciting, cute, funny, great art, bond is adorable, EPIC reaction faces >:O                        |
 | Slime Isekai                          | 96/103  | v | 2015  | ---- | Shounen     | PG | surprisingly good, bit rushed, muy politics, diablo & geld & weird skeleton <3, wordy              |
+| Jujutsu Kaisen                        | 177/210 | v | 2018  | ---- | Shounen     | PG | art kinda eh, cool powers but there hardly is a cohesive power system, worse HxH                   |
 | My Broken Mariko                      |   4.5   | x | 2019  | 2019 | Josei       | PG | would be better with backstory at the start, smoking is hot, sad                                   |
 | Stargazing Dog                        |    5    | x | 2008  | 2009 | Seinen      | PG | depressing and wholesome at the same time, unique art                                              |
 | Yu Yu Hakusho                         |   175   | x | 1990  | 1994 | Shounen     | GO | very cheesy and boring but enjoyable, nice seeing the things taken from it and put in HxH          |
@@ -214,9 +214,9 @@
 | Takopi's Original Sin                 |   16    | x | 2021  | 2022 | Shounen     | GO | depression, didn't really get the ending but happy ending yay ig?, ppl not being bnw is neat       |
 | Goodbye Eri                           |    1    | x | 2022  | 2022 | Seinen      | GO | fun, cool ending                                                                                   |
 | Golem Hearts                          |   15    | x | 2017  | 2018 | Shounen     | GO | fun concept, almost whimsical, wish it wasn't axed, nice art                                       |
+| Super no Ura de Yani Suu Hanashi      |  24/24  | v | 2022  | ---- | Seinen      | GO | smoking is hot, alt title: [behind the super market, smoking with you]                             |
 | Sanda                                 |  14/14  | v | 2021  | ---- | Shounen     | GO | fun, translation hiatus hnghgn                                                                     |
 | Dissolving Classroom                  |    5    | x | 2013  | 2014 | Josei       | GO | cool concept, very complete, last chapter felt off topic, stop apologising                         |
-| Super no Ura de Yani Suu Hanashi      |  24/24  | v | 2022  | ---- | Seinen      | GO | smoking is hot, alt title: [behind the super market, smoking with you]                             |
 | Heads                                 |   36    | x | 2002  | 2003 | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                 |
 | Lovesickness                          |   10    | x | 1996  | 1996 | Josei       | GO | great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                 |
 | Ito Junji's Cat Diary                 |   10    | x | 2007  | 2008 | Seinen      | GO | very fun, horror art/writing style on slice of life is hilarious                                   |
@@ -308,29 +308,29 @@
 |----------------------------------|:-------:|----|-------------------------------------------------------------------------------------------------|
 | Neon Genesis Evangelion          |   26    | VG | +, magi systems are sick, he jus like me fr fr fr rfrf rf rf rf rf rfr frf rf, beautiful        |
 | JoJo's Bizarre Adventures        | 155/164 | VG | the best shit posting, p1:go, p2:go, p3:pg, p4:vg, p5:pg                                        |
-| Bungou Stray Dogs                |   37    | VG | s4 when :sob:                                                                                   |
-| Death Note                       |   37    | VG | never heard of a gun :sob:                                                                      |
-| The Disastrous Life of Saiki K.  |   55    | VG | really funny, emotional, ending was good                                                        |
-| Hunter x Hunter                  |   148   | VG | hunter exam arc is so cozy :sob:                                                                |
+| Death Note                       |   37    | VG | never heard of a gun :sob:, music is really good                                                |
+| The Disastrous Life of Saiki K.  |   55    | VG | really funny, emotional, ending was good, editing is really nice                                |
 | Parasyte                         |   24    | VG | ++, seeing Izumi lose his humanity and Migi become more human is great :sob:                    |
-| Assassination Classroom          |   47    | VG | stupid yellow octopus :sob:                                                                     |
-| Attack on Titan                  |   76    | PG | really good worldbuilding, hopefully the ending isn't as bad as people say it is                |
-| Mob Psycho 100                   |   25    | PG | ++, too rushed, some things weren't explained                                                   |
+| Hunter x Hunter                  |   148   | VG | hunter exam arc is so cozy :sob:                                                                |
+| Assassination Classroom          |   47    | PG | stupid yellow octopus :sob:                                                                     |
+| Bungou Stray Dogs                |   37    | PG | s4 when :sob:                                                                                   |
 | Odd Taxi                         |   13    | PG | neat art style, cool twists, funny, fast paced and sth is always happening, waiting for sequel  |
-| Jujutsu Kaisen                   |   24    | PG | great animation, finally female characters that are good                                        |
+| Mob Psycho 100                   |   25    | PG | ++, too rushed, some things weren't explained                                                   |
 | Sk8 the Infinity                 |   12    | PG | queerbait smh                                                                                   |
 | Yuri on Ice                      |   12    | PG | lots of characters developed at the same time well                                              |
-| ERASED                           |   12    | PG | ++, kinda spooky with a trash ending                                                            |
+| Jujutsu Kaisen                   |   24    | GO | cool animation, just check manga notes idfk                                                     |
+| ERASED                           |   12    | GO | ++, kinda spooky with a trash ending                                                            |
+| Attack on Titan                  |   76    | GO | really good worldbuilding, hopefully the ending isn't as bad as people say it is                |
 | Wonder Egg Priority              |   13    | GO | dark :sob: but why did you fuck it up                                                           |
-| One Punch Man                    |   24    | GO | +, no plot but fun to watch when bored                                                          |
+| One Punch Man                    |   24    | EH | +, no plot but fun to watch when bored                                                          |
 | Kiznaiver                        |   12    | EH | boring mc, good concept, drawn out, nico & hisomu <3                                            |
 | My Dress-up Darling              |   12    | EH | totes adorbs, much better when it isn't ecchi, really good animation                            |
-| Demon Slayer                     |  35/44  | EH | overrated, art carries, campy, boring mc, generic asf, half of it is filler and drawn out       |
 | Charlotte                        |   13    | EH | ++, only good part was half of ep13, bad tone shifts & pacing, ok concept                       |
 | Spy x Family                     |   12    | EH | manga is way better, animation and voice acting are super dead, stop recapping                  |
 | Yona of the Dawn                 |   24    | EH | MC is used only for moving the plot along, tries to be too many things at once                  |
 | Kids on the Slope                |   12    | EH | + queerbait, nice music, don't care about it though, uncomfy art, boring                        |
 | The Promised Neverland           |   23    | EH | really put 3 arcs into 3 min slideshow huh                                                      |
+| Demon Slayer                     |  35/44  | SH | overrated, art carries, campy, boring mc, generic asf, half of it is filler and drawn out       |
 | Dr. Stone                        |   35    | SH | +, dr misogynistone & trash fans                                                                |
 | Fullmetal Alchemist: Brotherhood |   64    | SH | ++, tropey, bad humour, awful pacing, annoying mcs, stupid writing, okay ending, boring battles |
 
