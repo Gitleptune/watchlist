@@ -2,6 +2,7 @@
 
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
 |--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
+| My Summer of You                     |   3/11   | x |       |      | Shounen-ai  |    |                                                                                          |
 | Horimiya                             |  74/142  | x | 2011  | 2021 | Shounen     | EH | kinda boring at times, not really original in any way                                    |
 | Kubo Won't Let Me Be Invisible       |  32/137  | v | 2019  | ---- | Shounen     |    | so childish                                                                              |
 | Nana                                 |   2/84   | H | 2000  | ---- | Shoujo      |    | why so much text, ugly                                                                   |
@@ -90,7 +91,6 @@
 | Flying Witch                         |   0/71   | v | 2012  | ---- | Shounen     |    | /azu/                                                                                    |
 | Azumanga Daioh                       |   0/69   | x | 1999  | 2002 | Shounen     |    | /azu/                                                                                    |
 | Honey and Clover                     |   0/71   | x | 2000  | 2006 | Josei       |    |                                                                                          |
-| Tougen Anki                          |  0/116   | v | 2020  | ---- | Shounen     |    | +                                                                                        |
 | Moriarty the Patriot                 |   0/76   | v | 2016  | ---- | Shounen     |    |                                                                                          |
 | Kingdom                              |  66/722  | v | 2006  | ---- | Seinen      |    |                                                                                          |
 | Neko no Otera no Chion-san           |   0/79   | x | 2016  | 2018 | Seinen      |    | sol                                                                                      |
@@ -167,7 +167,7 @@
 | Skip to Loafer                        |  38/48  | v | 2018  | ---- | Seinen      | PG | cutesy, rElAtAbLe, great characters and very exciting                                              |
 | Shinya Shokudou                       |  54/54  | H | 2006  | ---- | Seinen      | PG | wholesome, feelsgoodman, vibey, unique art style, explains a lot about japanese culture            |
 | MW                                    |   26    | x | 1976  | 1978 | Seinen      | PG | american psycho, sussy moments were ehhhh, consequences of catholicism, VG pacing & length         |
-| Houseki no Kuni                       |  99/99  | v | 2012  | ---- | Seinen      | PG | +, alx, beginning was evaesque but now is aotesque, sick worldbuilding, whimsical                  |
+| Houseki no Kuni                       |  99/99  | v | 2012  | ---- | Seinen      | PG | +, evasque -> aotesque, sick worldbuilding, whimsical, immortality shit                            |
 | My Lesbian Experience With Loneliness |    5    | x | 2016  | 2016 | Seinen      | PG | rly maeks u think, relatable, wholsome-ish, like a more happier ending no longer human             |
 | Eniale & Dewiela                      |   15    | x | 2012  | 2015 | Seinen      | PG | devile lady arc is cool, amazing art & panelling as always with shirahama, gay????                 |
 | Hirayasumi                            |  35/41  | v | 2021  | ---- | Seinen      | PG | cute, wholesum, nice art, he jus like me fr, skip to loafer esque, live in the moment              |
@@ -220,7 +220,6 @@
 | Heads                                 |   36    | x | 2002  | 2003 | Seinen      | GO | intersting, well paced, wasn't super unique or anything, kinda bullshitty at times                 |
 | Lovesickness                          |   10    | x | 1996  | 1996 | Josei       | GO | great to chapter 5, chapter 6-10 felt off topic, guilt factor neat                                 |
 | Ito Junji's Cat Diary                 |   10    | x | 2007  | 2008 | Seinen      | GO | very fun, horror art/writing style on slice of life is hilarious                                   |
-| Onward Towards Our Noble Deaths       |    1    | x | 1973  | 1973 | Seinen      | GO | depressing, i love selling my body to the state for literally nothing                              |
 | Bibliomania                           |   12    | x | 2016  | 2018 | Seinen      | GO | not really scary, great art and cool concept, rushed and infodump endging                          |
 | JoJo Part 1: Phantom Blood            |   44    | x | 1986  | 1987 | Shounen     | GO | kinda bland but i dont hate it                                                                     |
 | Three Days of Happiness               |   16    | x | 2016  | 2017 | Shounen     | GO | dEeP, good take on the value of a life, life isn't black and white, absurdist-ish                  |
@@ -229,6 +228,7 @@
 | Cooking in Another World Isekai: Sui  |  26/26  | v | 2018  | ---- | Shounen     | GO | more slice of lifey, wack translation, wholsum                                                     |
 | Boys Run The Riot                     |   37    | x | 2020  | 2020 | Seinen      | GO | kinda wholesome, eh ending                                                                         |
 | How Do We Relationship                |  63/63  | v | 2018  | ---- | Shoujo-ai   | GO | cool drama but it got kinda ehhh messy at the end                                                  |
+| Onward Towards Our Noble Deaths       |    1    | x | 1973  | 1973 | Seinen      | GO | depressing, i love selling my body to the state for literally nothing                              |
 | Uzumaki                               |   20    | x | 1998  | 1999 | Seinen      | GO | good art, creepy in a good way, furnace chapters were the best, sometimes too weird                |
 | Deus                                  |   1/1   | v | 2022  | ---- | Seinen      | GO | good art, cool concept, way too early to tell and ill probably forget about it                     |
 | Fort of Apocalypse                    |   46    | x | 2011  | 2015 | Shounen     | GO | starts out generic but gets better afterwards, too gorey at times, philosophy nerd, plot armour    |
@@ -291,6 +291,7 @@
 
 | Title                      |   EP   | R  | Notes                                                                                            |
 |----------------------------|:------:|----|--------------------------------------------------------------------------------------------------|
+| Serial Experiments Lain    |  2/24  |    |                                                                                                  |
 | Sailor Moon                |  2/46  |    | beautiful animation :heart_eyes:                                                                 |
 | Call of The Night          |  5/12  |    | beautiful                                                                                        |
 | Pokemon: Indigo League     |  9/82  |    |                                                                                                  |
@@ -400,6 +401,7 @@
 | The Empire of Corpses            | SH | awful pacing & characters, too much info, makes no sense, ok concept, don't care about geopolitics, robots???      |
 | Children Who Chase Lost Voices   | SH | not grounded, no timeframe, mc is irrelevant to the plot, boring, awful pacing, like 3 different plotlines??       |
 | Perfect Blue                     | SH | made no sense, progressively worse, fat=evil, mentally ill=serial killer, cared only abt art after sa scene        |
+| 5 Centimeters Per Second         | SH | bland characters, shity storytelling, shit art, boring, not unique in any shape or form                            |
 | Paprika                          | SH | made no sense, fat = evil, rape, bad art, too many plotlines, boring, awful pacing, physical pain and gagging      |
 
 ## Anime Movie quotes
