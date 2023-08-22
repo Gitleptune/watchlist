@@ -289,6 +289,7 @@
 | Zom 100                               |  26/56  | v | 2018  | ---- | Seinen      | EH | +, boring, extremely childish, fanservice                                                          |
 | Bastard                               |   93    | x | 2014  | 2017 | Shounen     | EH | mid story but awful panneling, swear word censoring and unrealistic & cheesy moments               |
 | Blue Flag                             |   54    | x | 2017  | 2020 | Shounen     | EH | wordy, shit ending, bad representation, mami's character arc is amazing, static characters         |
+| Hideout                               |    9    | x | 2010  | 2010 | Seinen      | EH | edgy, not really interesting, kinda dumb overall                                                   |
 | A Silent Voice                        |   62    | x | 2013  | 2014 | Shounen     | EH | ehhhhh, conflicting message, ending was just boring                                                |
 | Densha Otoko: Ganbare Doku Otoko!     |   4/4   | H | 2005  | 2006 | Seinen      | EH | weird, 4chan romance who exactly wants it, scanlation hiatus                                       |
 | Dragon Ball                           |   194   | x | 1984  | 1988 | Shounen     | EH | awful & sussy fan service, boring battles, boring everything, super overrated                      |
@@ -303,6 +304,7 @@
 | Record of Ragnarok                    |  59/80  | v | 2017  | ---- | Seinen      | SH | neat concept but gets repetitive, buddha battle was good until asspull, drawn out, asspully        |
 | Tokyo Revengers                       | 245/278 | v | 2017  | ---- | Shounen     | SH | super drawn out, cheesy, asspull, G to SH, useless mc, bullshit logic, generic, overrated          |
 | The Drifting Classroom                |   42    | x | 1972  | 1974 | Shounen     | SH | ++, horror, cheesy, boring, lord of the flies but even fucking worse                               |
+| Dragon Head                           |   89    | x | 1994  | 1999 | Seinen      | SH | i hate the art so much, edgy, the plot armour is so thick, he really thought he did sth            |
 | Psyren                                |   145   | x | 2007  | 2010 | Shounen     | SH | ++, childish, not nen btw, time travel is shit, sussy art, plot armour, just fucking bad           |
 | Spirit in the Sky                     |    6    | x | 2002  | 2002 | Seinen      | SH | majority didn't make any sense, sand story was okay                                                |
 | Pumpkin Night                         |  69/69  | v | 2016  | ---- | Seinen      | SH | boring, why does it have fanservice, godawful translations                                         |
