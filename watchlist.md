@@ -1,7 +1,10 @@
 ## Not Finished Manga
 
 | Title                                |    C     | O | Start | End  | Demographic | R  | Notes                                                                                    |
-|--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------| | Toys Harmful but Unprohibited        |   0/4    | x | 2019  | 2019 | Seinen      |    |                                                                                          | | Spirit Circle                        |  0/45.5  | x | 2012  | 2016 | Seinen      |    | +                                                                                        | | No. 5                                |   0/37   | x | 2000  | 2005 | Seinen      |    | sci fi stories taiyo matsumoto supposedly good                                           |
+|--------------------------------------|:--------:|:-:|-------|------|-------------|----|------------------------------------------------------------------------------------------|
+| Toys Harmful but Unprohibited        |   0/4    | x | 2019  | 2019 | Seinen      |    |                                                                                          |
+| Spirit Circle                        |  0/45.5  | x | 2012  | 2016 | Seinen      |    | +                                                                                        |
+| No. 5                                |   0/37   | x | 2000  | 2005 | Seinen      |    | sci fi stories taiyo matsumoto supposedly good                                           |
 | Journey to the End of the World      |   0/11   | x | 2002  | 2003 | Seinen      |    |                                                                                          |
 | Train Lunch Solo Journey             |  0/150   | H | 2006  | 2012 | Seinen      |    | a-coded & food, translation hiatus                                                       |
 | Isaki of the Cub                     |   0/48   | x | 2007  | 2012 | Seinen      |    |                                                                                          |
